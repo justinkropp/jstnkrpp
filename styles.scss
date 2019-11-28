@@ -14,52 +14,42 @@ $pink: rgba(pink, 0.25);
 
 
 @font-face {
-  font-family: 'Scala';
-  src:  url('ScalaWeb.eot') format('eot'),
-        url('ScalaWeb.woff') format('woff');
-}
+  font-family: 'soehne';
+  src:  url('soehne-mono-test-buch.woff') format('woff');
+  }
 
 @font-face {
-  font-family: 'ScalaSc';
-  src:  url('ScalaScWeb.eot') format('eot'),
-        url('ScalaScWeb.woff') format('woff');
-}
-
-@font-face {
-  font-family: 'Scala-Bold';
-  src:  url('ScalaWeb-Bold.eot') format('eot'),
-        url('ScalaWeb-Bold.woff') format('woff');
-}
-
-@font-face {
-  font-family: 'ScalaSans';
-  src:  url('ScalaSansWebPro.eot') format('eot'),
-        url('ScalaSansWebPro.woff') format('woff');
-}
+  font-family: 'soehne-kraftig';
+  src:  url('soehne-mono-test-kraftig.woff') format('woff');
+  }
 
 // Type
 
 h1, h2, h3, h4 {
-  margin: 0;
+  margin: 0 0 1.5em 0;
+  font-family: 'soehne-kraftig';
+  font-size: .9rem;
   font-weight: 400;
-  font-size: 22px;
-  line-height: 1.5;
+  line-height: 1.75;
 }
 
 ul, ol {
-  margin: 0;
+  margin: 0 0 1.5em 0;
   padding: 0;
-  list-style: none;
+  font-size: .9rem;
+  line-height: 1.75;
+  list-style: square;
 }
 
 p, li, dl {
   margin: 0;
-  font-size: 22px;
-  line-height: 1.5;
 }
 
 p {
-  margin: 0 0 1em 0;
+  margin: 0 0 1.5em 0;
+  font-size: .9rem;
+  line-height: 1.75;
+  color: rgba(0, 0, 0, 0.70);
 }
 
 a {
@@ -68,13 +58,14 @@ a {
 }
 
 figure {
-  margin: 27px 0 56px 0;
+  margin: 0 0 1.5em 0;
   img {
     width: 100%;
-    margin: 0;
+    margin: 0 0 .5em 0;
   }
   figcaption {
-    margin: .5em 0 0 0;
+    font-size: .80em;
+    margin: 0;
     padding: 0;
     color: $gray;
   }
@@ -94,7 +85,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  font-family: 'ScalaSans';
+  font-family: 'soehne';
 }
 
 body {
@@ -108,138 +99,70 @@ body {
   display: flex;
   flex-direction: column;
   width: 100%;
-  padding: 2em;
+  height: 100%;
 }
 
 .container {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  padding: 112px 0;
+  height: 100%;
+  padding: 5em;
 }
 
 section {
-  width: 100%;
   max-width: 40em;
-  margin: 0 auto;
+  margin: 0;
 }
 
 header.masthead {
-  width: 100%;
   max-width: 40em;
-  margin: 0 auto 112px;
-  h1 a {
-    color: $black;
+  margin: 0 0 3em 0;
+  padding: 0 0 3em 0;
+  border-bottom: 2px solid rgba($black, 0.075);
+  h1 {
+    margin: 0 0 .5em 0;
+    font-family: 'soehne-kraftig';
   }
-}
-
-footer.footer {
-  display: block;
-  width: 100%;
-  max-width: 40em;
-  margin: 112px auto 0;
-  nav {
-    ul {
-      li {
-        margin: 0 0 16px 0;
-        &:last-child {
-          margin: 0;
-        }
-      }
-    }
+  p {
+    margin: 0;
   }
 }
 
 // Home
 
 .intro {
-  margin: 0 0 112px 0;
+  margin: 0 0 6em 0;
   h2 {
-    margin: 0 0 56px 0;
   }
   p {
   }
 }
 
 .post-index {
-  margin: 0 0 112px 0;
+  margin: 0;
+  list-style: none;
   li {
-    margin: 0 0 56px 0;
+    margin: 0 0 1.5em 0;
+    padding: 0 0 1.5em 0;
+    border-bottom: 1px solid rgba($black, 0.075);
     &:last-child {
       margin: 0;
+      border: none;
     }
-    h2 {
+    h2.title {
       margin: 0;
+      font-family: 'soehne-kraftig';
     }
-    p {
+    p.date {
+      margin: 0 0 .5em 0;
+    }
+    p.excerpt {
       margin: 0;
-      color: $black;
     }
   }
 }
 
 // Post
 
-.post {
-  margin: 0 0 112px 0;
-  border: 1px solid ink;
-  .post-title {
-    margin: 0 0 56px 0;
-  }
-  .post-intro {
-    margin: 0 0 112px 0;
-  }
-  h3 {
-    margin: 0 0 56px 0;
-  }
-  p {
-    margin: 0 0 56px 0;
-    &:last-child {
-      margin: 0;
-    }
-  }
-}
-
-// About
-
-.page {
-  margin: 0 0 112px 0;
-  h2 {
-    margin: 0 0 56px 0;
-  }
-  .page-intro {
-    margin: 0 0 112px 0;
-  }
-  h3 {
-    margin: 0 0 56px 0;
-  }
-  p {
-    margin: 0 0 56px 0;
-    &:last-child {
-      margin: 0;
-    }
-  }
-}
-
-// Resources
-
-.resources {
-  display: flex;
-  flex-direction: row;
-  margin: 0 0 112px 0;
-  &:last-child {
-  }
-  ol {
-    padding: 0 2em 0 0;
-    li {
-      margin: 0 0 27px 0;;
-      padding: 0;
-      h4 {
-        margin: 0;
-      }
-      p {
-        color: $gray;
-      }
-    }
-  }
+h2.post-title {
+  margin: 0;
+  font-family: 'soehne-kraftig';
 }

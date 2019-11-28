@@ -1,45 +1,44 @@
 @font-face {
-  font-family: 'Scala';
-  src: url("ScalaWeb.eot") format("eot"), url("ScalaWeb.woff") format("woff"); }
+  font-family: 'soehne';
+  src: url("soehne-mono-test-buch.woff") format("woff"); }
 @font-face {
-  font-family: 'ScalaSc';
-  src: url("ScalaScWeb.eot") format("eot"), url("ScalaScWeb.woff") format("woff"); }
-@font-face {
-  font-family: 'Scala-Bold';
-  src: url("ScalaWeb-Bold.eot") format("eot"), url("ScalaWeb-Bold.woff") format("woff"); }
-@font-face {
-  font-family: 'ScalaSans';
-  src: url("ScalaSansWebPro.eot") format("eot"), url("ScalaSansWebPro.woff") format("woff"); }
+  font-family: 'soehne-kraftig';
+  src: url("soehne-mono-test-kraftig.woff") format("woff"); }
 h1, h2, h3, h4 {
-  margin: 0;
+  margin: 0 0 1.5em 0;
+  font-family: 'soehne-kraftig';
+  font-size: .9rem;
   font-weight: 400;
-  font-size: 22px;
-  line-height: 1.5; }
+  line-height: 1.75; }
 
 ul, ol {
-  margin: 0;
+  margin: 0 0 1.5em 0;
   padding: 0;
-  list-style: none; }
+  font-size: .9rem;
+  line-height: 1.75;
+  list-style: square; }
 
 p, li, dl {
-  margin: 0;
-  font-size: 22px;
-  line-height: 1.5; }
+  margin: 0; }
 
 p {
-  margin: 0 0 1em 0; }
+  margin: 0 0 1.5em 0;
+  font-size: .9rem;
+  line-height: 1.75;
+  color: rgba(0, 0, 0, 0.7); }
 
 a {
   text-decoration: none;
   color: black; }
 
 figure {
-  margin: 27px 0 56px 0; }
+  margin: 0 0 1.5em 0; }
   figure img {
     width: 100%;
-    margin: 0; }
+    margin: 0 0 .5em 0; }
   figure figcaption {
-    margin: .5em 0 0 0;
+    font-size: .80em;
+    margin: 0;
     padding: 0;
     color: rgba(0, 0, 0, 0.5); }
 
@@ -54,7 +53,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  font-family: 'ScalaSans'; }
+  font-family: 'soehne'; }
 
 body {
   -webkit-text-size-adjust: 100%;
@@ -64,90 +63,48 @@ body {
   display: flex;
   flex-direction: column;
   width: 100%;
-  padding: 2em; }
+  height: 100%; }
 
 .container {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  padding: 112px 0; }
+  height: 100%;
+  padding: 5em; }
 
 section {
-  width: 100%;
   max-width: 40em;
-  margin: 0 auto; }
+  margin: 0; }
 
 header.masthead {
-  width: 100%;
   max-width: 40em;
-  margin: 0 auto 112px; }
-  header.masthead h1 a {
-    color: black; }
-
-footer.footer {
-  display: block;
-  width: 100%;
-  max-width: 40em;
-  margin: 112px auto 0; }
-  footer.footer nav ul li {
-    margin: 0 0 16px 0; }
-    footer.footer nav ul li:last-child {
-      margin: 0; }
+  margin: 0 0 3em 0;
+  padding: 0 0 3em 0;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.075); }
+  header.masthead h1 {
+    margin: 0 0 .5em 0;
+    font-family: 'soehne-kraftig'; }
+  header.masthead p {
+    margin: 0; }
 
 .intro {
-  margin: 0 0 112px 0; }
-  .intro h2 {
-    margin: 0 0 56px 0; }
+  margin: 0 0 6em 0; }
 
 .post-index {
-  margin: 0 0 112px 0; }
+  margin: 0;
+  list-style: none; }
   .post-index li {
-    margin: 0 0 56px 0; }
+    margin: 0 0 1.5em 0;
+    padding: 0 0 1.5em 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.075); }
     .post-index li:last-child {
-      margin: 0; }
-    .post-index li h2 {
-      margin: 0; }
-    .post-index li p {
       margin: 0;
-      color: black; }
-
-.post {
-  margin: 0 0 112px 0;
-  border: 1px solid ink; }
-  .post .post-title {
-    margin: 0 0 56px 0; }
-  .post .post-intro {
-    margin: 0 0 112px 0; }
-  .post h3 {
-    margin: 0 0 56px 0; }
-  .post p {
-    margin: 0 0 56px 0; }
-    .post p:last-child {
+      border: none; }
+    .post-index li h2.title {
+      margin: 0;
+      font-family: 'soehne-kraftig'; }
+    .post-index li p.date {
+      margin: 0 0 .5em 0; }
+    .post-index li p.excerpt {
       margin: 0; }
 
-.page {
-  margin: 0 0 112px 0; }
-  .page h2 {
-    margin: 0 0 56px 0; }
-  .page .page-intro {
-    margin: 0 0 112px 0; }
-  .page h3 {
-    margin: 0 0 56px 0; }
-  .page p {
-    margin: 0 0 56px 0; }
-    .page p:last-child {
-      margin: 0; }
-
-.resources {
-  display: flex;
-  flex-direction: row;
-  margin: 0 0 112px 0; }
-  .resources ol {
-    padding: 0 2em 0 0; }
-    .resources ol li {
-      margin: 0 0 27px 0;
-      padding: 0; }
-      .resources ol li h4 {
-        margin: 0; }
-      .resources ol li p {
-        color: rgba(0, 0, 0, 0.5); }
+h2.post-title {
+  margin: 0;
+  font-family: 'soehne-kraftig'; }
