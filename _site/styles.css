@@ -84,6 +84,13 @@ header.masthead {
   header.masthead p {
     margin: 0; }
 
+p.redesign {
+  padding: .75em;
+  color: white;
+  text-align: center;
+  font-size: 0.75rem;
+  background: black; }
+
 .intro {
   margin: 0 0 6em 0; }
 
