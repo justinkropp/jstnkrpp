@@ -10,24 +10,40 @@ $large-breakpoint: 38em;
 $black: rgba(0, 0, 0, 1.0);
 $gray: rgba(0, 0, 0, 0.5);
 $white: rgba(255, 255, 255, 1.0);
+$pink: rgba(pink, 0.25);
+
 
 @font-face {
-  font-family: 'UntitledSans-Regular';
-  src:  url('UntitledSansTest-Regular.woff') format('woff');
+  font-family: 'Scala';
+  src:  url('ScalaWeb.eot') format('eot'),
+        url('ScalaWeb.woff') format('woff');
 }
 
 @font-face {
-  font-family: 'UntitledSans-Light';
-  src:  url('UntitledSansTest-Light.woff') format('woff');
+  font-family: 'ScalaSc';
+  src:  url('ScalaScWeb.eot') format('eot'),
+        url('ScalaScWeb.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Scala-Bold';
+  src:  url('ScalaWeb-Bold.eot') format('eot'),
+        url('ScalaWeb-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'ScalaSans';
+  src:  url('ScalaSansWebPro.eot') format('eot'),
+        url('ScalaSansWebPro.woff') format('woff');
 }
 
 // Type
 
 h1, h2, h3, h4 {
   margin: 0;
-  font-family: 'UntitledSans-Light';
-  font-size: 18px;
-  line-height: 32px;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.5;
 }
 
 ul, ol {
@@ -38,8 +54,8 @@ ul, ol {
 
 p, li, dl {
   margin: 0;
-  font-size: 18px;
-  line-height: 32px;
+  font-size: 22px;
+  line-height: 1.5;
 }
 
 p {
@@ -52,7 +68,7 @@ a {
 }
 
 figure {
-  margin: 27px 0;
+  margin: 27px 0 56px 0;
   img {
     width: 100%;
     margin: 0;
@@ -78,7 +94,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  font-family: 'UntitledSans-Regular', Helvetica;
+  font-family: 'ScalaSans';
 }
 
 body {
@@ -89,108 +105,141 @@ body {
 // Page Composition
 
 .wrapper {
-  max-width: 50em;
-  width: 90%;
-  margin: auto;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 2em;
 }
 
 .container {
   display: flex;
   flex-direction: column;
   width: 100%;
+  padding: 112px 0;
 }
 
 section {
   width: 100%;
+  max-width: 40em;
+  margin: 0 auto;
 }
 
-.header {
+header.masthead {
   width: 100%;
-  margin: 112px 0;
+  max-width: 40em;
+  margin: 0 auto 112px;
+  h1 a {
+    color: $black;
+  }
 }
 
-.footer {
-  margin: 0 0 112px 0;
+footer.footer {
+  display: block;
   width: 100%;
+  max-width: 40em;
+  margin: 112px auto 0;
   nav {
-    ul li {
-      margin: 0 0 16px 0;
-      &:last-child {
-        margin: 0;
-      }
-      a {
-        padding-bottom: 2px;
-        border-bottom: 2px solid rgba($black, 0.0);
-        transition: all 250ms ease;
-        &:hover {
-          border-bottom: 2px solid rgba($black, 0.99);
+    ul {
+      li {
+        margin: 0 0 16px 0;
+        &:last-child {
+          margin: 0;
         }
       }
     }
   }
 }
 
-// Home Page
+// Home
 
 .intro {
   margin: 0 0 112px 0;
   h2 {
     margin: 0 0 56px 0;
-    font-size: 46px;
-    line-height: 76px;
   }
   p {
-    font-family: 'UntitledSans-Light', Helvetica;
-    font-size: 32px;
-    line-height: 52px;
   }
 }
 
-ul.post-index {
-  margin: 0 0 224px 0;
+.post-index {
+  margin: 0 0 112px 0;
   li {
     margin: 0 0 56px 0;
+    &:last-child {
+      margin: 0;
+    }
     h2 {
-      font-size: 46px;
-      line-height: 76px;
-      &:after {
-        content:" Read ";
-        display: inline-block;
-        margin: 0 0 0 1em;
-        font-size: 18px;
-        line-height: 1;
-        color: rgba($black, 0.0);
-        transition: all 250ms ease;
-      }
-      &:hover:after {
-        color: rgba($black, 0.5);
-      }
+      margin: 0;
     }
     p {
-      color: $gray;
+      margin: 0;
+      color: $black;
     }
   }
 }
 
-// Article Page
+// Post
 
 .post {
-  margin: 0 0 224px 0;
-  h2.post-title {
+  margin: 0 0 112px 0;
+  border: 1px solid ink;
+  .post-title {
     margin: 0 0 56px 0;
-    font-size: 46px;
-    line-height: 76px;
   }
-  p.post-intro {
+  .post-intro {
     margin: 0 0 112px 0;
-    font-family: 'UntitledSans-Light', Helvetica;
-    font-size: 32px;
-    line-height: 52px;
   }
   h3 {
-    margin: 112px 0 56px 0;
-    font-family: 'UntitledSans-Light', Helvetica;
-    font-size: 32px;
-    line-height: 52px;
+    margin: 0 0 56px 0;
+  }
+  p {
+    margin: 0 0 56px 0;
+    &:last-child {
+      margin: 0;
+    }
+  }
+}
+
+// About
+
+.page {
+  margin: 0 0 112px 0;
+  h2 {
+    margin: 0 0 56px 0;
+  }
+  .page-intro {
+    margin: 0 0 112px 0;
+  }
+  h3 {
+    margin: 0 0 56px 0;
+  }
+  p {
+    margin: 0 0 56px 0;
+    &:last-child {
+      margin: 0;
+    }
+  }
+}
+
+// Resources
+
+.resources {
+  display: flex;
+  flex-direction: row;
+  margin: 0 0 112px 0;
+  &:last-child {
+  }
+  ol {
+    padding: 0 2em 0 0;
+    li {
+      margin: 0 0 27px 0;;
+      padding: 0;
+      h4 {
+        margin: 0;
+      }
+      p {
+        color: $gray;
+      }
+    }
   }
 }

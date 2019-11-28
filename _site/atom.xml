@@ -4,7 +4,7 @@
  <title>Justin Kropp</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-06-23T17:22:59-04:00</updated>
+ <updated>2019-10-20T16:11:00-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -49,7 +49,7 @@
    <link href="http://localhost:4000/postfour.html"/>
    <updated>2019-06-22T00:00:00-04:00</updated>
    <id>http://localhost:4000/postfour</id>
-   <content type="html">&lt;p&gt;Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Sed posuere consectetur est at lobortis. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.&lt;/p&gt;
+   <content type="html">&lt;p class=&quot;post-intro&quot;&gt;Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam.&lt;/p&gt;
 
 &lt;p&gt;Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nullam quis risus eget urna mollis ornare vel eu leo. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor.&lt;/p&gt;
 
