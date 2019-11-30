@@ -4,7 +4,7 @@
  <title>Justin Kropp</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-11-28T11:14:18-05:00</updated>
+ <updated>2019-11-30T10:05:31-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -13,48 +13,15 @@
 
  
  <entry>
-   <title>Introduction</title>
-   <link href="http://localhost:4000/introduction.html"/>
-   <updated>2019-11-28T00:00:00-05:00</updated>
-   <id>http://localhost:4000/introduction</id>
-   <content type="html">&lt;p class=&quot;article-intro&quot;&gt;Nullam quis risus eget urna mollis ornare vel eu leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.&lt;/p&gt;
+   <title>Hello World</title>
+   <link href="http://localhost:4000/hello-world.html"/>
+   <updated>2019-11-30T00:00:00-05:00</updated>
+   <id>http://localhost:4000/hello-world</id>
+   <content type="html">&lt;p&gt;I’ve spent the better part of the last several years exploring and questioning my relationship with design. This exploration has primarily been an internal exercise  and to a large intent informed by the nature of my career path: a formally educated graphic designer working as a digital product designer in tech for the past 15 years.&lt;/p&gt;
 
-&lt;p&gt;Poole is the butler for &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, the static site generator. It’s designed and developed by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt; to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.&lt;/p&gt;
+&lt;p&gt;Rather than continue to keep these explorations and observations to myself, I’d like put them out there in the open and perhaps find some answers to the questions I’ve been asking.&lt;/p&gt;
 
-&lt;p&gt;There are currently three themes built on Poole:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://hyde.getpoole.com&quot;&gt;Hyde&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://lanyon.getpoole.com&quot;&gt;Lanyon&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://enfield.getpoole.com&quot;&gt;Enfield&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Learn more and contribute on &lt;a href=&quot;https://github.com/poole/poole&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;whats-included&quot;&gt;What’s included&lt;/h3&gt;
-
-&lt;p&gt;Poole is a streamlined Jekyll site designed and built as a foundation for building more meaningful themes. Poole, and every theme built on it like this one, includes the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/404.html&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, and &lt;a href=&quot;/about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;Mobile friendly design and development&lt;/li&gt;
-  &lt;li&gt;Easily scalable text and component sizing with &lt;code class=&quot;highlighter-rouge&quot;&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
-  &lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
-  &lt;li&gt;Related posts (time-based, because Jekyll) below each post&lt;/li&gt;
-  &lt;li&gt;Syntax highlighting, courtesy Jekyll’s built-in support for Rouge&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Additional features are available in individual themes.&lt;/p&gt;
-
-&lt;h3 id=&quot;browser-support&quot;&gt;Browser support&lt;/h3&gt;
-
-&lt;p&gt;Poole and its themes are by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.&lt;/p&gt;
-
-&lt;h3 id=&quot;download&quot;&gt;Download&lt;/h3&gt;
-
-&lt;p&gt;These themes are developed on and hosted with GitHub. Head to the &lt;a href=&quot;https://github.com/poole/poole&quot;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
-
-&lt;p&gt;Thanks!&lt;/p&gt;
+&lt;p&gt;All this to say that I’m redesigning my personal site in the hopes that it will serve as a decent enough place to house these observations and questions.&lt;/p&gt;
 </content>
  </entry>
  
