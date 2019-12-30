@@ -1,21 +1,14 @@
-@font-face {
-  font-family: 'soehne';
-  src: url("soehne-mono-test-buch.woff") format("woff"); }
-@font-face {
-  font-family: 'soehne-kraftig';
-  src: url("soehne-mono-test-kraftig.woff") format("woff"); }
 h1, h2, h3, h4 {
   margin: 0 0 1.5em 0;
-  font-family: 'soehne-kraftig';
-  font-size: .9rem;
-  font-weight: normal;
+  font-family: Courier, monospace;
+  font-size: 1rem;
   line-height: 1.75;
   color: rgba(0, 0, 0, 0.99); }
 
 ul, ol {
   margin: 0 0 1.5em 0;
   padding: 0;
-  font-size: .9rem;
+  font-size: 1rem;
   line-height: 1.75;
   list-style: square; }
 
@@ -25,13 +18,12 @@ p, li, dl {
 
 p, cite {
   margin: 0 0 1.5em 0;
-  font-size: .9rem;
+  font-size: 1rem;
   line-height: 1.75;
   color: rgba(0, 0, 0, 0.7); }
 
 strong {
-  font-family: 'soehne-kraftig';
-  font-weight: normal;
+  font-family: Courier, monospace;
   color: rgba(0, 0, 0, 0.99); }
 
 a {
@@ -71,7 +63,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  font-family: 'soehne'; }
+  font-family: Courier, monospace; }
 
 body {
   -webkit-text-size-adjust: 100%;
@@ -98,7 +90,7 @@ header.masthead {
   border-bottom: 2px solid rgba(0, 0, 0, 0.075); }
   header.masthead h1 {
     margin: 0 0 .5em 0;
-    font-family: 'soehne-kraftig'; }
+    font-family: Courier, monospace; }
   header.masthead p {
     margin: 0; }
 
@@ -106,7 +98,7 @@ p.redesign {
   padding: .75em;
   color: white;
   text-align: center;
-  font-size: 0.75rem;
+  font-size: .9rem;
   background: black; }
 
 .intro {
@@ -124,7 +116,7 @@ p.redesign {
       border: none; }
     .post-index li h2.title {
       margin: 0;
-      font-family: 'soehne-kraftig'; }
+      font-family: Courier, monospace; }
     .post-index li p.date {
       margin: 0 0 .5em 0; }
     .post-index li p.excerpt {
@@ -132,7 +124,7 @@ p.redesign {
 
 .post h2.post-title {
   margin: 0;
-  font-family: 'soehne-kraftig'; }
+  font-family: Courier, monospace; }
 .post ol {
   list-style-type: decimal;
   list-style-position: outside; }
