@@ -91,7 +91,7 @@ header.masthead {
   header.masthead h1 {
     margin: 0 0 .5em 0;
     font-family: Courier, monospace; }
-  header.masthead p {
+  header.masthead p:last-child {
     margin: 0; }
 
 p.redesign {

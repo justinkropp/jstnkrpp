@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Justin Kropp</title>
- <link href="http://jstnkrpp.com/atom.xml" rel="self"/>
- <link href="http://jstnkrpp.com/"/>
- <updated>2020-01-04T16:10:17-05:00</updated>
- <id>http://jstnkrpp.com</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-01-05T16:48:20-05:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>2019 Notable Reads</title>
-   <link href="http://jstnkrpp.com/2019-reading.html"/>
+   <link href="http://localhost:4000/2019-reading.html"/>
    <updated>2020-01-04T00:00:00-05:00</updated>
-   <id>http://jstnkrpp.com/2019-reading</id>
+   <id>http://localhost:4000/2019-reading</id>
    <content type="html">&lt;p&gt;This past year I made a concerted effort to read more. I wanted what I read to span a range of topics that I’m currently interested in as well as those that I’m not well versed but would like to be.&lt;/p&gt;
 
 &lt;p&gt;I oddly don’t read much fiction, but that’s something I’d like to change for 2020. For 2019 I ended up finishing a book every couple weeks and I’m hoping to double that number for 2020. Below are a few standouts for 2019 that I particularly enjoyed.&lt;/p&gt;
@@ -41,9 +41,9 @@
  
  <entry>
    <title>Discourse, Duane King</title>
-   <link href="http://jstnkrpp.com/duane-king.html"/>
+   <link href="http://localhost:4000/duane-king.html"/>
    <updated>2019-12-20T00:00:00-05:00</updated>
-   <id>http://jstnkrpp.com/duane-king</id>
+   <id>http://localhost:4000/duane-king</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;In volume one of &lt;a href=&quot;https://www.brckt.com&quot;&gt;Bracket&lt;/a&gt;, you discuss the concept of craft — as both a noun and verb — in our profession. The concept of craft has seemingly become an integral part of the ethos of your work. How do you approach craft when designing digital products?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Craft, for me, is about lovingly applying your skills to a particular problem. Craft in digital product involves the careful consideration of function to ensure that affordances support needs as well as possibilities — and that they are beautiful as well as useful.&lt;/p&gt;
@@ -121,9 +121,9 @@
  
  <entry>
    <title>Discourse, Joe Stewart</title>
-   <link href="http://jstnkrpp.com/joe-stewart.html"/>
+   <link href="http://localhost:4000/joe-stewart.html"/>
    <updated>2019-12-10T00:00:00-05:00</updated>
-   <id>http://jstnkrpp.com/joe-stewart</id>
+   <id>http://localhost:4000/joe-stewart</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://work.co&quot;&gt;Work &amp;amp; Co&lt;/a&gt; has built up an already impressive list of accomplishments — everything from the company leadership, to the culture, to the body of work. What are you most proud of so far?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;That’s very nice of you to say. I’m most proud of some very, very basic things:
@@ -254,9 +254,9 @@ Pentagram has about 500 books, and I try to read most of them. I look to them as
  
  <entry>
    <title>Rob Giampietro</title>
-   <link href="http://jstnkrpp.com/rob-giampietro.html"/>
+   <link href="http://localhost:4000/rob-giampietro.html"/>
    <updated>2019-12-01T00:00:00-05:00</updated>
-   <id>http://jstnkrpp.com/rob-giampietro</id>
+   <id>http://localhost:4000/rob-giampietro</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Hi Rob. Can you give our viewers a bit of history about yourself — where you went to school, where you’ve worked, and where you are now?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I grew up in Minneapolis listening to a lot of jazz on ECM and going to the Walker Art Center whenever I could. Minneapolis, ECM, and the Walker’s design department and bookstore were all huge influences on me. I got a B.A. in Art from Yale and went to work at Winterhouse. Bill Drenttel and Jessica Helfand were very giving and had unique practice that allowed me space to develop as a designer – it was like a kind of grad school for me. When I left to go to New York I worked at the New York Times Magazine for almost a year – a great introduction to New York – before I joined Michael Bierut’s team at Pentagram as a freelancer, which was also an amazing learning experience. When my Winterhouse colleague Kevin Smith arrived in New York we began freelancing together and launched the studio Giampietro+Smith, which we ran for five years. I joined Project Projects as a principal in 2010. Also in the mix I did a lot of design writing, was vice president of AIGA/NY, did a lot of teaching at Parsons, RISD, and SVA, and started a website of design writing and resources called &lt;a href=&quot;https://linedandunlined.com&quot;&gt;Lined &amp;amp; Unlined&lt;/a&gt;.&lt;/p&gt;
@@ -334,9 +334,9 @@ Pentagram has about 500 books, and I try to read most of them. I look to them as
  
  <entry>
    <title>Hello World</title>
-   <link href="http://jstnkrpp.com/hello-world.html"/>
+   <link href="http://localhost:4000/hello-world.html"/>
    <updated>2019-11-30T00:00:00-05:00</updated>
-   <id>http://jstnkrpp.com/hello-world</id>
+   <id>http://localhost:4000/hello-world</id>
    <content type="html">&lt;p&gt;I’ve spent the better part of the last several years exploring and questioning my relationship with design. This exploration has primarily been an internal exercise  and to a large intent informed by the nature of my career path: a formally educated graphic designer working as a digital product designer in tech for the past 15 years.&lt;/p&gt;
 
 &lt;p&gt;Rather than continue to keep these explorations and observations to myself, I’d like put them out there in the open and perhaps find some answers to the questions I’ve been asking.&lt;/p&gt;
