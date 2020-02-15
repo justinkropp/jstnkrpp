@@ -161,7 +161,7 @@
 		"oAP": "/_layouts/post.html",
 		"oF": 0
 		},
-	"/_posts/2019-11-28-introduction.md": {
+	"/_posts/2019-11-30-hello-world.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -171,7 +171,7 @@
 		"ft": 4096,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/_posts/2019-11-28-introduction.html",
+		"oAP": "/_posts/2019-11-30-hello-world.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -179,6 +179,90 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"/_posts/2019-12-01-rob-giampietro.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_posts/2019-12-01-rob-giampietro.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_posts/2019-12-10-joe-stewart.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_posts/2019-12-10-joe-stewart.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_posts/2019-12-20-duane-king.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_posts/2019-12-20-duane-king.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_posts/2020-01-04-2019-reading.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_posts/2020-01-04-2019-reading.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_site/2019-reading.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/2019-reading.html",
+		"oF": 0
 		},
 	"/_site/404.html": {
 		"cB": 0,
@@ -212,6 +296,22 @@
 		"oAP": "/_site/CNAME",
 		"oF": 0
 		},
+	"/_site/duane-king.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/duane-king.html",
+		"oF": 0
+		},
+	"/_site/hello-world.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/hello-world.html",
+		"oF": 0
+		},
 	"/_site/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -220,12 +320,12 @@
 		"oAP": "/_site/index.html",
 		"oF": 0
 		},
-	"/_site/introduction.html": {
+	"/_site/joe-stewart.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/_site/introduction.html",
+		"oAP": "/_site/joe-stewart.html",
 		"oF": 0
 		},
 	"/_site/LICENSE.md": {
@@ -246,6 +346,38 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"/_site/page2/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/page2/index.html",
+		"oF": 0
+		},
+	"/_site/page3/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/page3/index.html",
+		"oF": 0
+		},
+	"/_site/page4/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/page4/index.html",
+		"oF": 0
+		},
+	"/_site/page5/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/page5/index.html",
+		"oF": 0
 		},
 	"/_site/public/apple-touch-icon-precomposed.png": {
 		"ft": 32768,
@@ -293,20 +425,12 @@
 		"oAP": "/_site/resources.html",
 		"oF": 0
 		},
-	"/_site/soehne-mono-test-buch.woff": {
+	"/_site/rob-giampietro.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/_site/soehne-mono-test-buch.woff",
-		"oF": 0
-		},
-	"/_site/soehne-mono-test-kraftig.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_site/soehne-mono-test-kraftig.woff",
+		"oAP": "/_site/rob-giampietro.html",
 		"oF": 0
 		},
 	"/_site/styles.css": {
@@ -445,22 +569,6 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
-		},
-	"/soehne-mono-test-buch.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/soehne-mono-test-buch.woff",
-		"oF": 0
-		},
-	"/soehne-mono-test-kraftig.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/soehne-mono-test-kraftig.woff",
-		"oF": 0
 		},
 	"/styles.scss": {
 		"aP": 0,
