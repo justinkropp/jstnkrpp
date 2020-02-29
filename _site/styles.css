@@ -80,51 +80,13 @@ body {
   padding: 5em; }
 
 section {
-  max-width: 40em;
+  max-width: 30em;
   margin: 0; }
 
 header.masthead {
-  max-width: 40em;
-  margin: 0 0 3em 0;
-  padding: 0 0 3em 0;
-  border-bottom: 2px solid rgba(0, 0, 0, 0.075); }
+  max-width: 30em; }
   header.masthead h1 {
-    margin: 0 0 .5em 0;
+    margin: 0 0 2em 0;
     font-family: Helvetica; }
   header.masthead p:last-child {
     margin: 0; }
-
-p.redesign {
-  padding: .75em;
-  color: white;
-  text-align: center;
-  font-size: .9rem;
-  background: black; }
-
-.intro {
-  margin: 0 0 6em 0; }
-
-.post-index {
-  margin: 0;
-  list-style: none; }
-  .post-index li {
-    margin: 0 0 1.5em 0;
-    padding: 0 0 1.5em 0;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.075); }
-    .post-index li:last-child {
-      margin: 0;
-      border: none; }
-    .post-index li h2.title {
-      margin: 0;
-      font-family: Helvetica; }
-    .post-index li p.date {
-      margin: 0 0 .5em 0; }
-    .post-index li p.excerpt {
-      margin: 0; }
-
-.post h2.post-title {
-  margin: 0;
-  font-family: Helvetica; }
-.post ol {
-  list-style-type: decimal;
-  list-style-position: outside; }
