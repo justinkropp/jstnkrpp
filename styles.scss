@@ -3,130 +3,101 @@
 # only main files contain this front matter, not partials.
 ---
 
+
+
 // Variables
+$black: rgba(0, 0, 0, 0.99);
+$white: rgba(255, 255, 255, 0.99);
 
-$large-breakpoint: 38em;
-
-$black: rgba(0, 0, 0, 1.0);
-$gray: rgba(0, 0, 0, 0.5);
-$white: rgba(255, 255, 255, 1.0);
-$pink: rgba(pink, 0.25);
-
-// Type
-
-h1, h2, h3, h4 {
-  margin: 0 0 1.5em 0;
-  font-family: Helvetica;
-  font-size: 1rem;
-  line-height: 1.75;
-  color: rgba(0, 0, 0, 0.99);
-}
-
-ul, ol {
-  margin: 0 0 1.5em 0;
-  padding: 0;
-  font-size: 1rem;
-  line-height: 1.75;
-  list-style: square;
-}
-
-p, li, dl {
-  margin: 0;
-  color: rgba(0, 0, 0, 0.70);
-}
-
-p, cite {
-  margin: 0 0 1.5em 0;
-  font-size: 1rem;
-  line-height: 1.75;
-  color: rgba(0, 0, 0, 0.70);
-}
-
-strong {
-  font-family: Helvetica;
-  color: rgba(0, 0, 0, 0.99);
-}
-
-a {
-  text-decoration: none;
-  color: $black;
-  border-bottom: 1px solid rgba($black, 0.25);
-  transition: all 200ms ease;
-  background: rgba($black, 0.0);
-  &:hover {
-    border-bottom: 1px solid rgba($black, 0.99);
-    background: rgba($black, 0.025);
-  }
-}
-
-figure {
-  margin: 0 0 1.5em 0;
-  img {
-    width: 100%;
-    margin: 0 0 .5em 0;
-  }
-  figcaption {
-    font-size: .80em;
-    margin: 0;
-    padding: 0;
-    color: $gray;
-  }
-}
-
-blockquote {
-  margin-left: 2em;
-  padding-left: 2em;
-  border-left: 2px solid rgba($black, 0.075);
-}
-
-// Base
 
 * {
-  -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 html,
 body {
+  height: 100%;
+  font-family: "Helvetica Neue",sans-serif;
+  font-weight: 500;
   margin: 0;
   padding: 0;
-  font-family: Helvetica;
 }
 
 body {
-  -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
-}
-
-// Page Composition
-
-.wrapper {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
   height: 100%;
+  background: $white;
 }
 
-.container {
-  height: 100%;
-  padding: 5em;
+h1, p {
+  margin: 0;
+  font-size: 1.15rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: rgba($white, 0.7);
 }
-
-section {
-  max-width: 30em;
+p:last-child {
   margin: 0;
 }
 
-header.masthead {
-  max-width: 30em;
-  h1 {
-    margin: 0 0 2em 0;
-    font-family: Helvetica;
+ul {
+  list-style: none;
+  margin: 0;
+  line-height: 2;
+}
+
+a {
+  color: rgba($white, 0.7);
+  text-decoration: none;
+  border-bottom: 1px solid rgba($white, 0.25);
+  transition: all 200ms ease;
+  &:hover {
+    border-bottom: 1px solid rgba($white, 0.99);
   }
-  p:last-child {
-    margin: 0;
+}
+
+.wrapper {
+  width: 100%;
+  height: 100%;
+  .container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    .name {
+      display: flex;
+      width: 50%;
+      padding: 5em;
+      background: rgba($black, 0.9);
+      h1 {
+        margin: auto;
+      }
+    }
+    .content {
+      width: 50%;
+      display: flex;
+      flex-direction: column;
+      align-content: stretch;
+      .bio {
+        display: flex;
+        height: 60%;
+        padding: 5em;
+        background: rgba($black, 0.85);
+        p {
+          margin: auto;
+        }
+      }
+      .contact {
+        display: flex;
+        height: 40%;
+        padding: 5em;
+        background: rgba($black, 0.80);
+        ul {
+          margin: auto;
+          padding: 0;
+        }
+      }
+    }
   }
 }
