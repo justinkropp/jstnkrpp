@@ -1,0 +1,38 @@
+---
+layout: default
+title: Notebook
+---
+
+<div class="page-intro">
+  <p>Etiam porta sem malesuada magna mollis euismod. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vestibulum id ligula porta felis euismod semper.</p>
+</div>
+
+
+<ul class="notes">
+  {% for post in site.categories.note %}
+    {% if post.url %}
+    <li>
+      <section class="grid note">
+        <header>
+            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        </header>
+        <article>
+          <p>{{ post.excerpt }}</p>
+        </article>
+        <footer>
+          <p>
+            {% for tag in post.tags %}
+              {{ tag }}
+            {% endfor %}
+          </p>
+        </footer>
+      </section>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+
+<div class="page-outtro">
+  <p>Donec ullamcorper nulla non metus auctor fringilla. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+</div>

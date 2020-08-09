@@ -10,7 +10,7 @@
       404: Page not found &mdash; Justin Kropp
     
   </title>
-
+  <script src=/js/scroll.min.js></script>
   <link rel="stylesheet" href="/styles.css">
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-precomposed.png">
   <link rel="shortcut icon" href="/public/favicon.ico">
@@ -18,11 +18,39 @@
 </head>
 
 
-  <body>
-    <div class="page">
+  <body id="top">
+    <div class="wrapper">
+      <div class="container">
+
+        <header role="banner">
+            <h1><a href="/">Kropp</a></h1>
+  <nav>
+    <ul>
+      <li><a href="/profile/">Profile</a></li>
+      <li><a href="/projects/">Portfolio</a></li>
+      <li><a href="/notebook/">Notebook</a></li>
+    </ul>
+  </nav>
+
+        </header>
+
+        <main>
+          <div class="page">
   <h1 class="page-title">404: Page not found</h1>
   <p class="lead">Sorry, we've misplaced that URL or it's pointing to something that doesn't exist. <a href="/">Head back home</a> to try finding it again.</p>
 </div>
+
+        </main>
+
+        <footer role="footer">
+          
+  <p class="copyright">Copyright <time datetime="2020-08-09T10:56:22-04:00">2020</time>, Justin Kropp.</p>
+  <p class="top"><a href="#top" class=scroll>Top of Page</a></p>
+
+        </footer>
+
+      </div>
+    </div>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-33401179-12"></script>

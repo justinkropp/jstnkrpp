@@ -1,0 +1,81 @@
+---
+layout: default
+title: Projects
+---
+
+<div class="page-intro">
+  <p>Etiam porta sem malesuada magna mollis euismod. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vestibulum id ligula porta felis euismod semper.</p>
+</div>
+
+<section class="grid projects">
+  {% for post in site.categories.project %}
+    {% if post.url %}
+          <article class="project-tldr">
+          <a href="{{ post.url }}">
+          {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
+          <h3>{{ post.title }}</h3>
+          <p>{{ post.excerpt }}</p>
+          </a>
+          </article>
+    {% endif %}
+  {% endfor %}
+</section>
+
+
+<!-- <section class="grid projects">
+  <article class="project-tldr">
+      <a href="/readmill/">
+        <img src="/img/fpo.png">
+        <h3>Justo Elit Bibendum</h3>
+        <p>Sed posuere consectetur est at lobortis. Duis mollis, est non commodo luctus.</p>
+      </a>
+  </article>
+  <article class="project-tldr">
+      <a href="/readmill/">
+        <img src="/img/fpo.png">
+        <h3>Justo Elit Bibendum</h3>
+        <p>Sed posuere consectetur est at lobortis. Duis mollis, est non commodo luctus.</p>
+      </a>
+  </article>
+  <article class="project-tldr">
+      <a href="/readmill/">
+        <img src="/img/fpo.png">
+        <h3>Justo Elit Bibendum</h3>
+        <p>Sed posuere consectetur est at lobortis. Duis mollis, est non commodo luctus.</p>
+      </a>
+  </article>
+  <article class="project-tldr">
+      <a href="/readmill/">
+        <img src="/img/fpo.png">
+        <h3>Justo Elit Bibendum</h3>
+        <p>Sed posuere consectetur est at lobortis. Duis mollis, est non commodo luctus.</p>
+      </a>
+  </article>
+  <article class="project-tldr">
+      <a href="/readmill/">
+        <img src="/img/fpo.png">
+        <h3>Justo Elit Bibendum</h3>
+        <p>Sed posuere consectetur est at lobortis. Duis mollis, est non commodo luctus.</p>
+      </a>
+  </article>
+  <article class="project-tldr">
+      <a href="/readmill/">
+        <img src="/img/fpo.png">
+        <h3>Justo Elit Bibendum</h3>
+        <p>Sed posuere consectetur est at lobortis. Duis mollis, est non commodo luctus.</p>
+      </a>
+  </article>
+  <article class="project-tldr">
+      <a href="/readmill/">
+        <img src="/img/fpo.png">
+        <h3>Justo Elit Bibendum</h3>
+        <p>Sed posuere consectetur est at lobortis. Duis mollis, est non commodo luctus.</p>
+      </a>
+  </article>
+</section> -->
+
+
+
+<div class="page-outtro">
+  <p>Donec ullamcorper nulla non metus auctor fringilla. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+</div>
