@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Justin Kropp</title>
- <link href="http://jstnkrpp.com/atom.xml" rel="self"/>
- <link href="http://jstnkrpp.com/"/>
- <updated>2020-08-09T10:56:22-04:00</updated>
- <id>http://jstnkrpp.com</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-08-16T16:08:40-04:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>
@@ -14,80 +14,235 @@
  
  <entry>
    <title>Mozilla Protocol</title>
-   <link href="http://jstnkrpp.com/project/mozilla-protocol.html"/>
+   <link href="http://localhost:4000/project/mozilla-protocol.html"/>
    <updated>2020-07-30T00:00:00-04:00</updated>
-   <id>http://jstnkrpp.com/project/mozilla-protocol</id>
+   <id>http://localhost:4000/project/mozilla-protocol</id>
    <content type="html">&lt;section class=&quot;grid intro&quot;&gt;
   &lt;header&gt;
-    &lt;h2&gt;Project Template&lt;/h2&gt;
+    &lt;h2&gt;Mozilla Protocol&lt;/h2&gt;
   &lt;/header&gt;
   &lt;article&gt;
-    &lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/p&gt;
+    &lt;p&gt;Protocol is a design system for Mozilla and Firefox. It establishes a common design language, provides reusable coded components, and outlines high level guidelines for content and accessibility.&lt;/p&gt;
+    &lt;p&gt;Drafting off work that had already been established for Mozilla, I helped expand the new Firefox brand into a thoughtful system of design and ui components—pushing beyond the archetypal conventions that are typical for a digital design system.&lt;/p&gt;
   &lt;/article&gt;
   &lt;footer&gt;
     &lt;ul&gt;
-      &lt;li&gt;UX Design&lt;/li&gt;
+      &lt;li&gt;Visual Design&lt;/li&gt;
       &lt;li&gt;UI Design&lt;/li&gt;
-      &lt;li&gt;Strategy&lt;/li&gt;
+      &lt;li&gt;Systems Design&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/footer&gt;
 &lt;/section&gt;
 
 &lt;section class=&quot;grid image&quot;&gt;
   &lt;figure&gt;
-    &lt;img class=&quot;feat-img&quot; src=&quot;/img/fpo.png&quot; /&gt;
+    &lt;img class=&quot;feat-img&quot; src=&quot;/img/mozilla/product-family.png&quot; /&gt;
     &lt;figcaption&gt;
-      &lt;p&gt;Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
+      &lt;p&gt;Mozilla and Firefox have an evolving family of products.&lt;/p&gt;
     &lt;/figcaption&gt;
   &lt;/figure&gt;
 &lt;/section&gt;
 
 &lt;section class=&quot;grid info&quot;&gt;
   &lt;article&gt;
-    &lt;h3&gt;Adipiscing Nullam Ligula&lt;/h3&gt;
-    &lt;p&gt;Maecenas sed diam eget risus varius blandit sit amet non magna. Curabitur blandit tempus porttitor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nulla vitae elit libero, a pharetra augue. Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/p&gt;
+    &lt;p&gt;Mozilla is known for its Firefox Browser, which has been at the forefront of privacy and safety online since its inception. When I joined the company in 2018 the formation of a new Firefox brand had just been launched, and efforts were underway to simultaneously both build that brand out and launch new products. &lt;/p&gt;
   &lt;/article&gt;
 &lt;/section&gt;
 
 &lt;section class=&quot;grid image&quot;&gt;
   &lt;figure&gt;
-    &lt;img class=&quot;feat&quot; src=&quot;/img/fpo.png&quot; /&gt;
+  &lt;img class=&quot;feat-img&quot; src=&quot;/img/mozilla/ui-components.png&quot; /&gt;
     &lt;figcaption&gt;
-      &lt;p&gt;Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
+      &lt;p&gt;The Protocol Design System spans two brands and a range of web and native products.&lt;/p&gt;
     &lt;/figcaption&gt;
   &lt;/figure&gt;
 &lt;/section&gt;
 
 &lt;section class=&quot;grid info&quot;&gt;
   &lt;article&gt;
-    &lt;h3&gt;Adipiscing Nullam Ligula&lt;/h3&gt;
-    &lt;p&gt;Maecenas sed diam eget risus varius blandit sit amet non magna. Curabitur blandit tempus porttitor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nulla vitae elit libero, a pharetra augue. Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/p&gt;
+    &lt;p&gt;The new products and services that were going to be launched spanned both web and product, and we needed to build a system of components that would aesthetically work across all surfaces while not sacrificing brand consistency.&lt;/p&gt;
   &lt;/article&gt;
-  &lt;footer&gt;
-    &lt;h4&gt;Fig. A&lt;/h4&gt;
-    &lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla.&lt;/p&gt;
-  &lt;/footer&gt;
 &lt;/section&gt;
 
 &lt;section class=&quot;grid two-image&quot;&gt;
   &lt;figure&gt;
-    &lt;img class=&quot;&quot; src=&quot;/img/fpo.png&quot; /&gt;
+  &lt;img class=&quot;feat-img&quot; src=&quot;/img/mozilla/ui-fields.png&quot; /&gt;
     &lt;figcaption&gt;
-      &lt;p&gt;Morbi leo risus, porta ac consectetur.&lt;/p&gt;
+      &lt;p&gt;Our form elements needed to be identical in design and behavior across all of our products and services.&lt;/p&gt;
     &lt;/figcaption&gt;
   &lt;/figure&gt;
   &lt;figure&gt;
-    &lt;img class=&quot;&quot; src=&quot;/img/fpo.png&quot; /&gt;
+  &lt;img class=&quot;feat-img&quot; src=&quot;/img/mozilla/ui-forms.png&quot; /&gt;
     &lt;figcaption&gt;
-    &lt;p&gt;Morbi leo risus, porta ac consectetur.&lt;/p&gt;
+    &lt;p&gt;Forms were required to live in an elevated card to help elicit focus and attention from the user.&lt;/p&gt;
     &lt;/figcaption&gt;
   &lt;/figure&gt;
 &lt;/section&gt;
 
 &lt;section class=&quot;grid info&quot;&gt;
   &lt;article&gt;
-    &lt;h3&gt;Adipiscing Nullam Ligula&lt;/h3&gt;
-    &lt;p&gt;Maecenas sed diam eget risus varius blandit sit amet non magna. Curabitur blandit tempus porttitor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nulla vitae elit libero, a pharetra augue. Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/p&gt;
+    &lt;p&gt;The components that make up the forms throughout the Mozilla ecosystem received special consideration due to the importance of consistency in their design, interaction, and feedback.  Forms collect information — email address, passwords, credit card info, mailing address — and should be direct in its language, and succinct and fast in its feedback should an error occur.&lt;/p&gt;
+  &lt;/article&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;grid image&quot;&gt;
+  &lt;figure&gt;
+  &lt;img class=&quot;feat-img&quot; src=&quot;/img/mozilla/brand-colors.png&quot; /&gt;
+    &lt;figcaption&gt;
+      &lt;p&gt;Our brand color palette was quite robust. It needed to serve an ever growing family of products and services.&lt;/p&gt;
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;grid info&quot;&gt;
+  &lt;article&gt;
+    &lt;p&gt;There are many different organizations within Mozilla: Brand, Marketing, Growth, Mobile, Comms, etc. Each org is comprised of various teams doing work across a range of disciplines. There are also third parties that are contracted to supplement that work and bring an outside expertise or perspective in. Much of this work is comprised of campaign landing pages, growth work like A/B and multivariate testing, and conversion rate and app store optimization. In other words, lots of opportunity for brand inconsistency to show up. At the core of this system lives a robust color palette, with certain products comprised of specific combinations.&lt;/p&gt;
+  &lt;/article&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;grid two-image&quot;&gt;
+  &lt;figure&gt;
+  &lt;img class=&quot;feat-img&quot; src=&quot;/img/mozilla/noodles.png&quot; /&gt;
+    &lt;figcaption&gt;
+      &lt;p&gt;Our brand shapes were derived from our product logos.&lt;/p&gt;
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+  &lt;img class=&quot;feat-img&quot; src=&quot;/img/mozilla/noodle-combo.png&quot; /&gt;
+    &lt;figcaption&gt;
+    &lt;p&gt;These shapes, or noodles, could be combined to form brand-specific compositions.&lt;/p&gt;
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;grid info&quot;&gt;
+  &lt;article&gt;
+    &lt;p&gt;Beyond the color foundation, our Protocol design system includes brand-specific components that went far beyond your typical ui-based design system. We built  a system of brand components that were less about specificity of use and more about flexibility in application. &lt;/p&gt;
+  &lt;/article&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;grid two-image&quot;&gt;
+  &lt;figure&gt;
+  &lt;img class=&quot;feat-img&quot; src=&quot;/img/mozilla/noodle-masks.png&quot; /&gt;
+    &lt;figcaption&gt;
+      &lt;p&gt;Noodles used as masks for images.&lt;/p&gt;
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+  &lt;img class=&quot;feat-img&quot; src=&quot;/img/mozilla/zap.png&quot; /&gt;
+    &lt;figcaption&gt;
+    &lt;p&gt;The Zap was a dynamic element used to give emphasis to section of a page.&lt;/p&gt;
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;grid info&quot;&gt;
+  &lt;article&gt;
+    &lt;p&gt;Continued exploration of our design language gave way to using our noodle compositions as image masks. Most often these masks were used in the hero sections of our marketing pages to house lifestyle images or product images.&lt;/p&gt;
+    &lt;p&gt;Through user testing we learned that our users paid an unusual amount of attention to our headlines — they were often witty — and we began to think of ways that we could leverage and emphasize our headlines more. Simply highlighting key words felt too heavy handed. Enter the Zap. The Zap was a dynamic graphic element — a simple stroke — that could take on any range of forms without feeling too heavy or intrusive. It quickly proved its worth. It was used throughout our marketing sites and app store visuals to tie section of the page together, draw attention to specific key words, or help emphasize features in product images.&lt;/p&gt;
+  &lt;/article&gt;
+&lt;/section&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Firefox Homepage</title>
+   <link href="http://localhost:4000/project/firefox-homepage.html"/>
+   <updated>2020-07-30T00:00:00-04:00</updated>
+   <id>http://localhost:4000/project/firefox-homepage</id>
+   <content type="html">&lt;section class=&quot;grid intro&quot;&gt;
+  &lt;header&gt;
+    &lt;h2&gt;Firefox Homepage&lt;/h2&gt;
+  &lt;/header&gt;
+  &lt;article&gt;
+    &lt;p&gt;When I joined Mozilla one of my first asks was twofold: 1) explore ways to improve the download experience for our users and 2) look at opportunities to increase our session to download ratio (i.e. improve our conversion rate). Internally this page was referred to as /new because it lived at 'https://www.mozilla.org/en-US/firefox/new/'. It was responsible for the majority of our browser downloads and, because of this, teams were hesitant to change this page for fear of negatively affecting our downloads. &lt;/p&gt;
+  &lt;/article&gt;
+  &lt;footer&gt;
+    &lt;ul&gt;
+      &lt;li&gt;UX Design&lt;/li&gt;
+      &lt;li&gt;UI Design&lt;/li&gt;
+      &lt;li&gt;User Research&lt;/li&gt;
+      &lt;li&gt;Growth Strategy&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/footer&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;grid image&quot;&gt;
+  &lt;figure&gt;
+    &lt;img class=&quot;feat-img&quot; src=&quot;/img/firefox/fx-download-flow.png&quot; /&gt;
+    &lt;figcaption&gt;
+      &lt;p&gt;Most of our users are coming to our browser download page via search; not through our site navigation.&lt;/p&gt;
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;grid info&quot;&gt;
+  &lt;article&gt;
+    &lt;p&gt;Before this redesign, the /new page consisted of a hero section and three content buckets whose content  cross-promoted other Firefox products. I learned through our analytics that the majority of our users were landing on this page directly from search results. Users were not discovering this page through our navigation or any other page on the site. They were landing here cold, without any prior or contextual information about the browser.&lt;/p&gt;
+  &lt;/article&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;grid image&quot;&gt;
+  &lt;figure&gt;
+  &lt;img class=&quot;feat-img&quot; src=&quot;/img/firefox/fx-download-wireframe.png&quot; /&gt;
+    &lt;figcaption&gt;
+      &lt;p&gt;Annotated Page Design Wireframe with specific feature callouts.&lt;/p&gt;
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;grid info&quot;&gt;
+  &lt;article&gt;
+    &lt;p&gt;Over several weeks I worked with a data analyst to help draft a testing framework that would help us iteratively test the page design while carefully monitoring changes in download numbers. A series of user tests helped me understand which features our core demographic seemed to respond most positively to; which features mattered in their decision making process.&lt;/p&gt;
+    &lt;p&gt;The redesigned page was going to be significantly longer that its predecessor, and we knew from prior research that users often lost steam as they moved down the page. With the help from our copywriters, we tested our way to performant headlines for for each section. These headlines were more effective at drawing the user down the page and keeping engagement up as they did so.&lt;/p&gt;
+    &lt;p&gt;Finally, the new page was comprised of distinct feature sections, each with a theme: new features, key features, performance related, privacy related, and a competitor comparison section. Several testing rounds were conducted to determine which order of sections was the most performant without sacrificing the overall pacing and brand narrative of the page.&lt;/p&gt;
+  &lt;/article&gt;
+
+&lt;/section&gt;
+
+&lt;section class=&quot;grid image&quot;&gt;
+  &lt;figure&gt;
+  &lt;img class=&quot;feat-img&quot; src=&quot;/img/firefox/fx-feature-ui.png&quot; /&gt;
+    &lt;figcaption&gt;
+      &lt;p&gt;Brand elements were used strategically to draw attention to key content that we new from testing interested users.&lt;/p&gt;
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;grid info&quot;&gt;
+  &lt;article&gt;
+    &lt;p&gt;Once we had the pacing, composition, and section order of the page locked, the brand language began finding its way into the page design. Our &quot;Noodle&quot; shapes had proven effective at generating interest, so we began using them as a background element layered behind content that we knew, through user testing, was important to users.&lt;/p&gt;
+  &lt;/article&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;grid image&quot;&gt;
+  &lt;figure&gt;
+  &lt;img class=&quot;feat-img&quot; src=&quot;/img/firefox/fx-photo-masks.png&quot; /&gt;
+    &lt;figcaption&gt;
+      &lt;p&gt;Our brand Noodles lent themselves to creating novel moment where lifestyle photography and brand language could intersect.&lt;/p&gt;
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;grid info&quot;&gt;
+  &lt;article&gt;
+    &lt;p&gt;What makes Firefox unique from its competitors is its dedication since day one to user privacy and security and its corporate structure:  its parent, Mozilla, is a company owned by a not-for-profit, the Mozilla Foundation. This is the throughline of all our products, and it's something that all our users respect and find unique. It's also a key part of our brand story and, as such, deserved to be included in our new download page.  A section that talked about our history, mission, and dedication to privacy was accompanied vignettes of people that combined a nod to the human side of our technology with the playful shapes of our brand's design language.&lt;/p&gt;
+  &lt;/article&gt;
+
+&lt;/section&gt;
+
+&lt;section class=&quot;grid image&quot;&gt;
+  &lt;figure&gt;
+  &lt;img class=&quot;feat-img&quot; src=&quot;/img/firefox/fx-hero.png&quot; /&gt;
+    &lt;figcaption&gt;
+      &lt;p&gt;The hero section is the initial entry point that most users have with our brand before choosing to download.&lt;/p&gt;
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;grid info&quot;&gt;
+  &lt;article&gt;
+    &lt;p&gt;Hero sections are quite the norm on most marketing sites. It's a macro-pattern that been applied ad nauseam. And for good reason: their structure is familiar to most users and they work. Product logo, primary headline, image of product, and a primary call-to-action. Et voilá. Ours is no different. However, given that most users end up here directly from search this is also most likely their first introduction to the brand. It was important that, while not deviating too much from the norm, we introduce a few key brand elements that would not only set the stage for the rest of the page, but also leave an impression. The use of our brand noodles as a background element to frame our browser and the inclusion of the Zap to emphasize a key position did just that.&lt;/p&gt;
   &lt;/article&gt;
 &lt;/section&gt;
 </content>
@@ -95,9 +250,9 @@
  
  <entry>
    <title>Firefox CRO</title>
-   <link href="http://jstnkrpp.com/project/firefox-cro.html"/>
+   <link href="http://localhost:4000/project/firefox-cro.html"/>
    <updated>2020-07-30T00:00:00-04:00</updated>
-   <id>http://jstnkrpp.com/project/firefox-cro</id>
+   <id>http://localhost:4000/project/firefox-cro</id>
    <content type="html">&lt;section class=&quot;grid intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;Project Template&lt;/h2&gt;
@@ -176,9 +331,9 @@
  
  <entry>
    <title>WordPress Signup</title>
-   <link href="http://jstnkrpp.com/project/wordpress-signup.html"/>
+   <link href="http://localhost:4000/project/wordpress-signup.html"/>
    <updated>2020-07-29T00:00:00-04:00</updated>
-   <id>http://jstnkrpp.com/project/wordpress-signup</id>
+   <id>http://localhost:4000/project/wordpress-signup</id>
    <content type="html">&lt;section class=&quot;grid intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;WordPress Signup&lt;/h2&gt;
@@ -283,9 +438,9 @@
  
  <entry>
    <title>WordPress Dashboard</title>
-   <link href="http://jstnkrpp.com/project/wordpress-dashboard.html"/>
+   <link href="http://localhost:4000/project/wordpress-dashboard.html"/>
    <updated>2020-07-29T00:00:00-04:00</updated>
-   <id>http://jstnkrpp.com/project/wordpress-dashboard</id>
+   <id>http://localhost:4000/project/wordpress-dashboard</id>
    <content type="html">&lt;section class=&quot;grid intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;WordPress Dashboard&lt;/h2&gt;
@@ -374,9 +529,9 @@
  
  <entry>
    <title>Readmill</title>
-   <link href="http://jstnkrpp.com/project/readmill.html"/>
+   <link href="http://localhost:4000/project/readmill.html"/>
    <updated>2020-07-28T00:00:00-04:00</updated>
-   <id>http://jstnkrpp.com/project/readmill</id>
+   <id>http://localhost:4000/project/readmill</id>
    <content type="html">&lt;section class=&quot;grid intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;Readmill&lt;/h2&gt;
@@ -484,9 +639,9 @@
  
  <entry>
    <title>Spokestack</title>
-   <link href="http://jstnkrpp.com/project/spokestack.html"/>
+   <link href="http://localhost:4000/project/spokestack.html"/>
    <updated>2020-07-10T00:00:00-04:00</updated>
-   <id>http://jstnkrpp.com/project/spokestack</id>
+   <id>http://localhost:4000/project/spokestack</id>
    <content type="html">&lt;section class=&quot;grid intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;Project Template&lt;/h2&gt;
@@ -565,9 +720,9 @@
  
  <entry>
    <title>Project Template</title>
-   <link href="http://jstnkrpp.com/project/project-template.html"/>
+   <link href="http://localhost:4000/project/project-template.html"/>
    <updated>2020-07-04T00:00:00-04:00</updated>
-   <id>http://jstnkrpp.com/project/project-template</id>
+   <id>http://localhost:4000/project/project-template</id>
    <content type="html">&lt;section class=&quot;grid intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;Project Template&lt;/h2&gt;
@@ -646,9 +801,9 @@
  
  <entry>
    <title>Logos</title>
-   <link href="http://jstnkrpp.com/project/logos.html"/>
+   <link href="http://localhost:4000/project/logos.html"/>
    <updated>2020-07-04T00:00:00-04:00</updated>
-   <id>http://jstnkrpp.com/project/logos</id>
+   <id>http://localhost:4000/project/logos</id>
    <content type="html">&lt;div class=&quot;project-intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;Various Logos&lt;/h2&gt;
@@ -722,9 +877,9 @@
  
  <entry>
    <title>Note Template</title>
-   <link href="http://jstnkrpp.com/note/note-template.html"/>
+   <link href="http://localhost:4000/note/note-template.html"/>
    <updated>2020-06-29T00:00:00-04:00</updated>
-   <id>http://jstnkrpp.com/note/note-template</id>
+   <id>http://localhost:4000/note/note-template</id>
    <content type="html">&lt;section class=&quot;grid  note-intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;Note Template&lt;/h2&gt;
@@ -772,9 +927,9 @@
  
  <entry>
    <title>2019 Notable Reads</title>
-   <link href="http://jstnkrpp.com/note/2019-reading.html"/>
+   <link href="http://localhost:4000/note/2019-reading.html"/>
    <updated>2020-01-04T00:00:00-05:00</updated>
-   <id>http://jstnkrpp.com/note/2019-reading</id>
+   <id>http://localhost:4000/note/2019-reading</id>
    <content type="html">&lt;p&gt;This past year I made a concerted effort to read more. I wanted what I read to span a range of topics that I’m currently interested in as well as those that I’m not well versed but would like to be.&lt;/p&gt;
 
 &lt;p&gt;I oddly don’t read much fiction, but that’s something I’d like to change for 2020. For 2019 I ended up finishing a book every couple weeks and I’m hoping to double that number for 2020. Below are a few standouts for 2019 that I particularly enjoyed.&lt;/p&gt;
@@ -799,9 +954,9 @@
  
  <entry>
    <title>Discourse, Duane King</title>
-   <link href="http://jstnkrpp.com/note/duane-king.html"/>
+   <link href="http://localhost:4000/note/duane-king.html"/>
    <updated>2019-12-20T00:00:00-05:00</updated>
-   <id>http://jstnkrpp.com/note/duane-king</id>
+   <id>http://localhost:4000/note/duane-king</id>
    <content type="html">&lt;section class=&quot;grid  note-intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;Discourse, Duane King&lt;/h2&gt;
@@ -911,9 +1066,9 @@
  
  <entry>
    <title>Discourse, Joe Stewart</title>
-   <link href="http://jstnkrpp.com/note/joe-stewart.html"/>
+   <link href="http://localhost:4000/note/joe-stewart.html"/>
    <updated>2019-12-10T00:00:00-05:00</updated>
-   <id>http://jstnkrpp.com/note/joe-stewart</id>
+   <id>http://localhost:4000/note/joe-stewart</id>
    <content type="html">&lt;section class=&quot;grid  note-intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;Discourse, Joe Stewart&lt;/h2&gt;
@@ -1081,9 +1236,9 @@ I think the work we’re doing is good, and I believe in it. I like where I work
  
  <entry>
    <title>Rob Giampietro</title>
-   <link href="http://jstnkrpp.com/note/rob-giampietro.html"/>
+   <link href="http://localhost:4000/note/rob-giampietro.html"/>
    <updated>2019-12-01T00:00:00-05:00</updated>
-   <id>http://jstnkrpp.com/note/rob-giampietro</id>
+   <id>http://localhost:4000/note/rob-giampietro</id>
    <content type="html">&lt;section class=&quot;grid  note-intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;Rob Giampietro&lt;/h2&gt;
@@ -1195,9 +1350,9 @@ I think the work we’re doing is good, and I believe in it. I like where I work
  
  <entry>
    <title>Hello World</title>
-   <link href="http://jstnkrpp.com/note/hello-world.html"/>
+   <link href="http://localhost:4000/note/hello-world.html"/>
    <updated>2019-11-30T00:00:00-05:00</updated>
-   <id>http://jstnkrpp.com/note/hello-world</id>
+   <id>http://localhost:4000/note/hello-world</id>
    <content type="html">&lt;p&gt;I’ve spent the better part of the last several years exploring and questioning my relationship with design. This exploration has primarily been an internal exercise  and to a large intent informed by the nature of my career path: a formally educated graphic designer working as a digital product designer in tech for the past 15 years.&lt;/p&gt;
 
 &lt;p&gt;Rather than continue to keep these explorations and observations to myself, I’d like put them out there in the open and perhaps find some answers to the questions I’ve been asking.&lt;/p&gt;

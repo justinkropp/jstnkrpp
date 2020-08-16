@@ -6,29 +6,18 @@
 // font
 
 @font-face {
-  font-family: "Pitch Sans Regular";
-  src: url("/fonts/pitch-sans-test-regular.woff") format("woff");
+  font-family: "Untitled-Sans";
+  src: url("/fonts/untitled-sans-test-regular.woff") format("woff");
+}
+@font-face {
+  font-family: "Untitled-Sans-Medium";
+  src: url("/fonts/untitled-sans-test-medium.woff") format("woff");
+}
+@font-face {
+  font-family: "Untitled-Sans-Bold";
+  src: url("/fonts/untitled-sans-test-bold.woff") format("woff");
 }
 
-@font-face {
-  font-family: "Pitch Sans Medium";
-  src: url("/fonts/pitch-sans-test-medium.woff") format("woff");
-}
-
-@font-face {
-  font-family: "Pitch Sans SemiBold";
-  src: url("/fonts/pitch-sans-test-semibold.woff") format("woff");
-}
-
-@font-face {
-  font-family: "Pitch Sans Bold";
-  src: url("/fonts/pitch-sans-test-bold.woff") format("woff");
-}
-
-@font-face {
-  font-family: "Pitch Medium";
-  src: url("/fonts/pitch-test-medium.woff") format("woff");
-}
 
 
 // Variables
@@ -47,9 +36,8 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  font-family:"Pitch Sans Medium", "SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace;
+  font-family: "Untitled-Sans";
   color: rgba($black, 0.80);
-  line-height: 1.5;
 }
 
 body {
@@ -58,23 +46,31 @@ body {
 
 h1, h2, h3, h4 {
   margin: 0 0 1em 0;
-  font-family: "Pitch Sans Bold";
+  font-family: "Untitled-Sans-Medium";
   font-size: 1rem;
   font-weight: normal;
+  line-height: 1.75;
 }
 
 p {
   margin: 0 0 1em 0;
   font-size: 1rem;
+  line-height: 1.75;
 }
 
 strong {
-  font-family: "Pitch Sans Bold";
+  font-family: "Untitled-Sans-Medium";
   font-weight: normal;
 }
 
 li {
   font-size: 1rem;
+  line-height: 1.75;
+}
+
+li span {
+  font-size: .8rem;
+  color: rgba($black, 0.5);
 }
 
 ul {
@@ -92,7 +88,7 @@ a {
 figure {
   figcaption {
     p {
-      font-family:"Pitch Medium", "SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace;
+      font-family: "Untitled-Sans";
     }
   }
 }
@@ -129,12 +125,14 @@ header[role=banner] {
   h1 {
     width: 30%;
     margin: 0;
+    font-family: "Untitled-Sans-Medium";
   }
   nav {
     width: 50%;
     ul {
       margin: 0;
       li {
+        font-family: "Untitled-Sans";
         display: inline-block;
         margin: 0 2em 0 0;
         a {
@@ -173,7 +171,7 @@ footer[role=footer] {
   margin: 0 0 8em 30%;
   p {
     font-size: 1.2rem;
-    font-family: "Pitch Sans SemiBold";
+    font-family: "Untitled-Sans-Medium";
     font-weight: normal;
   }
 }
@@ -194,7 +192,7 @@ footer[role=footer] {
   }
   footer {
     p, li {
-      font-family:"Pitch Medium", "SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace;
+      font-family: "Untitled-Sans";
       text-transform: capitalize;
     }
   }

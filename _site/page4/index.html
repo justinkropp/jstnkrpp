@@ -64,6 +64,26 @@
   <li>
   <section class="grid home">
     <header>
+      <h2 class="title"><a href="/project/firefox-homepage.html">Firefox Homepage</a></h2>
+    </header>
+    <article>
+      <p><img class="feat-img" src="/img//firefox/firefox-homepage.png" alt="Featured image alt" />
+</p>
+      <p>Nullam quis risus eget urna mollis ornare vel eu leo. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
+    </article>
+    <footer>
+      <p class="tag">
+        
+          product
+        
+      </p>
+    </footer>
+  </section>
+  </li>
+
+  <li>
+  <section class="grid home">
+    <header>
       <h2 class="title"><a href="/project/firefox-cro.html">Firefox CRO</a></h2>
     </header>
     <article>
@@ -350,6 +370,8 @@
     
       <li><a href="/project/mozilla-protocol.html">Mozilla Protocol</a></li>
     
+      <li><a href="/project/firefox-homepage.html">Firefox Homepage</a></li>
+    
       <li><a href="/project/firefox-cro.html">Firefox CRO</a></li>
     
       <li><a href="/project/wordpress-signup.html">WordPress Signup</a></li>
@@ -374,7 +396,7 @@
     
       <li><a href="#note">note (6)</a></li>
     
-      <li><a href="#project">project (8)</a></li>
+      <li><a href="#project">project (9)</a></li>
     
   
  -->
@@ -383,8 +405,8 @@
   
   <article class="post">
     <h1 class="post-title">
-      <a href="/project/wordpress-dashboard.html">
-        WordPress Dashboard
+      <a href="/project/wordpress-signup.html">
+        WordPress Signup
       </a>
     </h1>
 
@@ -392,10 +414,11 @@
 
     <section class="grid intro">
   <header>
-    <h2>WordPress Dashboard</h2>
+    <h2>WordPress Signup</h2>
   </header>
   <article>
-    <p>The the signup flow had recently been redesigned to help guide customers more efficiently through setting up a site tailored to their needs, and we began seeing an increase in account activations — but our retention and engagement numbers still left room for improvement. </p>
+    <p>WordPress is an open-source SaSS application that allows someone to quickly spin-up a blog, website, or online store. As of 2020, its software powers approximately 37% of of all sites on the web.</p>
+    <p>I joined Automattic, the makers of WordPress, in 2012. During my three years at the company I worked on numerous projects across several different teams. Most notably, I worked with the New User Experience (NUX) and User Onboarding teams to tackle improving our signup flow as well as the experience a new user has once they sign up. Both efforts involved user research, user experience design, and user interface design.</p>
   </article>
   <footer>
     <ul>
@@ -408,69 +431,84 @@
 
 <section class="grid image">
   <figure>
-    <img class="feat-img" src="/img/wordpress/dashboard-flow.png" />
+    <img class="feat-img" src="/img/wordpress/modular-signup.png" />
     <figcaption>
-      <p>From the dashboard, a user could easily purchase a domain or upgrade their account.</p>
+      <p>A modular signup flow architecture allowed us to quickly iterate towards the most performant signup experience.</p>
     </figcaption>
   </figure>
 </section>
 
 <section class="grid info">
   <article>
-    <p>Once a user signed up for an account, they would land in their account dashboard. The dashboard was command central, so to speak. From here they could manage their posts, pages, and plugins. Approve or delete comments. Customize their theme. Add, delete, or change permissions for site contributors. It put the user in the driver seat.</p>
-    <p>We hypothesized that if a user could view the fruits of their labor — audience engagement — that they would be more inclined to stick around and continue to create content. User researched confirmed our hunch. Statements like "Are people even reading my content?" and "Do they like what they're reading?" were heard over and over in user interviews.</p>
+    <h3>Signup Flow</h3>
+    <p>My initial work on the User Onboarding and Growth team involved exploring ways to help increase activation, as many of our new users were abandoning the the signup process midway through. I recruited the help of our Growth Engineering teams to help re-build a signup flow that was modular and would lend itself to quickly re-arranging the steps of the flow. This would allow testing different configurations and quickly learning which sequence performed and which didn't.</p>
   </article>
 </section>
 
 <section class="grid image">
   <figure>
-    <img class="feat-img" src="/img/wordpress/dashboard-wireframe.png" />
-  <figcaption>
-      <p>New default view in the user's account dashboard was an analytics overview.</p>
+  <img class="feat-img" src="/img/wordpress/winning-signup.png" />
+    <figcaption>
+      <p>The most performant signup flow placed the account details and account activation cta at the end of the flow.</p>
     </figcaption>
   </figure>
 </section>
 
 <section class="grid info">
   <article>
-    <p>As a solution to our user's frustration with not knowing if anyone was engaging with their content, we designed a robust analytics dashboard that would become the default view of the user dashboard. From here the user could quickly get a birds eye view of the traffic breakdown for their site: views, visitors, likes, and comments per day/week/month/years. </p>
+    <p>Our current signup flow placed the account creation CTA at the beginning of the experience. Creating an account required little to no effort on the user's part. It was only after account creation that we began asking for further account and profile information.</p>
   </article>
 </section>
 
 <section class="grid image">
   <figure>
-    <img class="feat-img" src="/img/wordpress/dashboard-design.png" />
-  <figcaption>
-      <p>Empty state view of a new user's dashboard, which would become another problem we needed to solve for.</p>
+  <img class="feat-img" src="/img/wordpress/signup-flow.png" />
+    <figcaption>
+      <p>Certain steps of the signup flow could be strategically removed or rearranged in order to improve overall activation.</p>
     </figcaption>
   </figure>
 </section>
 
 <section class="grid info">
   <article>
-    <p>When given the ability to view traffic broken down by post, page, search term, and clicks a user can gauge which content their audience was responding to. To help aid the user in continued refinement of their site's presence online, we built a site checklist into this analytics dashboard that would provide actionable tips and tricks to help them understand how to get the most out of their site.</p>
+    <p>I led an effort to redesign a signup flow that would place the account creation at the tail end of the signup flow, with account information, product details, plan selection, and domain name selection preceding the account creation CTA. I was asking our users to invest more time and information before creating their account. I hypothesized that a greater upfront investment in time would lead to a decrease in signup flow abandonment.</p>
+  </article>
+</section>
+
+<section class="grid two-image">
+  <figure>
+  <img class="feat-img" src="/img/wordpress/domain-info.png" />
+    <figcaption>
+      <p>Privacy protection selection and domain contact info.</p>
+    </figcaption>
+  </figure>
+  <figure>
+  <img class="feat-img" src="/img/wordpress/domain-payment.png" />
+    <figcaption>
+    <p>Domain payment information and subscription selection.</p>
+    </figcaption>
+  </figure>
+</section>
+
+<section class="grid info">
+  <article>
+    <p>To help mitigate any potential information overload or option paralysis that a user might encounter during the signup flow, the domain registration contact information and payment details were presented to the user after they had activated their account but before they landed in their account dashboard.</p>
   </article>
 </section>
 
 <section class="grid image">
   <figure>
-    <img class="feat-img" src="/img/wordpress/dashboard-components.png" />
-  <figcaption>
-      <p>A user could select and purchase a domain name from their account dashboard, a process that was executed from a modal in their dashboard.</p>
+  <img class="feat-img" src="/img/wordpress/signup-dashboard.png" />
+    <figcaption>
+      <p>Empty state dashboard for a new user.</p>
     </figcaption>
   </figure>
-</section>
-
-<section class="grid info">
-  <article>
-    <p>For users who had opted to skip setting up a domain during signup, we made sure to provide access to that upgrade from their dashboard. If a user chose to upgrade their account, we made sure that they could do so right from their dashboard and that that process kept them in their dashboard view.</p>
-  </article>
 </section>
 
 <section class="grid info">
   <article>
     <h3>Outcomes</h3>
-    <p>This work resulted in a 18% increase in overall retention and a 23% increase in engagement after account activation. </p>
+    <p>My work on the signup flow resulted in a <strong>19%</strong> decrease in <em>flow abandonment</em> and a <strong>22%</strong> increase <em>new account activations</em>.</p>
   </article>
 </section>
 
@@ -491,7 +529,7 @@
 
         <footer role="footer">
           
-  <p class="copyright">Copyright <time datetime="2020-08-09T10:56:22-04:00">2020</time>, Justin Kropp.</p>
+  <p class="copyright">Copyright <time datetime="2020-08-16T16:08:40-04:00">2020</time>, Justin Kropp.</p>
   <p class="top"><a href="#top" class=scroll>Top of Page</a></p>
 
         </footer>
