@@ -1,11 +1,11 @@
 ---
 layout: project
 title: WordPress Signup
-excerpt: Nullam quis risus eget urna mollis ornare vel eu leo. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+excerpt: User research, UX, and UI design for a modular testing framework for a more performant WordPress.com signup flow.
 featured-image: /wordpress/wordpress-signup.png
 featured-image-alt: Featured image alt
 category: project
-tags: ui
+tags: UI
 ---
 
 <section class="grid intro">

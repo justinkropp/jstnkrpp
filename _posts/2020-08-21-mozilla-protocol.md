@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Mozilla Protocol
-excerpt: Nullam quis risus eget urna mollis ornare vel eu leo. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+excerpt: Building a robust design system spanning both web and product surfaces for the Mozilla and Firefox family of products. 
 featured-image: /mozilla/mozilla-protocol.png
 featured-image-alt: Featured image alt
 category: project

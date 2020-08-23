@@ -4,6 +4,7 @@ title: Note Template
 excerpt: Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec ullamcorper nulla non metus auctor fringilla.
 category: note
 tags: template
+published: false
 ---
 
 <section class="grid  note-intro">

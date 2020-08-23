@@ -1,11 +1,11 @@
 ---
 layout: project
 title: WordPress Dashboard
-excerpt: Nullam quis risus eget urna mollis ornare vel eu leo. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+excerpt: Research, UX, and UI design aimed at increasing retention and engagement post new user signup.
 featured-image: /wordpress/wordpress-dashboard.png
 featured-image-alt: Featured image alt
 category: project
-tags: ui
+tags: UI
 ---
 
 <section class="grid intro">

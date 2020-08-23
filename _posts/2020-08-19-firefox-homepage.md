@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Firefox Homepage
-excerpt: Nullam quis risus eget urna mollis ornare vel eu leo. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+excerpt: User Research, UX, and Design of a new download page for the Firefox Browser; optimized to increase session to download conversion rates.
 featured-image: /firefox/firefox-homepage.png
 featured-image-alt: Featured image alt
 category: project

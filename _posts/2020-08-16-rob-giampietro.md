@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rob Giampietro
-excerpt: Rob is a designer, teacher, writer, critic, and winner of the 2014-15 Katherine Edwards Gordon Rome Prize at the American Academy in Rome. He is currently Director of Design at The Museum of Modern Art in New York.
+excerpt: Rob is a designer, teacher, writer, critic, and winner of the 2014-15 Katherine Edwards Gordon Rome Prize at the American Academy in Rome. He is currently a Senior UX Design Manager at Google in New York.
 category: note
 tags: interview
 ---
@@ -12,7 +12,7 @@ tags: interview
     <time>{{ page.date | date_to_string }}</time>
   </header>
   <article>
-    <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
+    <p>Rob is a designer, teacher, writer, critic, and winner of the 2014-15 Katherine Edwards Gordon Rome Prize at the American Academy in Rome. He is currently a Senior UX Design Manager at Google in New York.</p>
   </article>
   <footer>
     <p>
@@ -28,7 +28,7 @@ tags: interview
   <figure>
     <img src="/img/rob_giampietro.png">
     <figcaption>
-      <p>Photo by Firstname Lastname</p>
+      <p>Photo by Ryan Essmaker</p>
     </figcaption>
   </figure>
 </section>

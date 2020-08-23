@@ -6,13 +6,13 @@ category: note
 tags: Interview
 ---
 
-<section class="grid  note-intro">
+<section class="grid note-intro">
   <header>
     <h2>{{ page.title }}</h2>
     <time>{{ page.date | date_to_string }}</time>
   </header>
   <article>
-    <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
+    <p>Duane is a Consultant and Creative Director based in Portland, Oregon who champions the aesthetics of ideas. Driven by curiosity, he explores and creates what is possible with imagination, wit, and clarity.</p>
   </article>
   <footer>
     <p>
@@ -28,7 +28,7 @@ tags: Interview
   <figure>
     <img src="/img/duane_king.png">
     <figcaption>
-      <p>Photo by Firstname Lastname</p>
+      <p>Photo by Ryan Chisesi</p>
     </figcaption>
   </figure>
 </section>
