@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Justin Kropp</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2020-08-23T16:52:25-04:00</updated>
- <id>http://localhost:4000</id>
+ <link href="http://jstnkrpp.com/atom.xml" rel="self"/>
+ <link href="http://jstnkrpp.com/"/>
+ <updated>2020-08-23T17:04:28-04:00</updated>
+ <id>http://jstnkrpp.com</id>
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Discourse, Duane King</title>
-   <link href="http://localhost:4000/note/duane-king.html"/>
+   <link href="http://jstnkrpp.com/note/duane-king.html"/>
    <updated>2020-08-22T00:00:00-04:00</updated>
-   <id>http://localhost:4000/note/duane-king</id>
+   <id>http://jstnkrpp.com/note/duane-king</id>
    <content type="html">&lt;section class=&quot;grid note-intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;Discourse, Duane King&lt;/h2&gt;
@@ -126,9 +126,9 @@
  
  <entry>
    <title>Mozilla Protocol</title>
-   <link href="http://localhost:4000/project/mozilla-protocol.html"/>
+   <link href="http://jstnkrpp.com/project/mozilla-protocol.html"/>
    <updated>2020-08-21T00:00:00-04:00</updated>
-   <id>http://localhost:4000/project/mozilla-protocol</id>
+   <id>http://jstnkrpp.com/project/mozilla-protocol</id>
    <content type="html">&lt;section class=&quot;grid intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;Mozilla Protocol&lt;/h2&gt;
@@ -259,9 +259,9 @@
  
  <entry>
    <title>Where's the Finish Line?</title>
-   <link href="http://localhost:4000/note/finish-line.html"/>
+   <link href="http://jstnkrpp.com/note/finish-line.html"/>
    <updated>2020-08-20T00:00:00-04:00</updated>
-   <id>http://localhost:4000/note/finish-line</id>
+   <id>http://jstnkrpp.com/note/finish-line</id>
    <content type="html">&lt;section class=&quot;grid note-intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;Where's the Finish Line?&lt;/h2&gt;
@@ -317,9 +317,9 @@
  
  <entry>
    <title>Firefox Homepage</title>
-   <link href="http://localhost:4000/project/firefox-homepage.html"/>
+   <link href="http://jstnkrpp.com/project/firefox-homepage.html"/>
    <updated>2020-08-19T00:00:00-04:00</updated>
-   <id>http://localhost:4000/project/firefox-homepage</id>
+   <id>http://jstnkrpp.com/project/firefox-homepage</id>
    <content type="html">&lt;section class=&quot;grid intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;Firefox Homepage&lt;/h2&gt;
@@ -420,9 +420,9 @@
  
  <entry>
    <title>Discourse, Joe Stewart</title>
-   <link href="http://localhost:4000/note/joe-stewart.html"/>
+   <link href="http://jstnkrpp.com/note/joe-stewart.html"/>
    <updated>2020-08-18T00:00:00-04:00</updated>
-   <id>http://localhost:4000/note/joe-stewart</id>
+   <id>http://jstnkrpp.com/note/joe-stewart</id>
    <content type="html">&lt;section class=&quot;grid  note-intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;Discourse, Joe Stewart&lt;/h2&gt;
@@ -590,9 +590,9 @@ I think the work we’re doing is good, and I believe in it. I like where I work
  
  <entry>
    <title>Rob Giampietro</title>
-   <link href="http://localhost:4000/note/rob-giampietro.html"/>
+   <link href="http://jstnkrpp.com/note/rob-giampietro.html"/>
    <updated>2020-08-16T00:00:00-04:00</updated>
-   <id>http://localhost:4000/note/rob-giampietro</id>
+   <id>http://jstnkrpp.com/note/rob-giampietro</id>
    <content type="html">&lt;section class=&quot;grid  note-intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;Rob Giampietro&lt;/h2&gt;
@@ -704,9 +704,9 @@ I think the work we’re doing is good, and I believe in it. I like where I work
  
  <entry>
    <title>WordPress Signup</title>
-   <link href="http://localhost:4000/project/wordpress-signup.html"/>
+   <link href="http://jstnkrpp.com/project/wordpress-signup.html"/>
    <updated>2020-08-15T00:00:00-04:00</updated>
-   <id>http://localhost:4000/project/wordpress-signup</id>
+   <id>http://jstnkrpp.com/project/wordpress-signup</id>
    <content type="html">&lt;section class=&quot;grid intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;WordPress Signup&lt;/h2&gt;
@@ -811,9 +811,9 @@ I think the work we’re doing is good, and I believe in it. I like where I work
  
  <entry>
    <title>Hello World</title>
-   <link href="http://localhost:4000/note/hello-world.html"/>
+   <link href="http://jstnkrpp.com/note/hello-world.html"/>
    <updated>2020-08-14T00:00:00-04:00</updated>
-   <id>http://localhost:4000/note/hello-world</id>
+   <id>http://jstnkrpp.com/note/hello-world</id>
    <content type="html">&lt;p&gt;I’ve spent the better part of the last several years exploring and questioning my relationship with design. This exploration has primarily been an internal exercise  and to a large intent informed by the nature of my career path: a formally educated graphic designer working as a digital product designer in tech for the past 15 years.&lt;/p&gt;
 
 &lt;p&gt;Rather than continue to keep these explorations and observations to myself, I’d like put them out there in the open and perhaps find some answers to the questions I’ve been asking.&lt;/p&gt;
@@ -824,9 +824,9 @@ I think the work we’re doing is good, and I believe in it. I like where I work
  
  <entry>
    <title>WordPress Dashboard</title>
-   <link href="http://localhost:4000/project/wordpress-dashboard.html"/>
+   <link href="http://jstnkrpp.com/project/wordpress-dashboard.html"/>
    <updated>2020-08-13T00:00:00-04:00</updated>
-   <id>http://localhost:4000/project/wordpress-dashboard</id>
+   <id>http://jstnkrpp.com/project/wordpress-dashboard</id>
    <content type="html">&lt;section class=&quot;grid intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;WordPress Dashboard&lt;/h2&gt;
@@ -915,9 +915,9 @@ I think the work we’re doing is good, and I believe in it. I like where I work
  
  <entry>
    <title>Readmill</title>
-   <link href="http://localhost:4000/project/readmill.html"/>
+   <link href="http://jstnkrpp.com/project/readmill.html"/>
    <updated>2020-08-12T00:00:00-04:00</updated>
-   <id>http://localhost:4000/project/readmill</id>
+   <id>http://jstnkrpp.com/project/readmill</id>
    <content type="html">&lt;section class=&quot;grid intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;Readmill&lt;/h2&gt;
