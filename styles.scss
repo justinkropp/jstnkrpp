@@ -5,31 +5,6 @@
 
 // font
 
-@font-face {
-  font-family: "Untitled-Sans";
-  src: url("/fonts/untitled-sans-test-regular.woff") format("woff");
-}
-@font-face {
-  font-family: "Untitled-Sans-Medium";
-  src: url("/fonts/untitled-sans-test-medium.woff") format("woff");
-}
-@font-face {
-  font-family: "Untitled-Sans-Bold";
-  src: url("/fonts/untitled-sans-test-bold.woff") format("woff");
-}
-
-@font-face {
-  font-family: "Untitled-Serif";
-  src: url("/fonts/untitled-serif-test-regular.woff") format("woff");
-}
-@font-face {
-  font-family: "Untitled-Serif-Medium";
-  src: url("/fonts/untitled-serif-test-medium.woff") format("woff");
-}
-@font-face {
-  font-family: "Untitled-Serif-Bold";
-  src: url("/fonts/untitled-serif-test-bold.woff") format("woff");
-}
 
 
 
@@ -49,7 +24,7 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  font-family: "Untitled-Sans";
+  font-family: 'IBM Plex Sans', -apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
   color: rgba($black, 0.80);
 }
 
@@ -59,9 +34,8 @@ body {
 
 h1, h2, h3, h4 {
   margin: 0 0 1em 0;
-  font-family: "Untitled-Sans-Medium";
   font-size: 1rem;
-  font-weight: normal;
+  font-weight: 500;
   line-height: 1.75;
 }
 
@@ -72,8 +46,7 @@ p {
 }
 
 strong {
-  font-family: "Untitled-Sans-Medium";
-  font-weight: normal;
+  font-weight: 600;
 }
 
 li {
@@ -101,7 +74,6 @@ a {
 figure {
   figcaption {
     p {
-      font-family: "Untitled-Sans";
     }
   }
 }
@@ -150,14 +122,13 @@ header[role=banner] {
   h1 {
     width: 30%;
     margin: 0;
-    font-family: "Untitled-Sans-Medium";
+    font-weight: 600;
   }
   nav {
     width: 50%;
     ul {
       margin: 0;
       li {
-        font-family: "Untitled-Sans";
         display: inline-block;
         margin: 0 2em 0 0;
         a {
@@ -195,9 +166,8 @@ footer[role=footer] {
   max-width: 50%;
   margin: 0 0 8em 30%;
   p {
-    font-size: 1.2rem;
-    font-family: "Untitled-Sans-Medium";
-    font-weight: normal;
+    font-size: 1.4rem;
+    font-weight: 500;
   }
 }
 
@@ -218,7 +188,6 @@ footer[role=footer] {
   }
   footer {
     p, li {
-      font-family: "Untitled-Sans";
       text-transform: capitalize;
     }
   }
@@ -245,7 +214,9 @@ ul.posts {
         }
         footer {
           p {
-            font-size: .9rem;
+            text-transform: uppercase;
+            font-size: .75rem;
+            font-weight: 500;
             text-align: right;
             color: rgba($black, 0.50);
           }
@@ -325,7 +296,9 @@ ul.posts {
     grid-column: 1;
     grid-row: 2 / 3;
     li {
-      font-size: .9rem;
+      text-transform: uppercase;
+      font-size: .75rem;
+      font-weight: 500;
       color: rgba($black, 0.50);
     }
   }
@@ -399,9 +372,11 @@ ul.notes {
         footer {
           grid-column: 3;
           p {
-            font-size: .9rem;
-            color: rgba($black, 0.50);
+            text-transform: uppercase;
+            font-size: .75rem;
+            font-weight: 500;
             text-align: right;
+            color: rgba($black, 0.50);
           }
         }
       }
@@ -433,7 +408,10 @@ ul.notes {
   footer {
     grid-column: 3;
     p {
+      text-transform: lowercase;
+      font-size: 1rem;
       text-align: right;
+      color: rgba($black, 0.50);
     }
   }
 }

@@ -1,21 +1,3 @@
-@font-face {
-  font-family: "Untitled-Sans";
-  src: url("/fonts/untitled-sans-test-regular.woff") format("woff"); }
-@font-face {
-  font-family: "Untitled-Sans-Medium";
-  src: url("/fonts/untitled-sans-test-medium.woff") format("woff"); }
-@font-face {
-  font-family: "Untitled-Sans-Bold";
-  src: url("/fonts/untitled-sans-test-bold.woff") format("woff"); }
-@font-face {
-  font-family: "Untitled-Serif";
-  src: url("/fonts/untitled-serif-test-regular.woff") format("woff"); }
-@font-face {
-  font-family: "Untitled-Serif-Medium";
-  src: url("/fonts/untitled-serif-test-medium.woff") format("woff"); }
-@font-face {
-  font-family: "Untitled-Serif-Bold";
-  src: url("/fonts/untitled-serif-test-bold.woff") format("woff"); }
 * {
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
@@ -26,7 +8,7 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  font-family: "Untitled-Sans";
+  font-family: 'IBM Plex Sans', -apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
   color: rgba(0, 0, 0, 0.8); }
 
 body {
@@ -34,9 +16,8 @@ body {
 
 h1, h2, h3, h4 {
   margin: 0 0 1em 0;
-  font-family: "Untitled-Sans-Medium";
   font-size: 1rem;
-  font-weight: normal;
+  font-weight: 500;
   line-height: 1.75; }
 
 p {
@@ -45,8 +26,7 @@ p {
   line-height: 1.75; }
 
 strong {
-  font-family: "Untitled-Sans-Medium";
-  font-weight: normal; }
+  font-weight: 600; }
 
 li {
   font-size: 1rem;
@@ -64,9 +44,6 @@ ul {
 a {
   color: rgba(0, 0, 0, 0.75);
   text-decoration: none; }
-
-figure figcaption p {
-  font-family: "Untitled-Sans"; }
 
 img {
   display: block;
@@ -103,13 +80,12 @@ header[role=banner] {
   header[role=banner] h1 {
     width: 30%;
     margin: 0;
-    font-family: "Untitled-Sans-Medium"; }
+    font-weight: 600; }
   header[role=banner] nav {
     width: 50%; }
     header[role=banner] nav ul {
       margin: 0; }
       header[role=banner] nav ul li {
-        font-family: "Untitled-Sans";
         display: inline-block;
         margin: 0 2em 0 0; }
         header[role=banner] nav ul li a {
@@ -136,9 +112,8 @@ footer[role=footer] {
   max-width: 50%;
   margin: 0 0 8em 30%; }
   .page-intro p {
-    font-size: 1.2rem;
-    font-family: "Untitled-Sans-Medium";
-    font-weight: normal; }
+    font-size: 1.4rem;
+    font-weight: 500; }
 
 .page-outtro {
   display: none;
@@ -149,7 +124,6 @@ footer[role=footer] {
   display: grid;
   grid-template-columns: 30% 50% 20%; }
   .grid footer p, .grid footer li {
-    font-family: "Untitled-Sans";
     text-transform: capitalize; }
 
 ul.posts {
@@ -167,7 +141,9 @@ ul.posts {
           width: 45%;
           margin: 0 1.5em 0 0; }
       ul.posts li .grid.home footer p {
-        font-size: .9rem;
+        text-transform: uppercase;
+        font-size: .75rem;
+        font-weight: 500;
         text-align: right;
         color: rgba(0, 0, 0, 0.5); }
     ul.posts li:last-child {
@@ -218,7 +194,9 @@ ul.posts {
   grid-column: 1;
   grid-row: 2 / 3; }
   .grid.intro footer li {
-    font-size: .9rem;
+    text-transform: uppercase;
+    font-size: .75rem;
+    font-weight: 500;
     color: rgba(0, 0, 0, 0.5); }
 
 .grid.image {
@@ -272,9 +250,11 @@ ul.notes {
       ul.notes li .grid.note footer {
         grid-column: 3; }
         ul.notes li .grid.note footer p {
-          font-size: .9rem;
-          color: rgba(0, 0, 0, 0.5);
-          text-align: right; }
+          text-transform: uppercase;
+          font-size: .75rem;
+          font-weight: 500;
+          text-align: right;
+          color: rgba(0, 0, 0, 0.5); }
     ul.notes li:last-child {
       border-bottom: none; }
       ul.notes li:last-child .grid.note {
@@ -293,7 +273,10 @@ ul.notes {
   .grid.note-intro footer {
     grid-column: 3; }
     .grid.note-intro footer p {
-      text-align: right; }
+      text-transform: lowercase;
+      font-size: 1rem;
+      text-align: right;
+      color: rgba(0, 0, 0, 0.5); }
 
 .grid.note-image figure {
   display: grid;
