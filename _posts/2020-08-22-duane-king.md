@@ -83,7 +83,7 @@ tags: Interview
 
   <p>How can we leverage our current codependency on tools, process, and startup culture to begin creating work of merit? With sacrifice. We should stop thinking about what benefits us the most—and instead think about what’s best for all of us. That doesn’t mean you have to give up what’s good for you. But it does mean you should think twice about the value the work you introduce into the world creates (and no, it doesn’t have to be epic value either—a smile counts).</p>
 
-  <strong>With that in mind, what’s next for you? Where do you see, and perhaps hope, this journey is taking you?</strong></p>
+  <p><strong>With that in mind, what’s next for you? Where do you see, and perhaps hope, this journey is taking you?</strong></p>
 
   <p>This last segment of my career has been particularly interesting in that it’s a culmination of years of acquired skills—professional and personal alike. I now see the potential of my ability in business development and sales—skills I long thought were out of character for me. As it turns out, the world loves an honest, passionate person. Love what you make, mean what you say, and the rest happens naturally.</p>
 
@@ -93,9 +93,9 @@ tags: Interview
 
   <p>Good point. True, the Hollywood model is apt, but it hints at excess which is antithetical to the core of my interests regarding studio models. For me, it’s also about sustainability. Metaphorically, if ideas are eggs, then I need to treat my chickens as best as possible so that their eggs are healthy so that my farm and my customers are too. It’s about appropriateness of scale. Agencies run mass-production chicken farms. The eggs are runny because the chickens are unhealthy—and therefore clients are unhealthy too. The ecosystem is toxic. I believe there should be the design agency equivalent of an organic or sustainable farm.</p>
 
-  Business development and sales experience have proven extremely useful. With years of experience comes an understanding of the ebb and flow of the work and a surprisingly instinctual directional compass. Maturation has gifted me the confidence to lean into simply being myself, combining passions, skills, and opportunity. It feels like a new era of possibility.</p>
+    <p>Business development and sales experience have proven extremely useful. With years of experience comes an understanding of the ebb and flow of the work and a surprisingly instinctual directional compass. Maturation has gifted me the confidence to lean into simply being myself, combining passions, skills, and opportunity. It feels like a new era of possibility.</p>
 
-  <strong>Do you attribute some of the success of <a href="https://messagefrom.earth">Pioneer Plaque</a> to those skills? What was the biggest challenge you encountered on that journey?</strong></p>
+    <p><strong>Do you attribute some of the success of <a href="https://messagefrom.earth">Pioneer Plaque</a> to those skills? What was the biggest challenge you encountered on that journey?</strong></p>
 
   <p>Most certainly. And in fact, the Pioneer project is largely informing the current trajectory of my career. The dovetail fit of what I am good at, what I can charge for, and what I love, has nurtured an unexpectedly fruitful environment for new collaborations—and more importantly, new experiences. What began as an idea was vetted and reinforced through careful business planning and nuanced threading of relationships, both old and new. From design to finance to communications to production, it felt like a full activation of all the things that make me who I am. Mistakes and all.</p>
 

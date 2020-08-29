@@ -164,6 +164,3 @@ I think the work we’re doing is good, and I believe in it. I like where I work
 <p>Again, it’s super simple – we want to keep getting better at what we’re already doing. Keep sharpening the pencil. Keep improving, learning new skills, improving our design theory, just keep going. And as we keep going, we want to make sure we’re enjoying every moment of it.</p>
 
 <p>For me, simply to design is the goal, the reward is in the act itself. My next step? Just keep designing.</p>
-
-</article>
-</section>
