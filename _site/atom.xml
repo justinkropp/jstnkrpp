@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Justin Kropp</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2020-09-12T15:32:17-04:00</updated>
- <id>http://localhost:4000</id>
+ <link href="http://jstnkrpp.com/atom.xml" rel="self"/>
+ <link href="http://jstnkrpp.com/"/>
+ <updated>2020-09-30T11:08:54-04:00</updated>
+ <id>http://jstnkrpp.com</id>
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Discourse, Duane King</title>
-   <link href="http://localhost:4000/note/duane-king.html"/>
+   <link href="http://jstnkrpp.com/note/duane-king.html"/>
    <updated>2020-08-22T00:00:00-04:00</updated>
-   <id>http://localhost:4000/note/duane-king</id>
+   <id>http://jstnkrpp.com/note/duane-king</id>
    <content type="html">&lt;section class=&quot;grid note-intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;Discourse, Duane King&lt;/h2&gt;
@@ -126,9 +126,9 @@
  
  <entry>
    <title>Mozilla Protocol</title>
-   <link href="http://localhost:4000/project/mozilla-protocol.html"/>
+   <link href="http://jstnkrpp.com/project/mozilla-protocol.html"/>
    <updated>2020-08-21T00:00:00-04:00</updated>
-   <id>http://localhost:4000/project/mozilla-protocol</id>
+   <id>http://jstnkrpp.com/project/mozilla-protocol</id>
    <content type="html">&lt;section class=&quot;grid intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;Mozilla Protocol&lt;/h2&gt;
@@ -259,9 +259,9 @@
  
  <entry>
    <title>Where's the Finish Line?</title>
-   <link href="http://localhost:4000/note/finish-line.html"/>
+   <link href="http://jstnkrpp.com/note/finish-line.html"/>
    <updated>2020-08-20T00:00:00-04:00</updated>
-   <id>http://localhost:4000/note/finish-line</id>
+   <id>http://jstnkrpp.com/note/finish-line</id>
    <content type="html">&lt;section class=&quot;grid note-intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;Where's the Finish Line?&lt;/h2&gt;
@@ -317,9 +317,9 @@
  
  <entry>
    <title>Firefox Homepage</title>
-   <link href="http://localhost:4000/project/firefox-homepage.html"/>
+   <link href="http://jstnkrpp.com/project/firefox-homepage.html"/>
    <updated>2020-08-19T00:00:00-04:00</updated>
-   <id>http://localhost:4000/project/firefox-homepage</id>
+   <id>http://jstnkrpp.com/project/firefox-homepage</id>
    <content type="html">&lt;section class=&quot;grid intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;Firefox Homepage&lt;/h2&gt;
@@ -420,9 +420,9 @@
  
  <entry>
    <title>Discourse, Joe Stewart</title>
-   <link href="http://localhost:4000/note/joe-stewart.html"/>
+   <link href="http://jstnkrpp.com/note/joe-stewart.html"/>
    <updated>2020-08-18T00:00:00-04:00</updated>
-   <id>http://localhost:4000/note/joe-stewart</id>
+   <id>http://jstnkrpp.com/note/joe-stewart</id>
    <content type="html">&lt;section class=&quot;grid  note-intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;Discourse, Joe Stewart&lt;/h2&gt;
@@ -587,9 +587,9 @@ I think the work we’re doing is good, and I believe in it. I like where I work
  
  <entry>
    <title>Rob Giampietro</title>
-   <link href="http://localhost:4000/note/rob-giampietro.html"/>
+   <link href="http://jstnkrpp.com/note/rob-giampietro.html"/>
    <updated>2020-08-16T00:00:00-04:00</updated>
-   <id>http://localhost:4000/note/rob-giampietro</id>
+   <id>http://jstnkrpp.com/note/rob-giampietro</id>
    <content type="html">&lt;section class=&quot;grid  note-intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;Rob Giampietro&lt;/h2&gt;
@@ -701,9 +701,9 @@ I think the work we’re doing is good, and I believe in it. I like where I work
  
  <entry>
    <title>WordPress Signup</title>
-   <link href="http://localhost:4000/project/wordpress-signup.html"/>
+   <link href="http://jstnkrpp.com/project/wordpress-signup.html"/>
    <updated>2020-08-15T00:00:00-04:00</updated>
-   <id>http://localhost:4000/project/wordpress-signup</id>
+   <id>http://jstnkrpp.com/project/wordpress-signup</id>
    <content type="html">&lt;section class=&quot;grid intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;WordPress Signup&lt;/h2&gt;
@@ -808,9 +808,9 @@ I think the work we’re doing is good, and I believe in it. I like where I work
  
  <entry>
    <title>Hello World</title>
-   <link href="http://localhost:4000/note/hello-world.html"/>
+   <link href="http://jstnkrpp.com/note/hello-world.html"/>
    <updated>2020-08-14T00:00:00-04:00</updated>
-   <id>http://localhost:4000/note/hello-world</id>
+   <id>http://jstnkrpp.com/note/hello-world</id>
    <content type="html">&lt;section class=&quot;grid  note-intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;Hello World&lt;/h2&gt;
@@ -837,101 +837,10 @@ I think the work we’re doing is good, and I believe in it. I like where I work
  </entry>
  
  <entry>
-   <title>WordPress Dashboard</title>
-   <link href="http://localhost:4000/project/wordpress-dashboard.html"/>
-   <updated>2020-08-13T00:00:00-04:00</updated>
-   <id>http://localhost:4000/project/wordpress-dashboard</id>
-   <content type="html">&lt;section class=&quot;grid intro&quot;&gt;
-  &lt;header&gt;
-    &lt;h2&gt;WordPress Dashboard&lt;/h2&gt;
-  &lt;/header&gt;
-  &lt;article&gt;
-    &lt;p&gt;The the signup flow had recently been redesigned to help guide customers more efficiently through setting up a site tailored to their needs, and we began seeing an increase in account activations — but our retention and engagement numbers still left room for improvement. &lt;/p&gt;
-  &lt;/article&gt;
-  &lt;footer&gt;
-    &lt;ul&gt;
-      &lt;li&gt;UX Design&lt;/li&gt;
-      &lt;li&gt;UI Design&lt;/li&gt;
-      &lt;li&gt;Strategy&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/footer&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;grid image&quot;&gt;
-  &lt;figure&gt;
-    &lt;img class=&quot;feat-img&quot; src=&quot;/img/wordpress/dashboard-flow.png&quot; /&gt;
-    &lt;figcaption&gt;
-      &lt;p&gt;From the dashboard, a user could easily purchase a domain or upgrade their account.&lt;/p&gt;
-    &lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;grid info&quot;&gt;
-  &lt;article&gt;
-    &lt;p&gt;Once a user signed up for an account, they would land in their account dashboard. The dashboard was command central, so to speak. From here they could manage their posts, pages, and plugins. Approve or delete comments. Customize their theme. Add, delete, or change permissions for site contributors. It put the user in the driver seat.&lt;/p&gt;
-    &lt;p&gt;We hypothesized that if a user could view the fruits of their labor — audience engagement — that they would be more inclined to stick around and continue to create content. User researched confirmed our hunch. Statements like &quot;Are people even reading my content?&quot; and &quot;Do they like what they're reading?&quot; were heard over and over in user interviews.&lt;/p&gt;
-  &lt;/article&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;grid image&quot;&gt;
-  &lt;figure&gt;
-    &lt;img class=&quot;feat-img&quot; src=&quot;/img/wordpress/dashboard-wireframe.png&quot; /&gt;
-  &lt;figcaption&gt;
-      &lt;p&gt;New default view in the user's account dashboard was an analytics overview.&lt;/p&gt;
-    &lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;grid info&quot;&gt;
-  &lt;article&gt;
-    &lt;p&gt;As a solution to our user's frustration with not knowing if anyone was engaging with their content, we designed a robust analytics dashboard that would become the default view of the user dashboard. From here the user could quickly get a birds eye view of the traffic breakdown for their site: views, visitors, likes, and comments per day/week/month/years. &lt;/p&gt;
-  &lt;/article&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;grid image&quot;&gt;
-  &lt;figure&gt;
-    &lt;img class=&quot;feat-img&quot; src=&quot;/img/wordpress/dashboard-design.png&quot; /&gt;
-  &lt;figcaption&gt;
-      &lt;p&gt;Empty state view of a new user's dashboard, which would become another problem we needed to solve for.&lt;/p&gt;
-    &lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;grid info&quot;&gt;
-  &lt;article&gt;
-    &lt;p&gt;When given the ability to view traffic broken down by post, page, search term, and clicks a user can gauge which content their audience was responding to. To help aid the user in continued refinement of their site's presence online, we built a site checklist into this analytics dashboard that would provide actionable tips and tricks to help them understand how to get the most out of their site.&lt;/p&gt;
-  &lt;/article&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;grid image&quot;&gt;
-  &lt;figure&gt;
-    &lt;img class=&quot;feat-img&quot; src=&quot;/img/wordpress/dashboard-components.png&quot; /&gt;
-  &lt;figcaption&gt;
-      &lt;p&gt;A user could select and purchase a domain name from their account dashboard, a process that was executed from a modal in their dashboard.&lt;/p&gt;
-    &lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;grid info&quot;&gt;
-  &lt;article&gt;
-    &lt;p&gt;For users who had opted to skip setting up a domain during signup, we made sure to provide access to that upgrade from their dashboard. If a user chose to upgrade their account, we made sure that they could do so right from their dashboard and that that process kept them in their dashboard view.&lt;/p&gt;
-  &lt;/article&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;grid info&quot;&gt;
-  &lt;article&gt;
-    &lt;h3&gt;Outcomes&lt;/h3&gt;
-    &lt;p&gt;This work resulted in a 18% increase in overall retention and a 23% increase in engagement after account activation. &lt;/p&gt;
-  &lt;/article&gt;
-&lt;/section&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Readmill</title>
-   <link href="http://localhost:4000/project/readmill.html"/>
+   <link href="http://jstnkrpp.com/project/readmill.html"/>
    <updated>2020-08-12T00:00:00-04:00</updated>
-   <id>http://localhost:4000/project/readmill</id>
+   <id>http://jstnkrpp.com/project/readmill</id>
    <content type="html">&lt;section class=&quot;grid intro&quot;&gt;
   &lt;header&gt;
     &lt;h2&gt;Readmill&lt;/h2&gt;
