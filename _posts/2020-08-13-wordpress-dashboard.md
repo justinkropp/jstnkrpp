@@ -6,7 +6,7 @@ featured-image: /wordpress/wordpress-dashboard.png
 featured-image-alt: Featured image alt
 category: project
 tags: UI
-published: false
+published: true
 ---
 
 <section class="grid intro">

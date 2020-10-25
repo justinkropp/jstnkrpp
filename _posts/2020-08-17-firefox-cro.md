@@ -6,7 +6,7 @@ featured-image: /firefox/firefox-cro.png
 featured-image-alt: Featured image alt
 category: project
 tags: product
-published: false
+published: true
 ---
 
 <section class="grid intro">

@@ -3,11 +3,11 @@ layout: default
 title: Profile
 ---
 
-<div class="headshot">
-  <img src="/img/mugshot.png">
-</div>
+<section class="profile page-intro">
+  <h2>About Justin</h2>
+</section>
 
-<section class="grid profile">
+<section class="profile">
   <article>
     <p>Justin Kropp is a Senior UX Designer at Mozilla, working on human-centered design and innovation across the Mozilla and Firefox family of products. His work at Mozilla spans user research, user experience design, user interface design, and systems and mechanics design and implementation.</p>
     <p>Previous to his current role, Justin was a Senior UX Designer and Team Lead at Automattic, the makers of Wordpress, leading a cross functional team on projects spanning user onboarding, new user experience, and retention and engagement initiatives.</p>
@@ -22,12 +22,12 @@ title: Profile
   </footer>
 </section>
 
-<section class="grid profile">
+<section class="profile">
   <article>
     <h2>Expertise and Practice Areas</h2>
     <p>His expertise and interests sit at the intersection of graphic design, typography, design systems, and digital  product design and strategy.</p>
 
-    <ul class="col expertise">
+    <ul>
       <li>Interaction design</li>
       <li>Rapid prototyping</li>
       <li>User research and testing</li>
@@ -35,7 +35,7 @@ title: Profile
       <li>Usability Testing</li>
       <li>Design Systems</li>
     </ul>
-    <ul class="col expertise">
+    <ul>
       <li>Identity Design</li>
       <li>Product strategy</li>
       <li>Brand strategy</li>
@@ -46,13 +46,9 @@ title: Profile
   </article>
 </section>
 
-<section class="grid profile">
+<section class="profile">
   <article>
     <h2>Speaking Engagements</h2>
     <p>Code and Creativity, Maryland Institute College of Art, AIGA Chattanooga, Society of Work, University of Baltimore, Automattic</p>
   </article>
 </section>
-
-<div class="page-outtro">
-  <p>Donec ullamcorper nulla non metus auctor fringilla.</p>
-</div>

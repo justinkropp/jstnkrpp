@@ -3,16 +3,15 @@ layout: default
 title: Notebook
 ---
 
-<div class="page-intro">
-  <p>A periodically updated compendium of observations, notes, and essays exploring the evolving nature and responsibility of design and technology.</p>
-</div>
+<section class="writing page-intro">
+  <p>An intermittently updated collection of observations, notes, and essays.</p>
+</section>
 
 
-<ul class="notes">
+<ul class="posts">
   {% for post in site.categories.note %}
     {% if post.url %}
-    <li>
-      <section class="grid note">
+    <li class="post-summary">
         <header>
             <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
         </header>
@@ -24,15 +23,10 @@ title: Notebook
             {% for tag in post.tags %}
               {{ tag }}
             {% endfor %}
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
           </p>
         </footer>
-      </section>
     </li>
     {% endif %}
   {% endfor %}
 </ul>
-
-
-<div class="page-outtro">
-  <p>Donec ullamcorper nulla non metus auctor fringilla. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-</div>

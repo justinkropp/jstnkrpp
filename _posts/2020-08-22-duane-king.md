@@ -6,37 +6,21 @@ category: note
 tags: Interview
 ---
 
-<section class="grid note-intro">
-  <header>
-    <h2>{{ page.title }}</h2>
-    <time>{{ page.date | date_to_string }}</time>
-  </header>
-  <article>
-    <p>Duane is a Consultant and Creative Director based in Portland, Oregon who champions the aesthetics of ideas. Driven by curiosity, he explores and creates what is possible with imagination, wit, and clarity.</p>
-  </article>
-  <footer>
-    <p>
-    {% for tag in page.tags %}
-      {% capture tag_name %}{{ tag }}{% endcapture %}
-      <a href="/tag/{{ tag_name }}"><nobr>{{ tag_name }}</nobr></a>
-    {% endfor %}
-    </p>
-  </footer>
-</section>
+<section class="post">
 
-<section class="grid note-image">
-  <figure>
-    <img src="/img/duane_king.png">
-    <figcaption>
-      <p>Photo by Ryan Chisesi</p>
-    </figcaption>
-  </figure>
-</section>
+<header class="post-header">
+  <h2>{{ page.title }}</h2>
+  <h3>{{ page.date | date_to_string }}</h3>
+  <p>{% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><nobr>{{ tag_name }}</nobr></a>
+  {% endfor %}</p>
+</header>
 
-<section class="grid note-words">
-  <article>
 
-  <p><strong>In volume one of <a href="https://www.brckt.com">Bracket</a>, you discuss the concept of craft — as both a noun and verb — in our profession. The concept of craft has seemingly become an integral part of the ethos of your work. How do you approach craft when designing digital products?</strong></p>
+  <p>Duane is a Consultant and Creative Director based in Portland, Oregon who champions the aesthetics of ideas. Driven by curiosity, he explores and creates what is possible with imagination, wit, and clarity.</p>
+
+  <p class="question"><strong>In volume one of <a href="https://www.brckt.com">Bracket</a>, you discuss the concept of craft — as both a noun and verb — in our profession. The concept of craft has seemingly become an integral part of the ethos of your work. How do you approach craft when designing digital products?</strong></p>
 
   <p>Craft, for me, is about lovingly applying your skills to a particular problem. Craft in digital product involves the careful consideration of function to ensure that affordances support needs as well as possibilities — and that they are beautiful as well as useful.</p>
 
@@ -108,5 +92,5 @@ tags: Interview
   <p>Designers were once akin to musicians or artists. Often, we suffered financially for our passionate dedication to the craft of design. It never was about money—it was about love. But over time, the startup and tech worlds created new opportunities, including the ability to earn salaries commensurate with other professions. Honestly, we needed it. Perhaps even deserved it. But sadly it seems to have shifted the motivations of those who gravitate towards our industry. Alpha personalities prevail.</p>
 
   <p>I have been studying the Japanese concept of <a href="https://en.wikipedia.org/wiki/Ikigai">Ikigai</a>, or “reason for being.” The concept is all about the intersection of your passion and talent with what the world is willing to pay for and needs. The approach has been transformative and has brought joy back into the process of design. I believe in plenty, but I also believe in enough. With needs met, I feel an obligation to share my gifts, work on what is hard, and enjoy myself while doing so. It’s my way of making my career in design sustainable.</p>
-  </article>
+
   </section>

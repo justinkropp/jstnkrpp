@@ -6,6 +6,7 @@ featured-image: /firefox/firefox-homepage.png
 featured-image-alt: Featured image alt
 category: project
 tags: product
+published: true
 ---
 
 <section class="grid intro">

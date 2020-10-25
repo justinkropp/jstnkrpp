@@ -1,135 +1,105 @@
 ---
-layout: project
+layout: post
 title: Mozilla Protocol
-excerpt: Building a robust design system spanning both web and product surfaces for the Mozilla and Firefox family of products. 
+excerpt: Building a robust design system spanning both web and product surfaces for the Mozilla and Firefox family of products.
 featured-image: /mozilla/mozilla-protocol.png
 featured-image-alt: Featured image alt
 category: project
 tags: product
+published: true
 ---
 
-<section class="grid intro">
-  <header>
-    <h2>Mozilla Protocol</h2>
-  </header>
-  <article>
-    <p>Protocol is a design system for Mozilla and Firefox. It establishes a common design language, provides reusable coded components, and outlines high level guidelines for content and accessibility.</p>
-    <p>Drafting off work that had already been established for Mozilla, I helped expand the new Firefox brand into a thoughtful system of design and ui components—pushing beyond the archetypal conventions that are typical for a digital design system.</p>
-  </article>
-  <footer>
-    <ul>
-      <li>Visual Design</li>
-      <li>UI Design</li>
-      <li>Systems Design</li>
-    </ul>
-  </footer>
-</section>
+<div class="single-project">
 
-<section class="grid image">
+<header class="project-intro">
+  <h2>Mozilla Protocol</h2>
+  <ul>
+    <li>UI Design</li>
+    <li>Design Systems</li>
+  </ul>
+  <p>Protocol is a design system for Mozilla and Firefox. It establishes a common design language, provides reusable coded components, and outlines high level guidelines for content and accessibility.</p>
+</header>
+
   <figure>
     <img class="feat-img" src="/img/mozilla/product-family.png">
     <figcaption>
       <p>Mozilla and Firefox have an evolving family of products.</p>
     </figcaption>
   </figure>
-</section>
 
-<section class="grid info">
-  <article>
+<section>
+<article>
     <p>Mozilla is known for its Firefox Browser, which has been at the forefront of privacy and safety online since its inception. When I joined the company in 2018 the formation of a new Firefox brand had just been launched, and efforts were underway to simultaneously both build that brand out and launch new products. </p>
-  </article>
+</article>
 </section>
 
-<section class="grid image">
-  <figure>
+<figure>
   <img class="feat-img" src="/img/mozilla/ui-components.png">
     <figcaption>
       <p>The Protocol Design System spans two brands and a range of web and native products.</p>
     </figcaption>
-  </figure>
-</section>
+</figure>
 
-<section class="grid info">
-  <article>
+<section>
+<article>
     <p>The new products and services that were going to be launched spanned both web and product, and we needed to build a system of components that would aesthetically work across all surfaces while not sacrificing brand consistency.</p>
-  </article>
+</article>
 </section>
 
-<section class="grid two-image">
-  <figure>
+  <figure class="two-col">
   <img class="feat-img" src="/img/mozilla/ui-fields.png">
-    <figcaption>
-      <p>Our form elements needed to be identical in design and behavior across all of our products and services.</p>
-    </figcaption>
-  </figure>
-  <figure>
   <img class="feat-img" src="/img/mozilla/ui-forms.png">
-    <figcaption>
-    <p>Forms were required to live in an elevated card to help elicit focus and attention from the user.</p>
-    </figcaption>
+  <figcaption>
+    <p>Our form elements needed to be identical in design and behavior across all of our products and services.</p>
+  </figcaption>
   </figure>
+
+<section>
+<article>
+  <p>The components that make up the forms throughout the Mozilla ecosystem received special consideration due to the importance of consistency in their design, interaction, and feedback.  Forms collect information — email address, passwords, credit card info, mailing address — and should be direct in its language, and succinct and fast in its feedback should an error occur.</p>
+</article>
 </section>
 
-<section class="grid info">
-  <article>
-    <p>The components that make up the forms throughout the Mozilla ecosystem received special consideration due to the importance of consistency in their design, interaction, and feedback.  Forms collect information — email address, passwords, credit card info, mailing address — and should be direct in its language, and succinct and fast in its feedback should an error occur.</p>
-  </article>
-</section>
-
-<section class="grid image">
   <figure>
   <img class="feat-img" src="/img/mozilla/brand-colors.png">
-    <figcaption>
-      <p>Our brand color palette was quite robust. It needed to serve an ever growing family of products and services.</p>
-    </figcaption>
+  <figcaption>
+    <p>Our brand color palette was quite robust. It needed to serve an ever growing family of products and services.</p>
+  </figcaption>
   </figure>
+
+<section>
+<article>
+  <p>There are many different organizations within Mozilla: Brand, Marketing, Growth, Mobile, Comms, etc. Each org is comprised of various teams doing work across a range of disciplines. There are also third parties that are contracted to supplement that work and bring an outside expertise or perspective in. Much of this work is comprised of campaign landing pages, growth work like A/B and multivariate testing, and conversion rate and app store optimization. In other words, lots of opportunity for brand inconsistency to show up. At the core of this system lives a robust color palette, with certain products comprised of specific combinations.</p>
+</article>
 </section>
 
-<section class="grid info">
-  <article>
-    <p>There are many different organizations within Mozilla: Brand, Marketing, Growth, Mobile, Comms, etc. Each org is comprised of various teams doing work across a range of disciplines. There are also third parties that are contracted to supplement that work and bring an outside expertise or perspective in. Much of this work is comprised of campaign landing pages, growth work like A/B and multivariate testing, and conversion rate and app store optimization. In other words, lots of opportunity for brand inconsistency to show up. At the core of this system lives a robust color palette, with certain products comprised of specific combinations.</p>
-  </article>
-</section>
-
-<section class="grid two-image">
-  <figure>
+  <figure class="two-col">
   <img class="feat-img" src="/img/mozilla/noodles.png">
+  <img class="feat-img" src="/img/mozilla/noodle-combo.png">
     <figcaption>
       <p>Our brand shapes were derived from our product logos.</p>
     </figcaption>
   </figure>
-  <figure>
-  <img class="feat-img" src="/img/mozilla/noodle-combo.png">
-    <figcaption>
-    <p>These shapes, or noodles, could be combined to form brand-specific compositions.</p>
-    </figcaption>
-  </figure>
-</section>
 
-<section class="grid info">
-  <article>
+<section>
+<article>
     <p>Beyond the color foundation, our Protocol design system includes brand-specific components that went far beyond your typical ui-based design system. We built  a system of brand components that were less about specificity of use and more about flexibility in application. </p>
-  </article>
+</article>
 </section>
 
-<section class="grid two-image">
-  <figure>
+  <figure class="two-col">
   <img class="feat-img" src="/img/mozilla/noodle-masks.png">
-    <figcaption>
-      <p>Noodles used as masks for images.</p>
-    </figcaption>
-  </figure>
-  <figure>
   <img class="feat-img" src="/img/mozilla/zap.png">
-    <figcaption>
-    <p>The Zap was a dynamic element used to give emphasis to section of a page.</p>
-    </figcaption>
+  <figcaption>
+    <p>Noodles used as masks for images.</p>
+  </figcaption>
   </figure>
-</section>
 
-<section class="grid info">
-  <article>
-    <p>Continued exploration of our design language gave way to using our noodle compositions as image masks. Most often these masks were used in the hero sections of our marketing pages to house lifestyle images or product images.</p>
-    <p>Through user testing we learned that our users paid an unusual amount of attention to our headlines — they were often witty — and we began to think of ways that we could leverage and emphasize our headlines more. Simply highlighting key words felt too heavy handed. Enter the Zap. The Zap was a dynamic graphic element — a simple stroke — that could take on any range of forms without feeling too heavy or intrusive. It quickly proved its worth. It was used throughout our marketing sites and app store visuals to tie section of the page together, draw attention to specific key words, or help emphasize features in product images.</p>
-  </article>
+<section>
+<article>
+  <p>Continued exploration of our design language gave way to using our noodle compositions as image masks. Most often these masks were used in the hero sections of our marketing pages to house lifestyle images or product images.</p>
+  <p>Through user testing we learned that our users paid an unusual amount of attention to our headlines — they were often witty — and we began to think of ways that we could leverage and emphasize our headlines more. Simply highlighting key words felt too heavy handed. Enter the Zap. The Zap was a dynamic graphic element — a simple stroke — that could take on any range of forms without feeling too heavy or intrusive. It quickly proved its worth. It was used throughout our marketing sites and app store visuals to tie section of the page together, draw attention to specific key words, or help emphasize features in product images.</p>
+</article>
 </section>
+    
+  </div>

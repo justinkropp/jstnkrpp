@@ -6,6 +6,7 @@ featured-image: /wordpress/wordpress-signup.png
 featured-image-alt: Featured image alt
 category: project
 tags: UI
+published: true
 ---
 
 <section class="grid intro">
