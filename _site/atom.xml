@@ -4,7 +4,7 @@
  <title>Justin Kropp</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-10-25T08:26:04-04:00</updated>
+ <updated>2020-10-25T16:52:09-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -42,13 +42,13 @@
     &lt;/footer&gt;
   &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;strong&gt;You also refer to soul as being this missing ingredient of craft: imagination plus blood, sweat, and tears. What does it mean for a digital product/experience to have soul? What does that look and feel like in both the process of making and the act of experiencing?&lt;/strong&gt;&lt;/p&gt;
+  &lt;p class=&quot;question&quot;&gt;&lt;strong&gt;You also refer to soul as being this missing ingredient of craft: imagination plus blood, sweat, and tears. What does it mean for a digital product/experience to have soul? What does that look and feel like in both the process of making and the act of experiencing?&lt;/strong&gt;&lt;/p&gt;
 
   &lt;p&gt;Soul fills the spaces in-between strategy, design, and technology. It’s the mortar to the bricks of corporate goals, creative execution, and consumers. It’s the art of weaving all of these things into patterns that machines can understand and humans can feel. Without it, a product can still function, but it lacks stickiness. It’s easy to forget or dismiss.&lt;/p&gt;
 
   &lt;p&gt;I often feel that being an artist first, driven by empathy and with a heightened sensitivity to the human condition and our need for tactile connection, informs much of my approach to design and technology. Formulaic approaches result in formulaic solutions. Let technology be your paint and design be your brush. Get messy. Make lots of marks (one of them is bound to be correct). Then edit like mad.&lt;/p&gt;
 
-  &lt;p&gt;&lt;strong&gt;I’m curious about your path to design. What lead you here and why did you stay? Have you ever considered leaving it all behind; switching careers or trajectories?&lt;/strong&gt;&lt;/p&gt;
+  &lt;p class=&quot;question&quot;&gt;&lt;strong&gt;I’m curious about your path to design. What lead you here and why did you stay? Have you ever considered leaving it all behind; switching careers or trajectories?&lt;/strong&gt;&lt;/p&gt;
 
   &lt;p&gt;I ended up a designer through a combination of personality traits and twists of fate. My father was an engineer so I was introduced to drawing and drafting early. The technical nature of drafting informed a certain precision aesthetic that, together with television and advertising exposure, led to a fascination with consumerism. Once I matured beyond drawing dinosaurs or spacecraft or planes from my How and Why Wonder books, I moved on to drawing logos and collecting Nike ads and posters—long before I knew there was a career called advertising or design. But my aesthetic curiosity and analytical tendencies led me bit-by-bit to this industry.&lt;/p&gt;
 
@@ -60,17 +60,17 @@
 
   &lt;p&gt;So this approach informs my current obsessions. I want to work on what is hard. I seek to break the modern leanings of design as high-end production and the plaything of the elite. I seek purpose-driven work or work that can shape culture. Without those elements, the puzzles simply aren’t worth solving (for me).&lt;/p&gt;
 
-  &lt;p&gt;&lt;strong&gt;Regarding your statement above about the human condition. I believe wholeheartedly that design has the power to affect positive change in this world; to improve humanity one small step at a time. Do you see evidence of this happening at the hands of design now?&lt;/strong&gt;&lt;/p&gt;
+ &lt;p class=&quot;question&quot;&gt;&lt;strong&gt;Regarding your statement above about the human condition. I believe wholeheartedly that design has the power to affect positive change in this world; to improve humanity one small step at a time. Do you see evidence of this happening at the hands of design now?&lt;/strong&gt;&lt;/p&gt;
 
   &lt;p&gt;Unfortunately, not as much as I’d like. Far too often the novelty of an interaction or visual design overrides human needs and amplifies negatives in our behavior. And I don’t think we adequately consider these ramifications at scale either. What are the opportunity costs of interaction design decision that affect millions or even billions of users? In the case of Facebook, one millisecond wasted multiplied by the user base of 1.57 billion equals 18.1712963 days wasted.&lt;/p&gt;
 
   &lt;p&gt;Design used to be more of a passion-based career that was filled with artists with anal-retentive leanings towards clarity and order. You didn’t get into design to be rich. You got into it to make a difference. But more and more careers in the industry seems to be financially instead of culturally-motivated. I think it’s changing the culture of studios and agencies and creating factories of production instead of thought.&lt;/p&gt;
 
-  &lt;p&gt;&lt;strong&gt;You mentioned the aesthetics of an idea earlier. This is a powerful concept, and I wonder if you could break that down a bit more. What does this concept mean for you and how would you even start to shape its praxis?&lt;/strong&gt;&lt;/p&gt;
+  &lt;p class=&quot;question&quot;&gt;&lt;strong&gt;You mentioned the aesthetics of an idea earlier. This is a powerful concept, and I wonder if you could break that down a bit more. What does this concept mean for you and how would you even start to shape its praxis?&lt;/strong&gt;&lt;/p&gt;
 
   &lt;p&gt;Perhaps a purely personal perspective, but I sense a shift in focus in what design means—a de-objectification of sorts. Design isn’t just the way things look or work. It’s how they make you feel. It’s not about the rock. It’s the ripples the rock leaves. The space between the things we create and the audience who uses them is what we design.&lt;/p&gt;
 
-  &lt;p&gt;&lt;strong&gt;Regarding the human condition, what does the intersection of our current tech-centric design practice and designing for the common good look like? How can we leverage our current codependency on tools, process, startup culture, etc. to begin creating work of merit again?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;Regarding the human condition, what does the intersection of our current tech-centric design practice and designing for the common good look like? How can we leverage our current codependency on tools, process, startup culture, etc. to begin creating work of merit again?&lt;/strong&gt;&lt;/p&gt;
 
   &lt;p&gt;We can begin by thinking about how we can use design and technology to make us feel more human, rather than less so. For example, what if the tools we made helped us to be better listeners instead of broadcasters? What if app interactions supported depth rather than shallowness? What if an input field encouraged sensitivity of response? These are all things that might encourage betterment in everyday experiences. Start small. Start with where we are. Think about where we could be.&lt;/p&gt;
 
@@ -78,19 +78,19 @@
 
   &lt;p&gt;How can we leverage our current codependency on tools, process, and startup culture to begin creating work of merit? With sacrifice. We should stop thinking about what benefits us the most—and instead think about what’s best for all of us. That doesn’t mean you have to give up what’s good for you. But it does mean you should think twice about the value the work you introduce into the world creates (and no, it doesn’t have to be epic value either—a smile counts).&lt;/p&gt;
 
-  &lt;p&gt;&lt;strong&gt;With that in mind, what’s next for you? Where do you see, and perhaps hope, this journey is taking you?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;With that in mind, what’s next for you? Where do you see, and perhaps hope, this journey is taking you?&lt;/strong&gt;&lt;/p&gt;
 
   &lt;p&gt;This last segment of my career has been particularly interesting in that it’s a culmination of years of acquired skills—professional and personal alike. I now see the potential of my ability in business development and sales—skills I long thought were out of character for me. As it turns out, the world loves an honest, passionate person. Love what you make, mean what you say, and the rest happens naturally.&lt;/p&gt;
 
   &lt;p&gt;Anymore, I feel the agency or studio model is a struggle. Rather than the dying agency or studio model which has unquestionably large billables but questionable return on investment, I believe in the power of tailored teams. An actionable strategy built on vision and relationships. These days, when clients come to me, I customize the team to suit their needs. They get only what they need—and the team I assemble knows exactly what they are signing up for. When the team wants to work together—everyone wins. And the client gets much more for much less. Agencies use shotguns. We are sharpshooters.&lt;/p&gt;
 
-  &lt;p&gt;&lt;strong&gt;I believe it’s referred to as the “hollywood model” and it’s a model that’s definitely being utilized more and more -- and for good reason, as you highlight above. Regarding your newfound embrace for the softer skills of business development and sales, how important have those been for getting projects and gaining visibility?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;I believe it’s referred to as the “hollywood model” and it’s a model that’s definitely being utilized more and more -- and for good reason, as you highlight above. Regarding your newfound embrace for the softer skills of business development and sales, how important have those been for getting projects and gaining visibility?&lt;/strong&gt;&lt;/p&gt;
 
   &lt;p&gt;Good point. True, the Hollywood model is apt, but it hints at excess which is antithetical to the core of my interests regarding studio models. For me, it’s also about sustainability. Metaphorically, if ideas are eggs, then I need to treat my chickens as best as possible so that their eggs are healthy so that my farm and my customers are too. It’s about appropriateness of scale. Agencies run mass-production chicken farms. The eggs are runny because the chickens are unhealthy—and therefore clients are unhealthy too. The ecosystem is toxic. I believe there should be the design agency equivalent of an organic or sustainable farm.&lt;/p&gt;
 
-    &lt;p&gt;Business development and sales experience have proven extremely useful. With years of experience comes an understanding of the ebb and flow of the work and a surprisingly instinctual directional compass. Maturation has gifted me the confidence to lean into simply being myself, combining passions, skills, and opportunity. It feels like a new era of possibility.&lt;/p&gt;
+  &lt;p&gt;Business development and sales experience have proven extremely useful. With years of experience comes an understanding of the ebb and flow of the work and a surprisingly instinctual directional compass. Maturation has gifted me the confidence to lean into simply being myself, combining passions, skills, and opportunity. It feels like a new era of possibility.&lt;/p&gt;
 
-    &lt;p&gt;&lt;strong&gt;Do you attribute some of the success of &lt;a href=&quot;https://messagefrom.earth&quot;&gt;Pioneer Plaque&lt;/a&gt; to those skills? What was the biggest challenge you encountered on that journey?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;Do you attribute some of the success of &lt;a href=&quot;https://messagefrom.earth&quot;&gt;Pioneer Plaque&lt;/a&gt; to those skills? What was the biggest challenge you encountered on that journey?&lt;/strong&gt;&lt;/p&gt;
 
   &lt;p&gt;Most certainly. And in fact, the Pioneer project is largely informing the current trajectory of my career. The dovetail fit of what I am good at, what I can charge for, and what I love, has nurtured an unexpectedly fruitful environment for new collaborations—and more importantly, new experiences. What began as an idea was vetted and reinforced through careful business planning and nuanced threading of relationships, both old and new. From design to finance to communications to production, it felt like a full activation of all the things that make me who I am. Mistakes and all.&lt;/p&gt;
 
@@ -98,7 +98,7 @@
 
   &lt;p&gt;All that said, my commitment to quality was worth it. Pioneer—Message from Earth is a case study in how childhood passion shapes your adulthood. From visits to &lt;a href=&quot;https://www.jpl.nasa.gov&quot;&gt;NASA JPL&lt;/a&gt;, &lt;a href=&quot;https://www.nasa.gov/ames&quot;&gt;Ames Research&lt;/a&gt;, &lt;a href=&quot;https://www.seti.org&quot;&gt;SETI&lt;/a&gt;, and &lt;a href=&quot;https://www.spacex.com&quot;&gt;SpaceX&lt;/a&gt; to friendships with the Sagan family, astronauts, and scientists, every moment of difficulty has been been countered with unimaginable rewards. I am now a card-carrying space geek. My universe is expanding.&lt;/p&gt;
 
-  &lt;p&gt;&lt;strong&gt;Speaking of principles, what drives your practice?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;Speaking of principles, what drives your practice?&lt;/strong&gt;&lt;/p&gt;
 
   &lt;p&gt;Designers were once akin to musicians or artists. Often, we suffered financially for our passionate dedication to the craft of design. It never was about money—it was about love. But over time, the startup and tech worlds created new opportunities, including the ability to earn salaries commensurate with other professions. Honestly, we needed it. Perhaps even deserved it. But sadly it seems to have shifted the motivations of those who gravitate towards our industry. Alpha personalities prevail.&lt;/p&gt;
 
@@ -215,56 +215,46 @@
    <link href="http://localhost:4000/note/finish-line.html"/>
    <updated>2020-08-20T00:00:00-04:00</updated>
    <id>http://localhost:4000/note/finish-line</id>
-   <content type="html">&lt;section class=&quot;grid note-intro&quot;&gt;
-  &lt;header&gt;
+   <content type="html">&lt;section class=&quot;post&quot;&gt;
+
+  &lt;header class=&quot;post-header&quot;&gt;
     &lt;h2&gt;Where's the Finish Line?&lt;/h2&gt;
-    &lt;time&gt;20 Aug 2020&lt;/time&gt;
-  &lt;/header&gt;
-  &lt;article&gt;
-    &lt;p&gt;Surveying the careers of some of the design field's more prominent practitioners and examining what success and clebrity look like in our field.&lt;/p&gt;
-  &lt;/article&gt;
-  &lt;footer&gt;
+    &lt;h3&gt;20 Aug 2020&lt;/h3&gt;
     &lt;p&gt;
-    
       
       &lt;a href=&quot;/tag/Essay&quot;&gt;&lt;nobr&gt;Essay&lt;/nobr&gt;&lt;/a&gt;
-    
     &lt;/p&gt;
-  &lt;/footer&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;grid note-words&quot;&gt;
-  &lt;article&gt;
-
+  &lt;/header&gt;
+  
   &lt;p&gt;Paris Hilton is a superstar. This celebrity icon is best known for her role on The Simple Life television series and the scandalous sex tape that made its way around the internet. Her rise to stardom has taken the route followed by many famous socialites—her fame and success are accidental and inherited.&lt;/p&gt;
-
+  
   &lt;p&gt;Just a year younger than Hilton, Natalie Portman, 28, is an actor who has achieved both celebrity status and professional success. Portman has been a prominent actor since her childhood. She took a brief break from performing to complete her degree in psychology from Harvard in 2003, and then pursued graduate coursework. She is both an artist and a scholar and has worked to produce quality work in both roles.&lt;/p&gt;
-
+  
   &lt;p&gt;Most professions have their own versions of success. These include, in some form, wealth, recognition, awards, speaking engagements, publishing deals and more. Our culture has grown accustomed to these models and expects nothing less.&lt;/p&gt;
-
+  
   &lt;p&gt;Driving our admiration is the desire to author our own success, especially if it can parallel the stardom we are so used to seeing and reading about in tabloids—online and off. In mainstream culture, celebrity and success are far from synonymous. Celebrity can be attained for arbitrary reasons, as we have witnessed with Paris Hilton—fame does not necessarily stem from professional achievement or even personal satisfaction.&lt;/p&gt;
-
+  
   &lt;p&gt;In graphic design, however, this is not the case. Design's celebrities have earned notoriety as a result of their success—for their body of work in the service of clients. Their stardom reflects the quality of work they produce as well as their ambition to succeed.&lt;/p&gt;
-
+  
   &lt;p&gt;Our celebrities, like most, are easy to recognize—at least within the confines of the graphic design community. They appear often in the industry's standard publications being lauded for this project or that. They are the keynote speakers at major conferences and events. They are the subjects of documentaries and books. We hold their work up to high standards and we are quick to criticize them when those standards are not met. These design idols are the leaders of our profession, setting trends and providing the critical discourse that becomes the backbone of much of what we do and what we think about. And like the demographic of the audiences they inspire and influence, these designers run the full range of ages.&lt;/p&gt;
-
+  
   &lt;p&gt;This last observation is reassuring. The community of graphic designers is getting bigger, with a larger number of young practitioners whose skills surpass their experience. As business schools begin to understand the importance of design and adopt our model of “design thinking,” we will be facing a more competitive and specialized collective than ever before. We face more pressure to achieve and succeed at an earlier stage of our lives. Like most mainstream celebrities, who risk being considered “washed up” when entering their 40s, young designers feel like failures if they don't get early public recognition. Thinking like this is a sure way to end up burned out and disillusioned.&lt;/p&gt;
-
+  
   &lt;p&gt;Malcolm Gladwell's recent bestseller Outliers explores how people manage to achieve greatness in various fields of endeavor. Gladwell's research reveals that “genius” doesn't only come to brilliant young prodigies (like Picasso), but is also attained by people who plod along for decades (like Cezanne). Today's youth-obsessed culture tends to focus on young upstarts and new talent, but designers achieve success across ages and generations.&lt;/p&gt;
-
+  
   &lt;p&gt;David Reinfurt is a critical thinker and maker. Those who don't know his name might have read his ideas while thumbing the pages of Dot Dot Dot—an underground magazine published by his workshop and bookstore Dexter Sinister, which Reinfut runs with Stuart Bailey. Reinfurt has managed to blur the lines between the standard client-based studio practice with that of critical research and investigation into all areas of our field: print, web, interactive, video, installation and even performance. His work has transcended the sphere of mainstream graphic design to receive recognition by the international art world—and all this while in his mid-30s.&lt;/p&gt;
-
+  
   &lt;p&gt;In contrast to Reinfurt's quick start, Ed Fella's career took years to germinate. The artist, educator, and graphic designer hails from Detroit, where he spent 30 years working in the advertising business before attending graduate school at Cranbrook. Fella received his MFA in 1987 at age 49 and has gone on to have a long and influential career while teaching at the California Institute of the Arts. In design culture he is widely known and revered for his playful typographic compositions.&lt;/p&gt;
-
+  
   &lt;p&gt;Paula Scher entered the profession in the early 1970s, a time when when women faced the glass ceiling in nearly every corporate structure. She started at CBS records, moved to Epic, and then back at CBS as an art director. Her quick wit and thick skin served her well in the company of men. For Scher, design has always been about making. It has been about producing work and being challenged by that work. Considered one of the world's most influential graphic designers, she has achieved a success and celebrity status that most of us dream about, and she has been able to do so over a long period of time while satisfying her internal desire to produce work that is unconventional, emotional, political, dimensional and poetic.&lt;/p&gt;
-
+  
   &lt;p&gt;Marian Bantjes calls herself a “graphic artist,” and it is under this designation that she has gained an international reputation for ornamental type and organic lettering that brims with originality and brilliance. Prior to becoming the Bantjes we are all familiar with, she was, much like Fella, a working designer at a traditional agency in Vancouver, BC, Canada. In 2003 she left her conventional career behind and started a journey of redefinition—a journey that has lead her to immense accomplishment. When she redefined herself she was 40 years old.&lt;/p&gt;
-
+  
   &lt;p&gt;The work of G. Dan Covert and Andre Andreev tells a different tale. Now 28 and 24, respectively, they operate the small studio, dress code, in New York City and have found themselves in the spotlight since the release of their book Never Sleep: Graduating to Graphic Design, published in April 2009. Energetic, exuberant, and loaded with everything from student projects to personal IM communications, Never Sleep is not a disciplined retrospective so much as the collective musings of two young guys who can't believe how fast they got ahead after graduating. Dan and Andre are the new guys on the block and already enjoying success!&lt;/p&gt;
-
+  
   &lt;p&gt;These designers represent the immense talent that can be found throughout our industry and at every point in the timeline—from rookies to veterans. While the aforementioned group may be touted as successes and celebrities, their achievements have been both internal and authored. Their models of success derived from not how much money they were going to make or who was going to give them the credit they deserved, but rather from how they were going to continue to produce work they believe in. Without this inherent belief in our work, our successes will be fleeting and disappointing.&lt;/p&gt;
-  &lt;/article&gt;
-  &lt;/section&gt;
+
+&lt;/section&gt;
 </content>
  </entry>
  
@@ -273,101 +263,85 @@
    <link href="http://localhost:4000/project/firefox-homepage.html"/>
    <updated>2020-08-19T00:00:00-04:00</updated>
    <id>http://localhost:4000/project/firefox-homepage</id>
-   <content type="html">&lt;section class=&quot;grid intro&quot;&gt;
-  &lt;header&gt;
-    &lt;h2&gt;Firefox Homepage&lt;/h2&gt;
-  &lt;/header&gt;
-  &lt;article&gt;
-    &lt;p&gt;When I joined Mozilla one of my first asks was twofold: 1) explore ways to improve the download experience for our users and 2) look at opportunities to increase our session to download ratio (i.e. improve our conversion rate). Internally this page was referred to as /new because it lived at 'https://www.mozilla.org/en-US/firefox/new/'. It was responsible for the majority of our browser downloads and, because of this, teams were hesitant to change this page for fear of negatively affecting our downloads. &lt;/p&gt;
-  &lt;/article&gt;
-  &lt;footer&gt;
-    &lt;ul&gt;
-      &lt;li&gt;UX Design&lt;/li&gt;
-      &lt;li&gt;UI Design&lt;/li&gt;
-      &lt;li&gt;User Research&lt;/li&gt;
-      &lt;li&gt;Growth Strategy&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/footer&gt;
-&lt;/section&gt;
+   <content type="html">&lt;div class=&quot;single-project&quot;&gt;
 
-&lt;section class=&quot;grid image&quot;&gt;
+&lt;header class=&quot;project-intro&quot;&gt;
+  &lt;h2&gt;Firefox Homepage&lt;/h2&gt;
+  &lt;ul&gt;
+    &lt;li&gt;UX Design&lt;/li&gt;
+    &lt;li&gt;UI Design&lt;/li&gt;
+    &lt;li&gt;User Research&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;p&gt;When I joined Mozilla one of my first asks was twofold: 1) explore ways to improve the download experience for our users and 2) look at opportunities to increase our session to download ratio.&lt;/p&gt;
+&lt;/header&gt;
+
   &lt;figure&gt;
     &lt;img class=&quot;feat-img&quot; src=&quot;/img/firefox/fx-download-flow.png&quot; /&gt;
     &lt;figcaption&gt;
       &lt;p&gt;Most of our users are coming to our browser download page via search; not through our site navigation.&lt;/p&gt;
     &lt;/figcaption&gt;
   &lt;/figure&gt;
-&lt;/section&gt;
 
-&lt;section class=&quot;grid info&quot;&gt;
-  &lt;article&gt;
+&lt;section&gt;
+&lt;article&gt;
     &lt;p&gt;Before this redesign, the /new page consisted of a hero section and three content buckets whose content  cross-promoted other Firefox products. I learned through our analytics that the majority of our users were landing on this page directly from search results. Users were not discovering this page through our navigation or any other page on the site. They were landing here cold, without any prior or contextual information about the browser.&lt;/p&gt;
   &lt;/article&gt;
 &lt;/section&gt;
 
-&lt;section class=&quot;grid image&quot;&gt;
   &lt;figure&gt;
   &lt;img class=&quot;feat-img&quot; src=&quot;/img/firefox/fx-download-wireframe.png&quot; /&gt;
     &lt;figcaption&gt;
       &lt;p&gt;Annotated Page Design Wireframe with specific feature callouts.&lt;/p&gt;
     &lt;/figcaption&gt;
   &lt;/figure&gt;
-&lt;/section&gt;
 
-&lt;section class=&quot;grid info&quot;&gt;
-  &lt;article&gt;
+&lt;section&gt;
+&lt;article&gt;
     &lt;p&gt;Over several weeks I worked with a data analyst to help draft a testing framework that would help us iteratively test the page design while carefully monitoring changes in download numbers. A series of user tests helped me understand which features our core demographic seemed to respond most positively to; which features mattered in their decision making process.&lt;/p&gt;
     &lt;p&gt;The redesigned page was going to be significantly longer that its predecessor, and we knew from prior research that users often lost steam as they moved down the page. With the help from our copywriters, we tested our way to performant headlines for for each section. These headlines were more effective at drawing the user down the page and keeping engagement up as they did so.&lt;/p&gt;
     &lt;p&gt;Finally, the new page was comprised of distinct feature sections, each with a theme: new features, key features, performance related, privacy related, and a competitor comparison section. Several testing rounds were conducted to determine which order of sections was the most performant without sacrificing the overall pacing and brand narrative of the page.&lt;/p&gt;
   &lt;/article&gt;
-
 &lt;/section&gt;
 
-&lt;section class=&quot;grid image&quot;&gt;
   &lt;figure&gt;
   &lt;img class=&quot;feat-img&quot; src=&quot;/img/firefox/fx-feature-ui.png&quot; /&gt;
     &lt;figcaption&gt;
       &lt;p&gt;Brand elements were used strategically to draw attention to key content that we new from testing interested users.&lt;/p&gt;
     &lt;/figcaption&gt;
   &lt;/figure&gt;
-&lt;/section&gt;
 
-&lt;section class=&quot;grid info&quot;&gt;
-  &lt;article&gt;
+&lt;section&gt;
+&lt;article&gt;
     &lt;p&gt;Once we had the pacing, composition, and section order of the page locked, the brand language began finding its way into the page design. Our &quot;Noodle&quot; shapes had proven effective at generating interest, so we began using them as a background element layered behind content that we knew, through user testing, was important to users.&lt;/p&gt;
   &lt;/article&gt;
 &lt;/section&gt;
 
-&lt;section class=&quot;grid image&quot;&gt;
   &lt;figure&gt;
   &lt;img class=&quot;feat-img&quot; src=&quot;/img/firefox/fx-photo-masks.png&quot; /&gt;
     &lt;figcaption&gt;
       &lt;p&gt;Our brand Noodles lent themselves to creating novel moment where lifestyle photography and brand language could intersect.&lt;/p&gt;
     &lt;/figcaption&gt;
   &lt;/figure&gt;
-&lt;/section&gt;
 
-&lt;section class=&quot;grid info&quot;&gt;
-  &lt;article&gt;
+&lt;section&gt;
+&lt;article&gt;
     &lt;p&gt;What makes Firefox unique from its competitors is its dedication since day one to user privacy and security and its corporate structure:  its parent, Mozilla, is a company owned by a not-for-profit, the Mozilla Foundation. This is the throughline of all our products, and it's something that all our users respect and find unique. It's also a key part of our brand story and, as such, deserved to be included in our new download page.  A section that talked about our history, mission, and dedication to privacy was accompanied vignettes of people that combined a nod to the human side of our technology with the playful shapes of our brand's design language.&lt;/p&gt;
   &lt;/article&gt;
-
 &lt;/section&gt;
 
-&lt;section class=&quot;grid image&quot;&gt;
   &lt;figure&gt;
   &lt;img class=&quot;feat-img&quot; src=&quot;/img/firefox/fx-hero.png&quot; /&gt;
     &lt;figcaption&gt;
       &lt;p&gt;The hero section is the initial entry point that most users have with our brand before choosing to download.&lt;/p&gt;
     &lt;/figcaption&gt;
   &lt;/figure&gt;
-&lt;/section&gt;
 
-&lt;section class=&quot;grid info&quot;&gt;
-  &lt;article&gt;
+&lt;section&gt;
+&lt;article&gt;
     &lt;p&gt;Hero sections are quite the norm on most marketing sites. It's a macro-pattern that been applied ad nauseam. And for good reason: their structure is familiar to most users and they work. Product logo, primary headline, image of product, and a primary call-to-action. Et voilá. Ours is no different. However, given that most users end up here directly from search this is also most likely their first introduction to the brand. It was important that, while not deviating too much from the norm, we introduce a few key brand elements that would not only set the stage for the rest of the page, but also leave an impression. The use of our brand noodles as a background element to frame our browser and the inclusion of the Zap to emphasize a key position did just that.&lt;/p&gt;
   &lt;/article&gt;
 &lt;/section&gt;
+&lt;/div&gt;
 </content>
  </entry>
  
@@ -376,37 +350,19 @@
    <link href="http://localhost:4000/note/joe-stewart.html"/>
    <updated>2020-08-18T00:00:00-04:00</updated>
    <id>http://localhost:4000/note/joe-stewart</id>
-   <content type="html">&lt;section class=&quot;grid  note-intro&quot;&gt;
-  &lt;header&gt;
-    &lt;h2&gt;Discourse, Joe Stewart&lt;/h2&gt;
-    &lt;time&gt;18 Aug 2020&lt;/time&gt;
-  &lt;/header&gt;
-  &lt;article&gt;
-    &lt;p&gt;Joe is a designer, cyclist, and founding partner at the highly successful Work&amp;amp;co &amp;amp; a design and technology company with an impressive and growing list of client engagements.&lt;/p&gt;
-  &lt;/article&gt;
-  &lt;footer&gt;
-    &lt;p&gt;
+   <content type="html">&lt;section class=&quot;post&quot;&gt;
+
+&lt;header class=&quot;post-header&quot;&gt;
+  &lt;h2&gt;Discourse, Joe Stewart&lt;/h2&gt;
+  &lt;h3&gt;18 Aug 2020&lt;/h3&gt;
+  &lt;p&gt;
     
-      
-      &lt;a href=&quot;/tag/interview&quot;&gt;&lt;nobr&gt;interview&lt;/nobr&gt;&lt;/a&gt;
-    
-    &lt;/p&gt;
-  &lt;/footer&gt;
-&lt;/section&gt;
+    &lt;a href=&quot;/tag/interview&quot;&gt;&lt;nobr&gt;interview&lt;/nobr&gt;&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/header&gt;
 
-&lt;section class=&quot;grid note-image&quot;&gt;
-  &lt;figure&gt;
-    &lt;img src=&quot;/img/joe_stewart.png&quot; /&gt;
-    &lt;figcaption&gt;
-      &lt;p&gt;Photo by Bridget Baker&lt;/p&gt;
-    &lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
 
-&lt;section class=&quot;grid note-words&quot;&gt;
-&lt;article&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://work.co&quot;&gt;Work &amp;amp; Co&lt;/a&gt; has built up an already impressive list of accomplishments — everything from the company leadership, to the culture, to the body of work. What are you most proud of so far?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;&lt;a href=&quot;https://work.co&quot;&gt;Work &amp;amp; Co&lt;/a&gt; has built up an already impressive list of accomplishments — everything from the company leadership, to the culture, to the body of work. What are you most proud of so far?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;That’s very nice of you to say. I’m most proud of some very, very basic things:
 I think the work we’re doing is good, and I believe in it. I like where I work, and I think my co-workers do too.&lt;/p&gt;
@@ -417,11 +373,11 @@ I think the work we’re doing is good, and I believe in it. I like where I work
 
 &lt;p&gt;I will also have to say I’m very proud of the integrity we have shown as a company to only work on the things we really care about. We really love digital product design and think it’s important (and fun to work on). That’s all we do – just focus on digital product design. At times, it can be hard to say no to some opportunities that come your way that could grow our business, or whatever – but – in the end I’m really proud that we all simply agree upon what’s important to us, and that really is those two simple things. Work. Company. I really love that.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Conversely, is there something you can now say you would have done differently?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;Conversely, is there something you can now say you would have done differently?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I think one thing that was a little hard in the beginning was that from day 1, Work &amp;amp; Co was on two coasts. I was on the west coast, and everyone else was on the east coast. I really (selfishly) wanted to move back to the west coast. I have two little boys, and it’s hard to do that in Brooklyn, so I moved to Portland right when the company started. This probably made things much harder than they needed to be… and I think I owe the NY guys a few beers over it, but – it’s all worked out. We now have about 80 people in New York, 20 in Portland, and another 20 in Rio. It worked out in the end, but it was a bit of a learning experience in terms of starting a company across multiple offices from day one.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Work &amp;amp; Co only makes digital products and services, yet the philosophy seems to give a pretty distinct nod to traditional principles of graphic design: type, form, play, wit. How important is it that these critical elements of our discipline remain elevated in the work you produce?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;Work &amp;amp; Co only makes digital products and services, yet the philosophy seems to give a pretty distinct nod to traditional principles of graphic design: type, form, play, wit. How important is it that these critical elements of our discipline remain elevated in the work you produce?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I’m glad you brought this up. So – all of us working in digital right now are the first generation of digital designers. We’re making the rules as we go. There are no greats to look up to or masters to study. It’s very hard to find inspiration in digital design, considering there isn’t much history there.&lt;/p&gt;
 
@@ -431,17 +387,17 @@ I think the work we’re doing is good, and I believe in it. I like where I work
 
 &lt;p&gt;So, because there really isn’t much of this very high design for digital yet, we study the past to try to design for today.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Similarly, how important is it, as a designer, to remain close to and understand the work of design pioneers, like Saville, Vignelli, and Rams to name just one — those that truly helped shape our discipline?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;Similarly, how important is it, as a designer, to remain close to and understand the work of design pioneers, like Saville, Vignelli, and Rams to name just one — those that truly helped shape our discipline?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;To me it’s number one. This is the start. You have to know where this stuff came from. You have to understand what worked: How did these guys make it work? What was different about the way they thought or designed or practiced or approached that somehow made their work better than everyone else’s? So much of design is just reshuffling of existing ideas – and – to not know where the idea started from is very limiting to a designer.&lt;/p&gt;
 
 &lt;p&gt;It’s really similar to music. You can hear a song now and know that this band is just ripping off another band, and you’re better off listening to the original. Chances are the original guys probably had a much better album because they knew what they were doing. Same with design. If you look at the album covers before Saville, and the album covers that came after Saville… well… you know what I think: just study Saville.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Do you find that their work is still able to inspire day after day despite a growing artificial patina vying for our affection? I suppose what I’m asking is: can the digital design work of today possess soul? An ethos?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;Do you find that their work is still able to inspire day after day despite a growing artificial patina vying for our affection? I suppose what I’m asking is: can the digital design work of today possess soul? An ethos?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I think their work - the people you mentioned (Saville, Vignelli, Rams) - is still able to inspire day after day and forever. It will never stop. It’s in the pantheon. These people produced some of the best design the world has ever seen. To me, this is like asking if the statue of David is still inspiring even though it’s old. There are very few people working at this level now, and I don’t think any of them are working in digital. I don’t think digital, as a medium, is there yet. It’s not mature enough to ‘possess a soul’ as you say. It’s just too early. It will get there, and we have seen hints of it. Maybe the closest example I can think of is the original iOS. One of our Partners, Felipe, says it’s the best digital design that has been made, and he might be right. It was simple, and everyone on earth from age two to ninety-nine knew how to use it, and it did some very complicated things. Maybe something like that has an ethos. But, short of that… no… I don’t think we’re there yet. Maybe the Google home page? I don’t know… it’s all still black &amp;amp; white TV. We’re not anywhere near Vignelli, Saville, or Rams.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;I’ve noticed that you refer to design as a discipline. What does that mean for you? Is it methodology? A mindset? What is it that makes how you view design a discipline?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;I’ve noticed that you refer to design as a discipline. What does that mean for you? Is it methodology? A mindset? What is it that makes how you view design a discipline?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Design is a hard thing to talk about. Most of design is very boring and laborious and terrifying. It’s mostly sitting at a desk or in a room and not knowing what to do. And that not knowing is scary and uncomfortable, and you spend half your time in that mindset, then the other half very meticulously and laboriously executing the idea to solve the problem. It’s “fear fear fear, a-ha!, dull dull dull” – that’s design. Because of that it’s tough to talk about - so I use words like discipline or medium to be able to talk about this really long sort of amorphous thing.&lt;/p&gt;
 
@@ -449,7 +405,7 @@ I think the work we’re doing is good, and I believe in it. I like where I work
 
 &lt;p&gt;I don’t think design is a process. I don’t think there is a pattern for good ideas. Having a good idea is not replicable. I don’t think that sticky-notes and whiteboarding will necessarily lead to a good idea. Maybe sometimes it does, but the truth is nobody knows where the next good idea is. And that’s scary. So we have to trick ourselves into not being scared, and try to think of design as something that you can study and get better at. And, you do. You get better over time, but it’s hard. It’s not any less scary, but it gets easier to express your ideas, and your ideas get better. I often think about a saying used in road cycling, “it never stops hurting, you just get faster.” I think that’s what design is like.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Speaking of inspiration and discipline, I’ve found that it is integral to find inspiration outside of one’s profession in order to stay engaged, focused, sane. The same with discipline. What are these for you? I gather you’re a road cyclist (same here). How does the personal Joe nurture the professional Joe?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;Speaking of inspiration and discipline, I’ve found that it is integral to find inspiration outside of one’s profession in order to stay engaged, focused, sane. The same with discipline. What are these for you? I gather you’re a road cyclist (same here). How does the personal Joe nurture the professional Joe?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;It’s easy to get stuck, or tired, or burnt out on design – especially if you stay on one project for a long time. I’ve spent years on the same project, and after a while you can’t tell what a good idea is anymore. Looking outside of design to reset is something everyone does. Some people do it with more intent than others, and I don’t know that I specifically do other activities in order to improve my design, but I think it probably happens accidentally. We all have those moments of surprising problem solving when we don’t expect it… in the middle of the night, or in the shower. It feels like the tip of the pencil gets dull, and you have to stop in order to sharpen it.&lt;/p&gt;
 
@@ -459,7 +415,7 @@ I think the work we’re doing is good, and I believe in it. I like where I work
 
 &lt;p&gt;The principles of chess also translate across other parts of life. A big part of it is the process of how to make a decision. You have to take your time and try to make the best choice, which is not necessarily the most obvious. This applies very well to design, of course. I have become better at taking the time to analyze the situation. I think chess taught me that. And it comes up about 100 times a day, so slowing down to try to make the best decision with intent is an incredibly useful habit. It’s also super fun, surprisingly social, and very addictive. It’s also the best game for iPhone, so you can always play someone wherever you are: it’s magic.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;You mentioned in a recent exchange that part of what you wanted to change with starting Work &amp;amp; Co is the amount of time you spend actually designing — doing the thing we were trained to do: think and design. Do you at all feel like we’re moving away from these activities — thinking critically, engaging in discourse, drawing, designing with intent? In other words, do you feel we’re moving forward?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;You mentioned in a recent exchange that part of what you wanted to change with starting Work &amp;amp; Co is the amount of time you spend actually designing — doing the thing we were trained to do: think and design. Do you at all feel like we’re moving away from these activities — thinking critically, engaging in discourse, drawing, designing with intent? In other words, do you feel we’re moving forward?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I really love designing. It’s fun. And for whatever reason, I had to start a company in order to be able to get back to doing it. I’ve had the chance to do a lot of introspection about what I want to get out of my career – and out of design in general. There were times in my life that being good was the goal, or being well known, or doing something that is remembered, or leaving a legacy, or changing the world or something. After years of thought, I think I have settled on what is important to me, as far as work goes. I want to enjoy what I’m doing. That’s it. On a daily basis, every day, I want to go into the office and enjoy what I’m doing. I enjoy designing. I enjoy working through ideas. I enjoy working with other designers, developers, and strategists. I don’t enjoy spreadsheets, PowerPoint, staff resourcing, or thinking about profit margins. Seems simple enough, but to set up an environment where you can actually do this is pretty tricky.&lt;/p&gt;
 
@@ -467,7 +423,7 @@ I think the work we’re doing is good, and I believe in it. I like where I work
 
 &lt;p&gt;I really just want to design. The act itself is the joy. That is the big revelation. The designing itself is the goal. It’s not any more complicated than that.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;I referenced a growing artificial patina earlier — in part a jab at the pervasive nature of startup culture. What’s your take on what the startup landscape has done to design culture as a whole?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;I referenced a growing artificial patina earlier — in part a jab at the pervasive nature of startup culture. What’s your take on what the startup landscape has done to design culture as a whole?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Boy, I’m divided on this one. Start-up culture is pretty divisive right now, and design gets mixed into it.&lt;/p&gt;
 
@@ -479,7 +435,7 @@ I think the work we’re doing is good, and I believe in it. I like where I work
 
 &lt;p&gt;I think the net is actually positive. There is a whole community that didn’t really exist before that thinks design matters, and that is a good thing.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;My relationship with design can, at times, be quite tempestuous. There’s been times I wanted to just walk away. What is it that keeps you coming back day after day and working to get better? Has there ever been a time when you’ve thought “fuck it, I’m done”?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;My relationship with design can, at times, be quite tempestuous. There’s been times I wanted to just walk away. What is it that keeps you coming back day after day and working to get better? Has there ever been a time when you’ve thought “fuck it, I’m done”?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Oh man, yes, for sure. It’s hard to stay in it. It’s tiring. It’s taxing, and it never gets easier. Design is always hard and always scary. That will never go away.&lt;/p&gt;
 
@@ -489,7 +445,7 @@ I think the work we’re doing is good, and I believe in it. I like where I work
 
 &lt;p&gt;Also, working with other designers I look up to is a big one. This comes from my partners, my clients, and also younger designers at Work &amp;amp; Co. It’s so inspiring to see a young designer create a really thoughtful prototype and to work with them on promoting their craft. It makes me want to push harder on my own work.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Are there any books that you would say have been influential in shaping your career? Ones you consistently come back to for inspiration?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;Are there any books that you would say have been influential in shaping your career? Ones you consistently come back to for inspiration?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;We could’ve just talked about this! I have a pretty decent collection of design books at home and in the office. I am always on the lookout for new ones. One of the nice things about living in Portland is that there is an amazing book store a few blocks from the office called Powell’s. I sneak over there on my lunch break pretty often to go look for books.&lt;/p&gt;
 
@@ -501,7 +457,7 @@ I think the work we’re doing is good, and I believe in it. I like where I work
 
 &lt;p&gt;I picked up an &lt;a href=&quot;#&quot;&gt;Otl Aicher&lt;/a&gt; retrospective which is gorgeous. I only knew him from his 1972 Munich Olympic work, and it was eye opening to see his commercial design. I didn’t know he did the Lufthansa mark which is one of my favorites.&lt;/p&gt;
 
-&lt;p&gt;I liked the &lt;a href=&quot;#&quot;&gt;Erik Spiekerman&lt;/a&gt; book &lt;a href=&quot;#&quot;&gt;Hello&lt;/a&gt;, I am Erik – it’s just nice to see a designer who is still working and killing it talk about design. &lt;a href=&quot;#&quot;&gt;Same goes for How To by &lt;a href=&quot;#&quot;&gt;Michael Beirut. Both of these books are fantastic.&amp;lt;/p&amp;gt;
+&lt;p&gt;I liked the &lt;a href=&quot;#&quot;&gt;Erik Spiekerman&lt;/a&gt; book &lt;a href=&quot;#&quot;&gt;Hello&lt;/a&gt;, I am Erik – it’s just nice to see a designer who is still working and killing it talk about design. Same goes for &lt;a href=&quot;#&quot;&gt;How To&lt;/a&gt; by Michael Beirut. Both of these books are fantastic.&lt;/p&gt;
 
 &lt;p&gt;Also, I really like to read about design companies. I try to study the successes and failures of design companies in order to try to make good decisions with Work &amp;amp; Co. There is a book about Unimark called, Unimark International: The Design of Business and the Business Design, which is great. It’s the story of a superstar design company growing too big too fast and taking on too many things and exploding. Lots of great stories and lessons there.&lt;/p&gt;
 
@@ -519,7 +475,7 @@ I think the work we’re doing is good, and I believe in it. I like where I work
 
 &lt;p&gt;Swiss Graphic Design: The Origins and Growth of an International Style — This is the book that I recommend for people when they are getting started, or people who don’t study design as part of their job. When developers or strategists ask for a book recommendation I always go with this one.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;I think we all have something — something small — that we look forward to each day. Something that helps set the tone for the day or view it through a softened lense. For me, it’s that first cup of coffee after meditation each morning. What is it for you?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;I think we all have something — something small — that we look forward to each day. Something that helps set the tone for the day or view it through a softened lense. For me, it’s that first cup of coffee after meditation each morning. What is it for you?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I usually wake up around 5AM and go to the gym – it sucks to get up, but it puts my head on straight. I have more patience, concentration, and stamina when I work out. It’s good for the body, but it’s great for the brain. If you want to have a good day at the office, have a good day at the gym first. I’m skinny and weak and I’m sure I look silly trying to bench press, but, just going makes me feel 100x better.&lt;/p&gt;
 
@@ -527,94 +483,14 @@ I think the work we’re doing is good, and I believe in it. I like where I work
 
 &lt;p&gt;I also love to read a bit right when I get to the office. Just reading for 10 minutes or so before I settle in gets my mind straight. I try to do it first thing. It sets to tone for the day. It’s nice to read just to calm yourself, but also, if you’re reading about great work it lets you see the big picture and not sweat the small problems so much.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;You’ve already built a solid foundation for Work &amp;amp; Co. What’s next? Where do you and your team want to take it?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;You’ve already built a solid foundation for Work &amp;amp; Co. What’s next? Where do you and your team want to take it?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The ultimate goal is to be the first great digital design firm. Since the medium is so new, there really isn’t one yet. So – I think the best ad agency is W+K. I think the best branding agency is Wolf Ollins. I think the best graphic design agency is Pentagram. Best digital company? There isn’t one yet. We want to be that. As with the others, it will take time to get there. The plan is to take it slow, make long-term decisions, and focus. Focus on the work, on the people we work with, on making sure people have a good life, on recruiting the best people in the world, on making amazing products with our clients… repeat.&lt;/p&gt;
 
 &lt;p&gt;Again, it’s super simple – we want to keep getting better at what we’re already doing. Keep sharpening the pencil. Keep improving, learning new skills, improving our design theory, just keep going. And as we keep going, we want to make sure we’re enjoying every moment of it.&lt;/p&gt;
 
 &lt;p&gt;For me, simply to design is the goal, the reward is in the act itself. My next step? Just keep designing.&lt;/p&gt;
-&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;&lt;/article&gt;&lt;/section&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Firefox CRO</title>
-   <link href="http://localhost:4000/project/firefox-cro.html"/>
-   <updated>2020-08-17T00:00:00-04:00</updated>
-   <id>http://localhost:4000/project/firefox-cro</id>
-   <content type="html">&lt;section class=&quot;grid intro&quot;&gt;
-  &lt;header&gt;
-    &lt;h2&gt;Project Template&lt;/h2&gt;
-  &lt;/header&gt;
-  &lt;article&gt;
-    &lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/p&gt;
-  &lt;/article&gt;
-  &lt;footer&gt;
-    &lt;ul&gt;
-      &lt;li&gt;UX Design&lt;/li&gt;
-      &lt;li&gt;UI Design&lt;/li&gt;
-      &lt;li&gt;Strategy&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/footer&gt;
-&lt;/section&gt;
 
-&lt;section class=&quot;grid image&quot;&gt;
-  &lt;figure&gt;
-    &lt;img class=&quot;feat-img&quot; src=&quot;/img/fpo.png&quot; /&gt;
-    &lt;figcaption&gt;
-      &lt;p&gt;Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
-    &lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;grid info&quot;&gt;
-  &lt;article&gt;
-    &lt;h3&gt;Adipiscing Nullam Ligula&lt;/h3&gt;
-    &lt;p&gt;Maecenas sed diam eget risus varius blandit sit amet non magna. Curabitur blandit tempus porttitor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nulla vitae elit libero, a pharetra augue. Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/p&gt;
-  &lt;/article&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;grid image&quot;&gt;
-  &lt;figure&gt;
-    &lt;img class=&quot;feat&quot; src=&quot;/img/fpo.png&quot; /&gt;
-    &lt;figcaption&gt;
-      &lt;p&gt;Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
-    &lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;grid info&quot;&gt;
-  &lt;article&gt;
-    &lt;h3&gt;Adipiscing Nullam Ligula&lt;/h3&gt;
-    &lt;p&gt;Maecenas sed diam eget risus varius blandit sit amet non magna. Curabitur blandit tempus porttitor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nulla vitae elit libero, a pharetra augue. Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/p&gt;
-  &lt;/article&gt;
-  &lt;footer&gt;
-    &lt;h4&gt;Fig. A&lt;/h4&gt;
-    &lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla.&lt;/p&gt;
-  &lt;/footer&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;grid two-image&quot;&gt;
-  &lt;figure&gt;
-    &lt;img class=&quot;&quot; src=&quot;/img/fpo.png&quot; /&gt;
-    &lt;figcaption&gt;
-      &lt;p&gt;Morbi leo risus, porta ac consectetur.&lt;/p&gt;
-    &lt;/figcaption&gt;
-  &lt;/figure&gt;
-  &lt;figure&gt;
-    &lt;img class=&quot;&quot; src=&quot;/img/fpo.png&quot; /&gt;
-    &lt;figcaption&gt;
-    &lt;p&gt;Morbi leo risus, porta ac consectetur.&lt;/p&gt;
-    &lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;grid info&quot;&gt;
-  &lt;article&gt;
-    &lt;h3&gt;Adipiscing Nullam Ligula&lt;/h3&gt;
-    &lt;p&gt;Maecenas sed diam eget risus varius blandit sit amet non magna. Curabitur blandit tempus porttitor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nulla vitae elit libero, a pharetra augue. Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/p&gt;
-  &lt;/article&gt;
 &lt;/section&gt;
 </content>
  </entry>
@@ -624,82 +500,64 @@ I think the work we’re doing is good, and I believe in it. I like where I work
    <link href="http://localhost:4000/note/rob-giampietro.html"/>
    <updated>2020-08-16T00:00:00-04:00</updated>
    <id>http://localhost:4000/note/rob-giampietro</id>
-   <content type="html">&lt;section class=&quot;grid  note-intro&quot;&gt;
-  &lt;header&gt;
-    &lt;h2&gt;Rob Giampietro&lt;/h2&gt;
-    &lt;time&gt;16 Aug 2020&lt;/time&gt;
-  &lt;/header&gt;
-  &lt;article&gt;
-    &lt;p&gt;Rob is a designer, teacher, writer, critic, and winner of the 2014-15 Katherine Edwards Gordon Rome Prize at the American Academy in Rome. He is currently a Senior UX Design Manager at Google in New York.&lt;/p&gt;
-  &lt;/article&gt;
-  &lt;footer&gt;
-    &lt;p&gt;
+   <content type="html">&lt;section class=&quot;post&quot;&gt;
+
+&lt;header class=&quot;post-header&quot;&gt;
+  &lt;h2&gt;Rob Giampietro&lt;/h2&gt;
+  &lt;h3&gt;16 Aug 2020&lt;/h3&gt;
+  &lt;p&gt;
     
-      
-      &lt;a href=&quot;/tag/interview&quot;&gt;&lt;nobr&gt;interview&lt;/nobr&gt;&lt;/a&gt;
-    
-    &lt;/p&gt;
-  &lt;/footer&gt;
-&lt;/section&gt;
+    &lt;a href=&quot;/tag/interview&quot;&gt;&lt;nobr&gt;interview&lt;/nobr&gt;&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/header&gt;
 
-&lt;section class=&quot;grid note-image&quot;&gt;
-  &lt;figure&gt;
-    &lt;img src=&quot;/img/rob_giampietro.png&quot; /&gt;
-    &lt;figcaption&gt;
-      &lt;p&gt;Photo by Ryan Essmaker&lt;/p&gt;
-    &lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
 
-&lt;section class=&quot;grid note-words&quot;&gt;
-&lt;article&gt;
-
-&lt;p&gt;&lt;strong&gt;Hi Rob. Can you give our viewers a bit of history about yourself &amp;mdash; where you went to school, where you’ve worked, and where you are now?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;Hi Rob. Can you give our viewers a bit of history about yourself &amp;mdash; where you went to school, where you’ve worked, and where you are now?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I grew up in Minneapolis listening to a lot of jazz on ECM and going to the Walker Art Center whenever I could. Minneapolis, ECM, and the Walker's design department and bookstore were all huge influences on me. I got a B.A. in Art from Yale and went to work at Winterhouse. Bill Drenttel and Jessica Helfand were very giving and had unique practice that allowed me space to develop as a designer -- it was like a kind of grad school for me. When I left to go to New York I worked at the New York Times Magazine for almost a year -- a great introduction to New York -- before I joined Michael Bierut's team at Pentagram as a freelancer, which was also an amazing learning experience. When my Winterhouse colleague Kevin Smith arrived in New York we began freelancing together and launched the studio Giampietro+Smith, which we ran for five years. I joined Project Projects as a principal in 2010. Also in the mix I did a lot of design writing, was vice president of AIGA/NY, did a lot of teaching at Parsons, RISD, and SVA, and started a website of design writing and resources called &lt;a href=&quot;https://linedandunlined.com&quot;&gt;Lined &amp;amp; Unlined&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;You’ve had quite a distinguished career, working at places like &lt;a href=&quot;https://www.winterhouse.com&quot;&gt;Winterhouse&lt;/a&gt;, &lt;a href=&quot;https://www.pentagram.com&quot;&gt;Pentagram&lt;/a&gt;, &lt;a href=&quot;http://www.projectprojects.com&quot;&gt;Project Projects&lt;/a&gt;, Google, and now &lt;a href=&quot;https://www.moma.org&quot;&gt;MoMA&lt;/a&gt;. Were those positions ones that you actively sought after, or did any of them more or less fall into place naturally—one leading to the next?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;You’ve had quite a distinguished career, working at places like &lt;a href=&quot;https://www.winterhouse.com&quot;&gt;Winterhouse&lt;/a&gt;, &lt;a href=&quot;https://www.pentagram.com&quot;&gt;Pentagram&lt;/a&gt;, &lt;a href=&quot;http://www.projectprojects.com&quot;&gt;Project Projects&lt;/a&gt;, Google, and now &lt;a href=&quot;https://www.moma.org&quot;&gt;MoMA&lt;/a&gt;. Were those positions ones that you actively sought after, or did any of them more or less fall into place naturally—one leading to the next?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I'm thankful for the opportunities I've had. Any career is a mix of skill, luck, and persistence, and I've relied on all three. A few ideas have served as helpful guides: 1) actively engage people and places that are interesting to me, 2) cultivate and expand my interests not just as a designer but as a person in the world, and 3) be open to whatever opportunities presented themselves without predetermining their outcomes too much. When I first moved to the city, I showed my portfolio to Abbott Miller, whose work I'd long admired. I was hoping for a job working for him, but he surprised me by saying, &quot;Have you ever thought about teaching? You'd be great.&quot; He introduced me to Charles Nix at Parsons and I taught there for the next 8 years. I was 23.
 
-&lt;p&gt;&lt;strong&gt;Why graphic design? I mean, why not something else? What opportunities does graphic design provide that you feel so compelled to engage in this profession?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;Why graphic design? I mean, why not something else? What opportunities does graphic design provide that you feel so compelled to engage in this profession?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Design's such a pliable profession -- there's a tremendous amount you can do under the umbrella of design, and that was always enticing to me. I love the idea of making things that reach many people. I love the social aspect of being a designer: meeting many different kinds of people, engaging my curiosities and passions. I love language and I am a deeply systematic and analytical person in both my design and my writing. And I have a longstanding fascination with typography -- it seems to sit in the valley between language and form, and I like to hang out there too.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;On your blog, Lined &amp;amp; Unlined, you write quite critically on a range of interests—design, film, poetry, pedagogy. How does writing influence your design practice? Is it an essential part of the process?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;On your blog, Lined &amp;amp; Unlined, you write quite critically on a range of interests—design, film, poetry, pedagogy. How does writing influence your design practice? Is it an essential part of the process?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Writing plays many roles. It lets me reflect on practice much the same way teaching does, and it also lets me advocate for ideas, work, and people I think are important and innovative within the profession. At the same time it creates a space outside daily practice -- writing for me often happens at night and on weekends -- to develop and explore ideas. Often the best way to find out what I think about something is to write about it. There's this assumption that you must know about something to write about it, but often the process of writing about something mirrors the process of learning about it. Certain pieces I write I know will be key pieces, but other shorter writing is almost like a gym workout -- it keeps my mind sharp and my eyes open. I'm not sure that writing's essential for me. Sometimes it's addictive and sometimes it's exhausting. It's almost always rewarding.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;How did you become involved with David Reinfurt, Stuart Bailey, and &lt;a href=&quot;http://dot-dot-dot.us&quot;&gt;Dot Dot Dot&lt;/a&gt;?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;How did you become involved with David Reinfurt, Stuart Bailey, and &lt;a href=&quot;http://dot-dot-dot.us&quot;&gt;Dot Dot Dot&lt;/a&gt;?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.art.yale.edu/paul-elliman&quot;&gt;Paul Elliman&lt;/a&gt;, whose writing and typographic work I admired before I arrived at Yale, is probably the common link. David was a the T.A. for a class I took with Paul, and it was also during that semester that Stuart came to town and Paul suggested we meet for coffee. We all stayed in touch. I mailed away for the first Dot Dot Dot and it came with a kind note from Stuart inviting me to contribute to a future issue. They're my favorite people to write for, everything I've done with them is something I'm proud of. They create a very special environment for ideas to develop.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;For many designers—and I’d imagine for many other professionals—the act of writing is approached with caution, even fear. Can you talk a little bit about your process for writing (how you approach it)?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;For many designers—and I’d imagine for many other professionals—the act of writing is approached with caution, even fear. Can you talk a little bit about your process for writing (how you approach it)?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Like anything, you get better at it the more you do it. This is why the blog and doing shorter written pieces is important. Every piece I've done has developed a little differently, but just like design it works best for me when there's a collaboration -- in this case, between myself and the editor of the piece. This is why David and Stuart are so important in the writing I've done for Dot Dot Dot. We discuss different approaches, references, send things back-and-forth over a few weeks or even months. Then at a certain point it's time to start writing. Often I have a lot of fragments, sentences or phrasings I like. I also try to have a pool of quotes or quick section outlines floating around in different text windows. The writing almost starts to get &quot;laid out&quot; like a piece of design in this way. I think confidence also builds the more you write, which helps with the fear you have when you start a new piece. I place a huge amount of trust in my ear, the way the language sounds. I've rewritten pieces that were fine language-wise but didn't sound good to my ear -- that's the poet in me I guess. I wrote a Dot Dot Dot piece about the 100th Chapter of Robert Musil's book The Man Without Qualities, and I knew I wanted the piece to end with the biographical image of Musil getting kicked out of the library for smoking, a habit which lead to his early death and left the novel unfinished. I must have rewritten the last paragraph 60 times before I finally got it to sound right.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;How do words and language influence your design work? At any point does semiotic theory become part of the framework for developing a concept? Further, if semiotic theory does play a role, do you find yourself subscribing to any particular tradition -- Saussurean or Peircean?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;How do words and language influence your design work? At any point does semiotic theory become part of the framework for developing a concept? Further, if semiotic theory does play a role, do you find yourself subscribing to any particular tradition -- Saussurean or Peircean?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Words influence me a great deal, though I don't think about language in terms of &lt;a href=&quot;https://en.wikipedia.org/wiki/Semiotics&quot;&gt;semiotics&lt;/a&gt; all that often. I'm very familiar with Saussure and studied him as part of my introduction to literary theory; less so with Pierce but I was just reading up on him now and enjoyed the brief introduction I found -- I'm fascinated by the different attributes and aspects of language, especially paradoxes, and in the thinking they reveal. I love some of language's more formal and sensory qualities. I love the look of language, especially in conceptual art (artists like Lawrence Weiner, Ed Ruscha, John Baldessari, Richard Kostelanetz, Kay Rosen), concrete poetry (poets like Emmett Williams, Dieter Rot, and Eugen Gomringer), along with almost all of Oulipo. I also love the sound of language in more mainstream poetry (poets like Robert Frost, Wallace Stevens, Elizabeth Bishop, Frank O'Hara, and Nicholas Christopher) and contemporary literature (writers like Lydia Davis, Geoff Dyer, Nicholson Baker, and David Means). I like the exploration of genres, modes, reflexivity, and the written text as something that is constructed and allowed to reveal its own construction in order to produce meaning.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Staying on the same topic of influence, does what you have experienced as a professional practitioner come through in your approach to pedagogy? Are there certain elements to the practice &amp;mdash; things that might not be getting addressed in academia &amp;mdash; that you believe should have a stronger presence in design education today?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;Staying on the same topic of influence, does what you have experienced as a professional practitioner come through in your approach to pedagogy? Are there certain elements to the practice &amp;mdash; things that might not be getting addressed in academia &amp;mdash; that you believe should have a stronger presence in design education today?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;It's much like the writing -- my practice as a designer feeds my practice as a teacher, and my practice as a teacher in turn gives me ideas and ways of communicating my practice as a designer. They reinforce one another. In terms of where education's headed, I've just finished a long essay that covers design education over the last decade or more, and I think we're seeing an increased amount of merging between the academic and professional space. In the early '90s the design academy was seen as a space that was alternative to practice and its interest was largely theoretical and formally engaged, and there are some for whom it still functions that way. But I think designers increasingly consider school to be part of the production their own professional lives, and they consider learning to be an ongoing and integral process to the development of work and one's development as a designer. And as a result of this &quot;embeddeness&quot; of the culture of school in everyday design practice, you have more situations where designers are setting up places to learn and exchange ideas -- whether it's conferences, participatory exhibitions, websites, etc. Our own interconnectedness via technology only accelerates and encourages this.&lt;/p&gt;&lt;/p&gt;
 
 
-&lt;p&gt;&lt;strong&gt;We are living in an increasingly techno-visual culture—where combinations of complex technologies and new visual lexicons are born almost constantly. What is the role of [graphic] design in this new culture and how has the field changed over the last several years? What do you feel has been the most significant shift in the design world within the last five years?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;We are living in an increasingly techno-visual culture—where combinations of complex technologies and new visual lexicons are born almost constantly. What is the role of [graphic] design in this new culture and how has the field changed over the last several years? What do you feel has been the most significant shift in the design world within the last five years?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Design is a reflexive mechanism in culture -- it both helps to both set new cultural agendas and reinforce existing ones. The same shifts that have been happening outside the design world for the last five years are helping to shape the most interesting things happening inside design. The more responsive and contextual design can be, the better.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;We seem to be in the midst of a shift—a large body of designers moving away from the “client services” aspect of design, and instead pursuing more entrepreneurial endeavors. Do you feel that this is a result of the designer realizing more can be done with that skill, that design can do more than just sell products—it can sell ideologies and philosophy? Or is this shift in behavior a reaction to something larger?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;We seem to be in the midst of a shift—a large body of designers moving away from the “client services” aspect of design, and instead pursuing more entrepreneurial endeavors. Do you feel that this is a result of the designer realizing more can be done with that skill, that design can do more than just sell products—it can sell ideologies and philosophy? Or is this shift in behavior a reaction to something larger?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;We've always seen designers seek opportunities and models for practice outside of commissioned work -- whether it was setting up publishing programs, advocating for cultural resistance, building institutions that centralize and reinforce design's cultural capital, or finding solace in a world of &quot;self-initiated&quot; projects. In many ways, each of these alternative practice models is a product of their times, and the shift to entrepreneurial endeavors you mention is no different. I think we should, as designers, keep inventing more of these as time goes on. But I think as long as design's central narrative is one of a problem-solving, analytical discipline, then the need and opportunity for service-driven practice will persist and endure. What's notable, if anything, is the degree to which a '90s-era world of self-initiated work has broadened, in the '00s, and with the help of the internet, to a world far beyond the self -- it's now a whole design culture, large enough to support the careers of certain designers without the need for them to frame their practices through service. But I'll sound a cautionary note here: while I think it's good to launch projects that other designers think are great, I think it's much more essential that designers look beyond the design sphere in framing new opportunities for themselves. These are the projects -- self-initiated, entrepreneurial, commissioned, bartered, speculative, or otherwise -- that I look forward to most.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Let’s switch gears and round this out with some Project Projects talk: the studio has an enviable portfolio of clients in the arts and architecture sectors and the work always seems to pulse with intellect. Why focus on those sectors? What design opportunities present themselves in these genres that might not in other sectors—like retail or hospitality?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;Let’s switch gears and round this out with some Project Projects talk: the studio has an enviable portfolio of clients in the arts and architecture sectors and the work always seems to pulse with intellect. Why focus on those sectors? What design opportunities present themselves in these genres that might not in other sectors—like retail or hospitality?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;At first I think there was an appeal in the idea that the arts and architecture represented a intriguingly distinct area of culture from the overtly commercial. While both sectors have clearly commercial aspects and implications, there's also something intangibly noncommercial about them, something belonging to the world of ideas alone. This created an early set of affinities, both to institutions and to people, which developed into a ready source of projects. As time has passed I think we've discovered new and different reasons for our ongoing interest in these sectors. Both art and architecture are &quot;founding disciplines&quot; of graphic design, for example, and as a result share many of the same critical discussions and historical references. And both, as visual and spatial disciplines, have a wealth of aesthetically-motivated individuals who encourage design work that is ambitious and perhaps a bit outside the norm.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Top five books a designer must read that have nothing to do with design?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;Top five books a designer must read that have nothing to do with design?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;These have both nothing and everything to do with design, which is why designers might enjoy them:&lt;/p&gt;
 
@@ -711,7 +569,7 @@ I think the work we’re doing is good, and I believe in it. I like where I work
   &lt;li&gt;Marcel Benabou's &lt;em&gt;&lt;a href=&quot;https://amzn.to/37j4h8U&quot;&gt;Why I Have Not Written Any of My Books&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;strong&gt;For those designers who are walking down that path to starting their own studio: what advice would you like to impart to them?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;question&quot;&gt;&lt;strong&gt;For those designers who are walking down that path to starting their own studio: what advice would you like to impart to them?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I thought it would be fun to come up with 10 of these:&lt;/p&gt;
 
@@ -728,7 +586,6 @@ I think the work we’re doing is good, and I believe in it. I like where I work
   &lt;li&gt;You will never work harder than when you're building something: find balance. Sometimes the best way to solve a creative problem is to take a vacation or read a book.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;/article&gt;
 &lt;/section&gt;
 </content>
  </entry>
@@ -738,105 +595,87 @@ I think the work we’re doing is good, and I believe in it. I like where I work
    <link href="http://localhost:4000/project/wordpress-signup.html"/>
    <updated>2020-08-15T00:00:00-04:00</updated>
    <id>http://localhost:4000/project/wordpress-signup</id>
-   <content type="html">&lt;section class=&quot;grid intro&quot;&gt;
-  &lt;header&gt;
-    &lt;h2&gt;WordPress Signup&lt;/h2&gt;
-  &lt;/header&gt;
-  &lt;article&gt;
-    &lt;p&gt;WordPress is an open-source SaSS application that allows someone to quickly spin-up a blog, website, or online store. As of 2020, its software powers approximately 37% of of all sites on the web.&lt;/p&gt;
-    &lt;p&gt;I joined Automattic, the makers of WordPress, in 2012. During my three years at the company I worked on numerous projects across several different teams. Most notably, I worked with the New User Experience (NUX) and User Onboarding teams to tackle improving our signup flow as well as the experience a new user has once they sign up. Both efforts involved user research, user experience design, and user interface design.&lt;/p&gt;
-  &lt;/article&gt;
-  &lt;footer&gt;
-    &lt;ul&gt;
-      &lt;li&gt;UX Design&lt;/li&gt;
-      &lt;li&gt;UI Design&lt;/li&gt;
-      &lt;li&gt;Strategy&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/footer&gt;
-&lt;/section&gt;
+   <content type="html">&lt;div class=&quot;single-project&quot;&gt;
 
-&lt;section class=&quot;grid image&quot;&gt;
+&lt;header class=&quot;project-intro&quot;&gt;
+  &lt;h2&gt;WordPress Signup&lt;/h2&gt;
+  &lt;ul&gt;
+    &lt;li&gt;UX Design&lt;/li&gt;
+    &lt;li&gt;UI Design&lt;/li&gt;
+    &lt;li&gt;Strategy&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;p&gt;I joined Automattic, the makers of WordPress, in 2012. During my three years at the company I worked on numerous projects across several different teams. Most notably, I worked with the New User Experience (NUX) and User Onboarding teams to tackle improving our signup flow and our new user experience.&lt;/p&gt;
+&lt;/header&gt;
+    
+
   &lt;figure&gt;
-    &lt;img class=&quot;feat-img&quot; src=&quot;/img/wordpress/modular-signup.png&quot; /&gt;
+  &lt;img class=&quot;feat-img&quot; src=&quot;/img/wordpress/modular-signup.png&quot; /&gt;
     &lt;figcaption&gt;
       &lt;p&gt;A modular signup flow architecture allowed us to quickly iterate towards the most performant signup experience.&lt;/p&gt;
     &lt;/figcaption&gt;
   &lt;/figure&gt;
-&lt;/section&gt;
 
-&lt;section class=&quot;grid info&quot;&gt;
-  &lt;article&gt;
+&lt;section&gt;
+&lt;article&gt;
     &lt;h3&gt;Signup Flow&lt;/h3&gt;
     &lt;p&gt;My initial work on the User Onboarding and Growth team involved exploring ways to help increase activation, as many of our new users were abandoning the the signup process midway through. I recruited the help of our Growth Engineering teams to help re-build a signup flow that was modular and would lend itself to quickly re-arranging the steps of the flow. This would allow testing different configurations and quickly learning which sequence performed and which didn't.&lt;/p&gt;
   &lt;/article&gt;
 &lt;/section&gt;
 
-&lt;section class=&quot;grid image&quot;&gt;
   &lt;figure&gt;
   &lt;img class=&quot;feat-img&quot; src=&quot;/img/wordpress/winning-signup.png&quot; /&gt;
     &lt;figcaption&gt;
       &lt;p&gt;The most performant signup flow placed the account details and account activation cta at the end of the flow.&lt;/p&gt;
     &lt;/figcaption&gt;
   &lt;/figure&gt;
-&lt;/section&gt;
 
-&lt;section class=&quot;grid info&quot;&gt;
-  &lt;article&gt;
+&lt;section&gt;
+&lt;article&gt;
     &lt;p&gt;Our current signup flow placed the account creation CTA at the beginning of the experience. Creating an account required little to no effort on the user's part. It was only after account creation that we began asking for further account and profile information.&lt;/p&gt;
   &lt;/article&gt;
 &lt;/section&gt;
 
-&lt;section class=&quot;grid image&quot;&gt;
   &lt;figure&gt;
   &lt;img class=&quot;feat-img&quot; src=&quot;/img/wordpress/signup-flow.png&quot; /&gt;
     &lt;figcaption&gt;
       &lt;p&gt;Certain steps of the signup flow could be strategically removed or rearranged in order to improve overall activation.&lt;/p&gt;
     &lt;/figcaption&gt;
   &lt;/figure&gt;
-&lt;/section&gt;
 
-&lt;section class=&quot;grid info&quot;&gt;
-  &lt;article&gt;
+&lt;section&gt;
+&lt;article&gt;
     &lt;p&gt;I led an effort to redesign a signup flow that would place the account creation at the tail end of the signup flow, with account information, product details, plan selection, and domain name selection preceding the account creation CTA. I was asking our users to invest more time and information before creating their account. I hypothesized that a greater upfront investment in time would lead to a decrease in signup flow abandonment.&lt;/p&gt;
   &lt;/article&gt;
 &lt;/section&gt;
 
-&lt;section class=&quot;grid two-image&quot;&gt;
-  &lt;figure&gt;
+  &lt;figure class=&quot;two-col&quot;&gt;
   &lt;img class=&quot;feat-img&quot; src=&quot;/img/wordpress/domain-info.png&quot; /&gt;
+  &lt;img class=&quot;feat-img&quot; src=&quot;/img/wordpress/domain-payment.png&quot; /&gt;
     &lt;figcaption&gt;
       &lt;p&gt;Privacy protection selection and domain contact info.&lt;/p&gt;
     &lt;/figcaption&gt;
   &lt;/figure&gt;
-  &lt;figure&gt;
-  &lt;img class=&quot;feat-img&quot; src=&quot;/img/wordpress/domain-payment.png&quot; /&gt;
-    &lt;figcaption&gt;
-    &lt;p&gt;Domain payment information and subscription selection.&lt;/p&gt;
-    &lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
 
-&lt;section class=&quot;grid info&quot;&gt;
-  &lt;article&gt;
+&lt;section&gt;
+&lt;article&gt;
     &lt;p&gt;To help mitigate any potential information overload or option paralysis that a user might encounter during the signup flow, the domain registration contact information and payment details were presented to the user after they had activated their account but before they landed in their account dashboard.&lt;/p&gt;
   &lt;/article&gt;
 &lt;/section&gt;
 
-&lt;section class=&quot;grid image&quot;&gt;
   &lt;figure&gt;
   &lt;img class=&quot;feat-img&quot; src=&quot;/img/wordpress/signup-dashboard.png&quot; /&gt;
     &lt;figcaption&gt;
       &lt;p&gt;Empty state dashboard for a new user.&lt;/p&gt;
     &lt;/figcaption&gt;
   &lt;/figure&gt;
-&lt;/section&gt;
 
-&lt;section class=&quot;grid info&quot;&gt;
-  &lt;article&gt;
+&lt;section&gt;
+&lt;article&gt;
     &lt;h3&gt;Outcomes&lt;/h3&gt;
     &lt;p&gt;My work on the signup flow resulted in a &lt;strong&gt;19%&lt;/strong&gt; decrease in &lt;em&gt;flow abandonment&lt;/em&gt; and a &lt;strong&gt;22%&lt;/strong&gt; increase &lt;em&gt;new account activations&lt;/em&gt;.&lt;/p&gt;
   &lt;/article&gt;
 &lt;/section&gt;
+&lt;/div&gt;
 </content>
  </entry>
  
@@ -845,27 +684,21 @@ I think the work we’re doing is good, and I believe in it. I like where I work
    <link href="http://localhost:4000/note/hello-world.html"/>
    <updated>2020-08-14T00:00:00-04:00</updated>
    <id>http://localhost:4000/note/hello-world</id>
-   <content type="html">&lt;section class=&quot;grid  note-intro&quot;&gt;
-  &lt;header&gt;
-    &lt;h2&gt;Hello World&lt;/h2&gt;
-    &lt;time&gt;14 Aug 2020&lt;/time&gt;
-  &lt;/header&gt;
-  &lt;article&gt;
-    &lt;p&gt;I'm back-ish. The site is undergoig a redesign in the hopes that it will serve as a decent enough place to house thoughts and observations about the nature of my relationship with design.&lt;/p&gt;
-  &lt;/article&gt;
-  &lt;footer&gt;
-    &lt;p&gt;
-      
-    &lt;/p&gt;
-  &lt;/footer&gt;
-&lt;/section&gt;
+   <content type="html">&lt;section class=&quot;post&quot;&gt;
 
-&lt;section class=&quot;grid note-words&quot;&gt;
-  &lt;article&gt;
-  &lt;p&gt;I’ve spent the better part of the last several years exploring and questioning my relationship with design. This exploration has primarily been an internal exercise  and to a large intent informed by the nature of my career path: a formally educated graphic designer working as a digital product designer in tech for the past 15 years.&lt;/p&gt;
-  &lt;p&gt;Rather than continue to keep these explorations and observations to myself, I’d like put them out there in the open and perhaps find some answers to the questions I’ve been asking.&lt;/p&gt;
-  &lt;p&gt;All this to say that I’m redesigning my personal site in the hopes that it will serve as a decent enough place to house these observations and questions.&lt;/p&gt;
-  &lt;/article&gt;
+&lt;header class=&quot;post-header&quot;&gt;
+  &lt;h2&gt;Hello World&lt;/h2&gt;
+  &lt;h3&gt;14 Aug 2020&lt;/h3&gt;
+  &lt;p&gt;
+    
+    &lt;a href=&quot;/tag/Note&quot;&gt;&lt;nobr&gt;Note&lt;/nobr&gt;&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/header&gt;
+
+&lt;p&gt;I’ve spent the better part of the last several years exploring and questioning my relationship with design. This exploration has primarily been an internal exercise  and to a large intent informed by the nature of my career path: a formally educated graphic designer working as a digital product designer in tech for the past 15 years.&lt;/p&gt;
+&lt;p&gt;Rather than continue to keep these explorations and observations to myself, I’d like put them out there in the open and perhaps find some answers to the questions I’ve been asking.&lt;/p&gt;
+&lt;p&gt;All this to say that I’m redesigning my personal site in the hopes that it will serve as a decent enough place to house these observations and questions.&lt;/p&gt;
+
 &lt;/section&gt;
 </content>
  </entry>
@@ -875,89 +708,80 @@ I think the work we’re doing is good, and I believe in it. I like where I work
    <link href="http://localhost:4000/project/wordpress-dashboard.html"/>
    <updated>2020-08-13T00:00:00-04:00</updated>
    <id>http://localhost:4000/project/wordpress-dashboard</id>
-   <content type="html">&lt;section class=&quot;grid intro&quot;&gt;
-  &lt;header&gt;
-    &lt;h2&gt;WordPress Dashboard&lt;/h2&gt;
-  &lt;/header&gt;
-  &lt;article&gt;
-    &lt;p&gt;The the signup flow had recently been redesigned to help guide customers more efficiently through setting up a site tailored to their needs, and we began seeing an increase in account activations — but our retention and engagement numbers still left room for improvement. &lt;/p&gt;
-  &lt;/article&gt;
-  &lt;footer&gt;
-    &lt;ul&gt;
-      &lt;li&gt;UX Design&lt;/li&gt;
-      &lt;li&gt;UI Design&lt;/li&gt;
-      &lt;li&gt;Strategy&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/footer&gt;
-&lt;/section&gt;
+   <content type="html">&lt;div class=&quot;single-project&quot;&gt;
 
-&lt;section class=&quot;grid image&quot;&gt;
+&lt;header class=&quot;project-intro&quot;&gt;
+  &lt;h2&gt;WordPress Dashboard&lt;/h2&gt;
+  &lt;ul&gt;
+    &lt;li&gt;UX Design&lt;/li&gt;
+    &lt;li&gt;UI Design&lt;/li&gt;
+    &lt;li&gt;Strategy&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;p&gt;The the signup flow had recently been redesigned to help guide customers more efficiently through setting up a site tailored to their needs, and we began seeing an increase in account activations — but our retention and engagement numbers still left room for improvement. &lt;/p&gt;
+&lt;/header&gt;
+
+
   &lt;figure&gt;
     &lt;img class=&quot;feat-img&quot; src=&quot;/img/wordpress/dashboard-flow.png&quot; /&gt;
     &lt;figcaption&gt;
       &lt;p&gt;From the dashboard, a user could easily purchase a domain or upgrade their account.&lt;/p&gt;
     &lt;/figcaption&gt;
   &lt;/figure&gt;
-&lt;/section&gt;
 
-&lt;section class=&quot;grid info&quot;&gt;
+&lt;section&gt;
   &lt;article&gt;
     &lt;p&gt;Once a user signed up for an account, they would land in their account dashboard. The dashboard was command central, so to speak. From here they could manage their posts, pages, and plugins. Approve or delete comments. Customize their theme. Add, delete, or change permissions for site contributors. It put the user in the driver seat.&lt;/p&gt;
     &lt;p&gt;We hypothesized that if a user could view the fruits of their labor — audience engagement — that they would be more inclined to stick around and continue to create content. User researched confirmed our hunch. Statements like &quot;Are people even reading my content?&quot; and &quot;Do they like what they're reading?&quot; were heard over and over in user interviews.&lt;/p&gt;
   &lt;/article&gt;
 &lt;/section&gt;
 
-&lt;section class=&quot;grid image&quot;&gt;
   &lt;figure&gt;
     &lt;img class=&quot;feat-img&quot; src=&quot;/img/wordpress/dashboard-wireframe.png&quot; /&gt;
   &lt;figcaption&gt;
       &lt;p&gt;New default view in the user's account dashboard was an analytics overview.&lt;/p&gt;
     &lt;/figcaption&gt;
   &lt;/figure&gt;
-&lt;/section&gt;
 
-&lt;section class=&quot;grid info&quot;&gt;
-  &lt;article&gt;
+&lt;section&gt;
+&lt;article&gt;
     &lt;p&gt;As a solution to our user's frustration with not knowing if anyone was engaging with their content, we designed a robust analytics dashboard that would become the default view of the user dashboard. From here the user could quickly get a birds eye view of the traffic breakdown for their site: views, visitors, likes, and comments per day/week/month/years. &lt;/p&gt;
   &lt;/article&gt;
 &lt;/section&gt;
 
-&lt;section class=&quot;grid image&quot;&gt;
   &lt;figure&gt;
     &lt;img class=&quot;feat-img&quot; src=&quot;/img/wordpress/dashboard-design.png&quot; /&gt;
   &lt;figcaption&gt;
       &lt;p&gt;Empty state view of a new user's dashboard, which would become another problem we needed to solve for.&lt;/p&gt;
     &lt;/figcaption&gt;
   &lt;/figure&gt;
-&lt;/section&gt;
 
-&lt;section class=&quot;grid info&quot;&gt;
-  &lt;article&gt;
+&lt;section&gt;
+&lt;article&gt;
     &lt;p&gt;When given the ability to view traffic broken down by post, page, search term, and clicks a user can gauge which content their audience was responding to. To help aid the user in continued refinement of their site's presence online, we built a site checklist into this analytics dashboard that would provide actionable tips and tricks to help them understand how to get the most out of their site.&lt;/p&gt;
   &lt;/article&gt;
 &lt;/section&gt;
 
-&lt;section class=&quot;grid image&quot;&gt;
   &lt;figure&gt;
     &lt;img class=&quot;feat-img&quot; src=&quot;/img/wordpress/dashboard-components.png&quot; /&gt;
   &lt;figcaption&gt;
       &lt;p&gt;A user could select and purchase a domain name from their account dashboard, a process that was executed from a modal in their dashboard.&lt;/p&gt;
     &lt;/figcaption&gt;
   &lt;/figure&gt;
-&lt;/section&gt;
 
-&lt;section class=&quot;grid info&quot;&gt;
-  &lt;article&gt;
+&lt;section&gt;
+&lt;article&gt;
     &lt;p&gt;For users who had opted to skip setting up a domain during signup, we made sure to provide access to that upgrade from their dashboard. If a user chose to upgrade their account, we made sure that they could do so right from their dashboard and that that process kept them in their dashboard view.&lt;/p&gt;
   &lt;/article&gt;
 &lt;/section&gt;
 
-&lt;section class=&quot;grid info&quot;&gt;
-  &lt;article&gt;
+
+&lt;section&gt;
+&lt;article&gt;
     &lt;h3&gt;Outcomes&lt;/h3&gt;
     &lt;p&gt;This work resulted in a 18% increase in overall retention and a 23% increase in engagement after account activation. &lt;/p&gt;
   &lt;/article&gt;
 &lt;/section&gt;
+&lt;/div&gt;
 </content>
  </entry>
  
@@ -966,165 +790,87 @@ I think the work we’re doing is good, and I believe in it. I like where I work
    <link href="http://localhost:4000/project/readmill.html"/>
    <updated>2020-08-12T00:00:00-04:00</updated>
    <id>http://localhost:4000/project/readmill</id>
-   <content type="html">&lt;section class=&quot;grid intro&quot;&gt;
-  &lt;header&gt;
-    &lt;h2&gt;Readmill&lt;/h2&gt;
+   <content type="html">&lt;div class=&quot;single-project&quot;&gt;
+
+&lt;header class=&quot;project-intro&quot;&gt;
+  &lt;h2&gt;Readmill&lt;/h2&gt;
+  &lt;ul&gt;
+    &lt;li&gt;UX Design&lt;/li&gt;
+    &lt;li&gt;UI Design&lt;/li&gt;
+    &lt;li&gt;Strategy&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;p&gt;I moved to Berlin in 2012 to join the Readmill team and help improve the product experience on iOS as well as begin design work for the product's launch on Android that following year.&lt;/p&gt;
   &lt;/header&gt;
-  &lt;article&gt;
-    &lt;p&gt;Readmill was a reading app founded in February 2011 by Henrik Berggren and David Kjelkerud.&lt;/p&gt;
 
-    &lt;p&gt;I moved to Berlin in 2012 to join the Readmill team and help improve the product experience on iOS as well as begin design work for the product's launch on Android that following year.&lt;/p&gt;
-  &lt;/article&gt;
-  &lt;footer&gt;
-    &lt;ul&gt;
-      &lt;li&gt;UX Design&lt;/li&gt;
-      &lt;li&gt;UI Design&lt;/li&gt;
-      &lt;li&gt;Strategy&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/footer&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;grid image&quot;&gt;
   &lt;figure&gt;
     &lt;img class=&quot;feat-img&quot; src=&quot;/img/readmill/signup-flow.png&quot; /&gt;
     &lt;figcaption&gt;
       &lt;p&gt;The signup flow on mobile. Short, succinct, and showcasing our highest traction features.&lt;/p&gt;
     &lt;/figcaption&gt;
   &lt;/figure&gt;
-&lt;/section&gt;
 
-&lt;section class=&quot;grid info&quot;&gt;
-  &lt;article&gt;
+&lt;section&gt;
+&lt;article&gt;
     &lt;p&gt;My initial research looked at ways to improve the onboarding experience and explore ways to  drive activation and engagement. It was important that the signup flow presented customers with high-value features that were compelling enough to drive activation, without the flow becoming cumbersome and time consuming.&lt;/p&gt;
   &lt;/article&gt;
 &lt;/section&gt;
 
-&lt;section class=&quot;grid image&quot;&gt;
   &lt;figure&gt;
   &lt;img class=&quot;feat-img&quot; src=&quot;/img/readmill/reading-flow.png&quot; /&gt;
     &lt;figcaption&gt;
       &lt;p&gt;The reading experience was designed around an experience that was typographically led and with a ui that got out of your way.&lt;/p&gt;
     &lt;/figcaption&gt;
   &lt;/figure&gt;
-&lt;/section&gt;
 
-&lt;section class=&quot;grid info&quot;&gt;
-  &lt;article&gt;
+&lt;section&gt;
+&lt;article&gt;
     &lt;p&gt;The design language of the product was, at this time, already  well established, but it needed to be both maintained and evolved as new features were introduced into the product. I worked closely with David on improving the reading experience: both improving the overall readability as well as introducing a reading session UI that would provide quick access to the book's table of contents, font-size selection, library of highlights, and your main reading library.&lt;/p&gt;
   &lt;/article&gt;
 &lt;/section&gt;
 
-&lt;section class=&quot;grid image&quot;&gt;
   &lt;figure&gt;
   &lt;img class=&quot;feat-img&quot; src=&quot;/img/readmill/social-highlights.png&quot; /&gt;
     &lt;figcaption&gt;
       &lt;p&gt;Introducing the ability to comment on your own and other reader's highlights helped increase overall engagement.&lt;/p&gt;
     &lt;/figcaption&gt;
   &lt;/figure&gt;
-&lt;/section&gt;
 
-&lt;section class=&quot;grid info&quot;&gt;
-  &lt;article&gt;
+&lt;section&gt;
+&lt;article&gt;
     &lt;p&gt;During this phase of refinement work we began exploring ways to drive retention and engagement. We felt confident in the overall reading experience, and we had a solid user base that suggested people were finding value. But one key element of the reading experience remained absent: community. User research indicated that many of the users were active members in their local book clubs. This insight led us to iterate on a feature that would bring this experience into the product. We wanted to introduce a feature that still put the reading experience first, but brought in a nod to the traditional analog book club.&lt;/p&gt;
-
     &lt;p&gt;We introduced a feature that would allow users to leave comments on highlights: their own and others readers' highlights. The juice proved to be worth the squeeze. Engagement after four weeks was up &lt;strong&gt;43%&lt;/strong&gt;. In the ensuing weeks, engagement continued to tick up and we saw a &lt;strong&gt;21%&lt;/strong&gt; increase in new account activations.&lt;/p&gt;
   &lt;/article&gt;
 &lt;/section&gt;
 
-&lt;section class=&quot;grid two-image&quot;&gt;
-  &lt;figure&gt;
+  &lt;figure class=&quot;two-col&quot;&gt;
     &lt;img class=&quot;&quot; src=&quot;/img/readmill/full-library.png&quot; /&gt;
+    &lt;img class=&quot;&quot; src=&quot;/img/readmill/book-import.png&quot; /&gt;
     &lt;figcaption&gt;
       &lt;p&gt;The library was designed to be the most playful screen. It gave users quick access to progress made and estimated time left for each book.&lt;/p&gt;
     &lt;/figcaption&gt;
   &lt;/figure&gt;
-  &lt;figure&gt;
-  &lt;img class=&quot;&quot; src=&quot;/img/readmill/book-import.png&quot; /&gt;
-    &lt;figcaption&gt;
-    &lt;p&gt;Book import allowed users to add books in a range of formats and from a wide array of sources. Imported books were only added to a users library when chosen.&lt;/p&gt;
-    &lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
 
-&lt;section class=&quot;grid info&quot;&gt;
-  &lt;article&gt;
+&lt;section&gt;
+&lt;article&gt;
     &lt;p&gt;Most of Readmill's users were reading multiple books at a time. User research revealed that these users valued the ability to have a steady stream of books to read, so ease and speed of book import was important. In addition, it was important that they be able to quickly view their location in each book they were reading; this often determined how often and in what order they worked through their reading list.&lt;/p&gt;
-
     &lt;p&gt;We designed a reading list UI that became our most playful screen, with each book in the list paying homage to the form of a tangible book. We attached a &lt;em&gt;time spent&lt;/em&gt; progress indicator and a &lt;em&gt;time left&lt;/em&gt; estimate to each book. These indicators gave the reader enough information to determine which book to jump back into.&lt;/p&gt;
   &lt;/article&gt;
 &lt;/section&gt;
 
-&lt;section class=&quot;grid image&quot;&gt;
   &lt;figure&gt;
   &lt;img class=&quot;feat-img&quot; src=&quot;/img/readmill/typography.png&quot; /&gt;
     &lt;figcaption&gt;
       &lt;p&gt;Scala was chosen for its visual nuance and readability.&lt;/p&gt;
     &lt;/figcaption&gt;
   &lt;/figure&gt;
-&lt;/section&gt;
 
-&lt;section class=&quot;grid info&quot;&gt;
-  &lt;article&gt;
+&lt;section&gt;
+&lt;article&gt;
     &lt;p&gt;The most important feature of the app, in my opinion, was hidden in plain sight: the typeface, Scala. A typeface was needed that could be both nuanced and utilitarian; it needed to be a delightful workhorse. Scala fit that bill. It had a range of variants, worked well at both large and small sizes, and, perhaps the most important, its serif and sans-serif skeletons were identical. It could be used effectively throughout the app for a wide array of purposes without sacrificing overall consistency of the complete reading experience.&lt;/p&gt;
   &lt;/article&gt;
 &lt;/section&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Project Template</title>
-   <link href="http://localhost:4000/project/project-template.html"/>
-   <updated>2020-07-04T00:00:00-04:00</updated>
-   <id>http://localhost:4000/project/project-template</id>
-   <content type="html">&lt;header&gt;
-    &lt;h2&gt;Project Template&lt;/h2&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&quot;#&quot;&gt;UX Design&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur.&lt;/p&gt;
-  &lt;/header&gt;
 
-&lt;figure&gt;
-    &lt;img class=&quot;feat-img&quot; src=&quot;/img/fpo.png&quot; /&gt;
-    &lt;figcaption&gt;
-      &lt;p&gt;Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
-    &lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-&lt;section&gt;
-  &lt;article&gt;
-    &lt;p&gt;Maecenas sed diam eget risus varius blandit sit amet non magna. Curabitur blandit tempus porttitor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nulla vitae elit libero, a pharetra augue. Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/p&gt;
-  &lt;/article&gt;
-&lt;/section&gt;
-
-&lt;figure&gt;
-    &lt;img class=&quot;feat&quot; src=&quot;/img/fpo.png&quot; /&gt;
-    &lt;figcaption&gt;
-      &lt;p&gt;Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
-    &lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-&lt;section&gt;
-  &lt;article&gt;
-    &lt;h3&gt;Adipiscing Nullam Ligula&lt;/h3&gt;
-    &lt;p&gt;Maecenas sed diam eget risus varius blandit sit amet non magna. Curabitur blandit tempus porttitor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nulla vitae elit libero, a pharetra augue. Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/p&gt;
-    &lt;h4&gt;Adipiscing Nullam Ligula&lt;/h4&gt;
-    &lt;p&gt;Maecenas sed diam eget risus varius blandit sit amet non magna. Curabitur blandit tempus porttitor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nulla vitae elit libero, a pharetra augue. Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/p&gt;
-  &lt;/article&gt;
-&lt;/section&gt;
-
-&lt;figure&gt;
-    &lt;img class=&quot;&quot; src=&quot;/img/fpo.png&quot; /&gt;
-    &lt;figcaption&gt;
-    &lt;p&gt;Morbi leo risus, porta ac consectetur.&lt;/p&gt;
-    &lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-&lt;section&gt;
-  &lt;article&gt;
-    &lt;p&gt;Maecenas sed diam eget risus varius blandit sit amet non magna. Curabitur blandit tempus porttitor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nulla vitae elit libero, a pharetra augue. Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/p&gt;
-  &lt;/article&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </content>
  </entry>
  

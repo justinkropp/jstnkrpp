@@ -144,13 +144,12 @@ figure.two-col {
   figcaption {
     grid-column: 1 / 3;
     grid-row: 2 / 2;
-    border: 1px dashed rgba($white, 0.10);
   }
 }
 
 p.question {
   display: inline;
-  background: rgba($white, 0.10);
+  background: rgba($white, 0.06);
 }
 
 
@@ -224,7 +223,22 @@ header[role=banner] {
 }
 
 footer[role=footer] {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
   margin: 6em 0 0 0;
+  p {
+    position: absolute;
+    right: 0;
+    margin: 0;
+    font-family: "Scala Sans", sans-serif;
+    font-size: 1.1rem;
+    text-align: left;
+    line-height: 1;
+    a {
+      color: rgba($white, 0.5);
+    }
+  }
 }
 
 
@@ -254,7 +268,7 @@ section.introduction {
 section.profile.page-intro {
   margin: 0 auto 6em;
   // border: 1px dashed rgba($white, 0.10);
-  h2 {
+  p {
     font-size: 1.5rem;
     text-align: center;
   }
@@ -264,6 +278,15 @@ section.profile {
   max-width: 40em;
   margin: auto;
   // border: 1px dashed rgba($white, 0.10);
+  div.two-col {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 1.6em;
+    grid-template-rows: auto;
+    ul {
+      width: 100%;
+    }
+  }
 }
 
 // Posts
@@ -381,13 +404,27 @@ section.projects {
       display: flex;
       flex-direction: row;
       justify-content: center;
-      margin: 0 auto 2.4em auto;
+      margin: 1.2em auto 2.4em auto;
       li {
-        margin: 0 .5em;
+        margin: 0;
         font-family: "Scala Sans", sans-serif;
         font-size: 1rem;
         text-align: center;
         line-height: 1;
+        color: rgba($white, 0.35);
+        &:after {
+          content: " ";
+          display: inline-block;
+          width: .5em;
+          height: 1px;
+          margin: 0 .5em .18em .5em;
+          background: rgba($white, 0.25);
+        }
+        &:last-child {
+          &:after {
+            content: none;
+          }
+        }
         a {
           color: rgba($white, 0.5);
         }

@@ -6,37 +6,19 @@ category: note
 tags: interview
 ---
 
-<section class="grid  note-intro">
-  <header>
-    <h2>{{ page.title }}</h2>
-    <time>{{ page.date | date_to_string }}</time>
-  </header>
-  <article>
-    <p>Joe is a designer, cyclist, and founding partner at the highly successful Work&co &amp; a design and technology company with an impressive and growing list of client engagements.</p>
-  </article>
-  <footer>
-    <p>
-    {% for tag in page.tags %}
-      {% capture tag_name %}{{ tag }}{% endcapture %}
-      <a href="/tag/{{ tag_name }}"><nobr>{{ tag_name }}</nobr></a>
-    {% endfor %}
-    </p>
-  </footer>
-</section>
+<section class="post">
 
-<section class="grid note-image">
-  <figure>
-    <img src="/img/joe_stewart.png">
-    <figcaption>
-      <p>Photo by Bridget Baker</p>
-    </figcaption>
-  </figure>
-</section>
+<header class="post-header">
+  <h2>{{ page.title }}</h2>
+  <h3>{{ page.date | date_to_string }}</h3>
+  <p>{% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><nobr>{{ tag_name }}</nobr></a>
+  {% endfor %}</p>
+</header>
 
-<section class="grid note-words">
-<article>
 
-<p><strong><a href="https://work.co">Work &amp; Co</a> has built up an already impressive list of accomplishments — everything from the company leadership, to the culture, to the body of work. What are you most proud of so far?</strong></p>
+<p class="question"><strong><a href="https://work.co">Work &amp; Co</a> has built up an already impressive list of accomplishments — everything from the company leadership, to the culture, to the body of work. What are you most proud of so far?</strong></p>
 
 <p>That’s very nice of you to say. I’m most proud of some very, very basic things:
 I think the work we’re doing is good, and I believe in it. I like where I work, and I think my co-workers do too.</p>
@@ -47,11 +29,11 @@ I think the work we’re doing is good, and I believe in it. I like where I work
 
 <p>I will also have to say I’m very proud of the integrity we have shown as a company to only work on the things we really care about. We really love digital product design and think it’s important (and fun to work on). That’s all we do – just focus on digital product design. At times, it can be hard to say no to some opportunities that come your way that could grow our business, or whatever – but – in the end I’m really proud that we all simply agree upon what’s important to us, and that really is those two simple things. Work. Company. I really love that.</p>
 
-<p><strong>Conversely, is there something you can now say you would have done differently?</strong></p>
+<p class="question"><strong>Conversely, is there something you can now say you would have done differently?</strong></p>
 
 <p>I think one thing that was a little hard in the beginning was that from day 1, Work & Co was on two coasts. I was on the west coast, and everyone else was on the east coast. I really (selfishly) wanted to move back to the west coast. I have two little boys, and it’s hard to do that in Brooklyn, so I moved to Portland right when the company started. This probably made things much harder than they needed to be… and I think I owe the NY guys a few beers over it, but – it’s all worked out. We now have about 80 people in New York, 20 in Portland, and another 20 in Rio. It worked out in the end, but it was a bit of a learning experience in terms of starting a company across multiple offices from day one.</p>
 
-<p><strong>Work & Co only makes digital products and services, yet the philosophy seems to give a pretty distinct nod to traditional principles of graphic design: type, form, play, wit. How important is it that these critical elements of our discipline remain elevated in the work you produce?</strong></p>
+<p class="question"><strong>Work & Co only makes digital products and services, yet the philosophy seems to give a pretty distinct nod to traditional principles of graphic design: type, form, play, wit. How important is it that these critical elements of our discipline remain elevated in the work you produce?</strong></p>
 
 <p>I’m glad you brought this up. So – all of us working in digital right now are the first generation of digital designers. We’re making the rules as we go. There are no greats to look up to or masters to study. It’s very hard to find inspiration in digital design, considering there isn’t much history there.</p>
 
@@ -61,17 +43,17 @@ I think the work we’re doing is good, and I believe in it. I like where I work
 
 <p>So, because there really isn’t much of this very high design for digital yet, we study the past to try to design for today.</p>
 
-<p><strong>Similarly, how important is it, as a designer, to remain close to and understand the work of design pioneers, like Saville, Vignelli, and Rams to name just one — those that truly helped shape our discipline?</strong></p>
+<p class="question"><strong>Similarly, how important is it, as a designer, to remain close to and understand the work of design pioneers, like Saville, Vignelli, and Rams to name just one — those that truly helped shape our discipline?</strong></p>
 
 <p>To me it’s number one. This is the start. You have to know where this stuff came from. You have to understand what worked: How did these guys make it work? What was different about the way they thought or designed or practiced or approached that somehow made their work better than everyone else’s? So much of design is just reshuffling of existing ideas – and – to not know where the idea started from is very limiting to a designer.</p>
 
 <p>It’s really similar to music. You can hear a song now and know that this band is just ripping off another band, and you’re better off listening to the original. Chances are the original guys probably had a much better album because they knew what they were doing. Same with design. If you look at the album covers before Saville, and the album covers that came after Saville… well… you know what I think: just study Saville.</p>
 
-<p><strong>Do you find that their work is still able to inspire day after day despite a growing artificial patina vying for our affection? I suppose what I’m asking is: can the digital design work of today possess soul? An ethos?</strong></p>
+<p class="question"><strong>Do you find that their work is still able to inspire day after day despite a growing artificial patina vying for our affection? I suppose what I’m asking is: can the digital design work of today possess soul? An ethos?</strong></p>
 
 <p>I think their work - the people you mentioned (Saville, Vignelli, Rams) - is still able to inspire day after day and forever. It will never stop. It’s in the pantheon. These people produced some of the best design the world has ever seen. To me, this is like asking if the statue of David is still inspiring even though it’s old. There are very few people working at this level now, and I don’t think any of them are working in digital. I don’t think digital, as a medium, is there yet. It’s not mature enough to ‘possess a soul’ as you say. It’s just too early. It will get there, and we have seen hints of it. Maybe the closest example I can think of is the original iOS. One of our Partners, Felipe, says it’s the best digital design that has been made, and he might be right. It was simple, and everyone on earth from age two to ninety-nine knew how to use it, and it did some very complicated things. Maybe something like that has an ethos. But, short of that… no… I don’t think we’re there yet. Maybe the Google home page? I don’t know… it’s all still black & white TV. We’re not anywhere near Vignelli, Saville, or Rams.</p>
 
-<p><strong>I’ve noticed that you refer to design as a discipline. What does that mean for you? Is it methodology? A mindset? What is it that makes how you view design a discipline?</strong></p>
+<p class="question"><strong>I’ve noticed that you refer to design as a discipline. What does that mean for you? Is it methodology? A mindset? What is it that makes how you view design a discipline?</strong></p>
 
 <p>Design is a hard thing to talk about. Most of design is very boring and laborious and terrifying. It’s mostly sitting at a desk or in a room and not knowing what to do. And that not knowing is scary and uncomfortable, and you spend half your time in that mindset, then the other half very meticulously and laboriously executing the idea to solve the problem. It’s “fear fear fear, a-ha!, dull dull dull” – that’s design. Because of that it’s tough to talk about - so I use words like discipline or medium to be able to talk about this really long sort of amorphous thing.</p>
 
@@ -79,7 +61,7 @@ I think the work we’re doing is good, and I believe in it. I like where I work
 
 <p>I don’t think design is a process. I don’t think there is a pattern for good ideas. Having a good idea is not replicable. I don’t think that sticky-notes and whiteboarding will necessarily lead to a good idea. Maybe sometimes it does, but the truth is nobody knows where the next good idea is. And that’s scary. So we have to trick ourselves into not being scared, and try to think of design as something that you can study and get better at. And, you do. You get better over time, but it’s hard. It’s not any less scary, but it gets easier to express your ideas, and your ideas get better. I often think about a saying used in road cycling, “it never stops hurting, you just get faster.” I think that’s what design is like.</p>
 
-<p><strong>Speaking of inspiration and discipline, I’ve found that it is integral to find inspiration outside of one’s profession in order to stay engaged, focused, sane. The same with discipline. What are these for you? I gather you’re a road cyclist (same here). How does the personal Joe nurture the professional Joe?</strong></p>
+<p class="question"><strong>Speaking of inspiration and discipline, I’ve found that it is integral to find inspiration outside of one’s profession in order to stay engaged, focused, sane. The same with discipline. What are these for you? I gather you’re a road cyclist (same here). How does the personal Joe nurture the professional Joe?</strong></p>
 
 <p>It’s easy to get stuck, or tired, or burnt out on design – especially if you stay on one project for a long time. I’ve spent years on the same project, and after a while you can’t tell what a good idea is anymore. Looking outside of design to reset is something everyone does. Some people do it with more intent than others, and I don’t know that I specifically do other activities in order to improve my design, but I think it probably happens accidentally. We all have those moments of surprising problem solving when we don’t expect it… in the middle of the night, or in the shower. It feels like the tip of the pencil gets dull, and you have to stop in order to sharpen it.</p>
 
@@ -89,7 +71,7 @@ I think the work we’re doing is good, and I believe in it. I like where I work
 
 <p>The principles of chess also translate across other parts of life. A big part of it is the process of how to make a decision. You have to take your time and try to make the best choice, which is not necessarily the most obvious. This applies very well to design, of course. I have become better at taking the time to analyze the situation. I think chess taught me that. And it comes up about 100 times a day, so slowing down to try to make the best decision with intent is an incredibly useful habit. It’s also super fun, surprisingly social, and very addictive. It’s also the best game for iPhone, so you can always play someone wherever you are: it’s magic.</p>
 
-<p><strong>You mentioned in a recent exchange that part of what you wanted to change with starting Work & Co is the amount of time you spend actually designing — doing the thing we were trained to do: think and design. Do you at all feel like we’re moving away from these activities — thinking critically, engaging in discourse, drawing, designing with intent? In other words, do you feel we’re moving forward?</strong></p>
+<p class="question"><strong>You mentioned in a recent exchange that part of what you wanted to change with starting Work & Co is the amount of time you spend actually designing — doing the thing we were trained to do: think and design. Do you at all feel like we’re moving away from these activities — thinking critically, engaging in discourse, drawing, designing with intent? In other words, do you feel we’re moving forward?</strong></p>
 
 <p>I really love designing. It’s fun. And for whatever reason, I had to start a company in order to be able to get back to doing it. I’ve had the chance to do a lot of introspection about what I want to get out of my career – and out of design in general. There were times in my life that being good was the goal, or being well known, or doing something that is remembered, or leaving a legacy, or changing the world or something. After years of thought, I think I have settled on what is important to me, as far as work goes. I want to enjoy what I’m doing. That’s it. On a daily basis, every day, I want to go into the office and enjoy what I’m doing. I enjoy designing. I enjoy working through ideas. I enjoy working with other designers, developers, and strategists. I don’t enjoy spreadsheets, PowerPoint, staff resourcing, or thinking about profit margins. Seems simple enough, but to set up an environment where you can actually do this is pretty tricky.</p>
 
@@ -97,7 +79,7 @@ I think the work we’re doing is good, and I believe in it. I like where I work
 
 <p>I really just want to design. The act itself is the joy. That is the big revelation. The designing itself is the goal. It’s not any more complicated than that.</p>
 
-<p><strong>I referenced a growing artificial patina earlier — in part a jab at the pervasive nature of startup culture. What’s your take on what the startup landscape has done to design culture as a whole?</strong></p>
+<p class="question"><strong>I referenced a growing artificial patina earlier — in part a jab at the pervasive nature of startup culture. What’s your take on what the startup landscape has done to design culture as a whole?</strong></p>
 
 <p>Boy, I’m divided on this one. Start-up culture is pretty divisive right now, and design gets mixed into it.</p>
 
@@ -109,7 +91,7 @@ I think the work we’re doing is good, and I believe in it. I like where I work
 
 <p>I think the net is actually positive. There is a whole community that didn’t really exist before that thinks design matters, and that is a good thing.</p>
 
-<p><strong>My relationship with design can, at times, be quite tempestuous. There’s been times I wanted to just walk away. What is it that keeps you coming back day after day and working to get better? Has there ever been a time when you’ve thought “fuck it, I’m done”?</strong></p>
+<p class="question"><strong>My relationship with design can, at times, be quite tempestuous. There’s been times I wanted to just walk away. What is it that keeps you coming back day after day and working to get better? Has there ever been a time when you’ve thought “fuck it, I’m done”?</strong></p>
 
 <p>Oh man, yes, for sure. It’s hard to stay in it. It’s tiring. It’s taxing, and it never gets easier. Design is always hard and always scary. That will never go away.</p>
 
@@ -119,7 +101,7 @@ I think the work we’re doing is good, and I believe in it. I like where I work
 
 <p>Also, working with other designers I look up to is a big one. This comes from my partners, my clients, and also younger designers at Work & Co. It’s so inspiring to see a young designer create a really thoughtful prototype and to work with them on promoting their craft. It makes me want to push harder on my own work.</p>
 
-<p><strong>Are there any books that you would say have been influential in shaping your career? Ones you consistently come back to for inspiration?</strong></p>
+<p class="question"><strong>Are there any books that you would say have been influential in shaping your career? Ones you consistently come back to for inspiration?</strong></p>
 
 <p>We could’ve just talked about this! I have a pretty decent collection of design books at home and in the office. I am always on the lookout for new ones. One of the nice things about living in Portland is that there is an amazing book store a few blocks from the office called Powell’s. I sneak over there on my lunch break pretty often to go look for books.</p>
 
@@ -131,7 +113,7 @@ I think the work we’re doing is good, and I believe in it. I like where I work
 
 <p>I picked up an <a href="#">Otl Aicher</a> retrospective which is gorgeous. I only knew him from his 1972 Munich Olympic work, and it was eye opening to see his commercial design. I didn’t know he did the Lufthansa mark which is one of my favorites.</p>
 
-<p>I liked the <a href="#">Erik Spiekerman</a> book <a href="#">Hello</a>, I am Erik – it’s just nice to see a designer who is still working and killing it talk about design. <a href="#">Same goes for How To by <a href="#">Michael Beirut. Both of these books are fantastic.</p>
+<p>I liked the <a href="#">Erik Spiekerman</a> book <a href="#">Hello</a>, I am Erik – it’s just nice to see a designer who is still working and killing it talk about design. Same goes for <a href="#">How To</a> by Michael Beirut. Both of these books are fantastic.</p>
 
 <p>Also, I really like to read about design companies. I try to study the successes and failures of design companies in order to try to make good decisions with Work & Co. There is a book about Unimark called, Unimark International: The Design of Business and the Business Design, which is great. It’s the story of a superstar design company growing too big too fast and taking on too many things and exploding. Lots of great stories and lessons there.</p>
 
@@ -149,7 +131,7 @@ I think the work we’re doing is good, and I believe in it. I like where I work
 
 <p>Swiss Graphic Design: The Origins and Growth of an International Style — This is the book that I recommend for people when they are getting started, or people who don’t study design as part of their job. When developers or strategists ask for a book recommendation I always go with this one.</p>
 
-<p><strong>I think we all have something — something small — that we look forward to each day. Something that helps set the tone for the day or view it through a softened lense. For me, it’s that first cup of coffee after meditation each morning. What is it for you?</strong></p>
+<p class="question"><strong>I think we all have something — something small — that we look forward to each day. Something that helps set the tone for the day or view it through a softened lense. For me, it’s that first cup of coffee after meditation each morning. What is it for you?</strong></p>
 
 <p>I usually wake up around 5AM and go to the gym – it sucks to get up, but it puts my head on straight. I have more patience, concentration, and stamina when I work out. It’s good for the body, but it’s great for the brain. If you want to have a good day at the office, have a good day at the gym first. I’m skinny and weak and I’m sure I look silly trying to bench press, but, just going makes me feel 100x better.</p>
 
@@ -157,10 +139,12 @@ I think the work we’re doing is good, and I believe in it. I like where I work
 
 <p>I also love to read a bit right when I get to the office. Just reading for 10 minutes or so before I settle in gets my mind straight. I try to do it first thing. It sets to tone for the day. It’s nice to read just to calm yourself, but also, if you’re reading about great work it lets you see the big picture and not sweat the small problems so much.</p>
 
-<p><strong>You’ve already built a solid foundation for Work & Co. What’s next? Where do you and your team want to take it?</strong></p>
+<p class="question"><strong>You’ve already built a solid foundation for Work & Co. What’s next? Where do you and your team want to take it?</strong></p>
 
 <p>The ultimate goal is to be the first great digital design firm. Since the medium is so new, there really isn’t one yet. So – I think the best ad agency is W+K. I think the best branding agency is Wolf Ollins. I think the best graphic design agency is Pentagram. Best digital company? There isn’t one yet. We want to be that. As with the others, it will take time to get there. The plan is to take it slow, make long-term decisions, and focus. Focus on the work, on the people we work with, on making sure people have a good life, on recruiting the best people in the world, on making amazing products with our clients… repeat.</p>
 
 <p>Again, it’s super simple – we want to keep getting better at what we’re already doing. Keep sharpening the pencil. Keep improving, learning new skills, improving our design theory, just keep going. And as we keep going, we want to make sure we’re enjoying every moment of it.</p>
 
 <p>For me, simply to design is the goal, the reward is in the act itself. My next step? Just keep designing.</p>
+
+</section>

@@ -4,29 +4,19 @@ title: Profile
 ---
 
 <section class="profile page-intro">
-  <h2>About Justin</h2>
+  <p>Justin Kropp is User Experience Designer who is exploring the intersection of design, systems, and research.</p>
 </section>
 
 <section class="profile">
-  <article>
-    <p>Justin Kropp is a Senior UX Designer at Mozilla, working on human-centered design and innovation across the Mozilla and Firefox family of products. His work at Mozilla spans user research, user experience design, user interface design, and systems and mechanics design and implementation.</p>
-    <p>Previous to his current role, Justin was a Senior UX Designer and Team Lead at Automattic, the makers of Wordpress, leading a cross functional team on projects spanning user onboarding, new user experience, and retention and engagement initiatives.</p>
-    <p>Justin has been guest lecturer at Maryland Institute College of Art, an Assistant Professor at The University of Baltimore,  and a guest critic and lecturer at the Indiana University of Pennsylvania. He is a graduate of Maryland Institute College of Art.</p>
-  </article>
-  <footer>
-    <h3>Elsewhere + Resume</h3>
-    <ul>
-      <li><a href="/Kropp-Resume.pdf">Resume <span>(PDF)</span></a></li>
-      <li><a href="https://www.linkedin.com/in/jstnkrpp/">LinkedIn</a></li>
-    </ul>
-  </footer>
-</section>
-
-<section class="profile">
-  <article>
-    <h2>Expertise and Practice Areas</h2>
-    <p>His expertise and interests sit at the intersection of graphic design, typography, design systems, and digital  product design and strategy.</p>
-
+<article>
+  <p>Justin Kropp is a Senior UX Designer at Mozilla, working on human-centered design and innovation across the Mozilla and Firefox family of products. His work at Mozilla spans user research, user experience design, user interface design, and systems and mechanics design and implementation.</p>
+  <p>Previous to his current role, Justin was a Senior UX Designer and Team Lead at Automattic, the makers of Wordpress, leading a cross functional team on projects spanning user onboarding, new user experience, and retention and engagement initiatives.</p>
+  <p>Justin has been guest lecturer at Maryland Institute College of Art, an Assistant Professor at The University of Baltimore,  and a guest critic and lecturer at the Indiana University of Pennsylvania. He is a graduate of Maryland Institute College of Art.</p>
+  
+  <h2>Expertise and Practice Areas</h2>
+  <p>His expertise and interests sit at the intersection of graphic design, typography, design systems, and digital  product design and strategy.</p>
+  
+  <div class="two-col">
     <ul>
       <li>Interaction design</li>
       <li>Rapid prototyping</li>
@@ -43,12 +33,9 @@ title: Profile
       <li>Organizational design</li>
       <li>Governance and Workflows</li>
     </ul>
-  </article>
-</section>
-
-<section class="profile">
-  <article>
-    <h2>Speaking Engagements</h2>
-    <p>Code and Creativity, Maryland Institute College of Art, AIGA Chattanooga, Society of Work, University of Baltimore, Automattic</p>
-  </article>
+  </div>
+  
+  <h2>Speaking Engagements</h2>
+  <p>Code and Creativity, Maryland Institute College of Art, AIGA Chattanooga, Society of Work, University of Baltimore, Automattic</p>
+</article>
 </section>
