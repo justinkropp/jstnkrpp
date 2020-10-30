@@ -35,14 +35,17 @@ h1 {
   font-size: 1.7rem; }
 
 h2 {
+  margin-top: 1.5em;
   margin-bottom: .5em;
   font-size: 1.5rem; }
 
 h3 {
+  margin-top: 1.5em;
   margin-bottom: .5em;
   font-size: 1.4rem; }
 
 h4 {
+  margin-top: 1.5em;
   margin-bottom: .5em;
   font-size: 1.3rem; }
 
@@ -171,6 +174,8 @@ footer[role=footer] {
     line-height: 1; }
     footer[role=footer] p a {
       color: rgba(255, 255, 255, 0.5); }
+  footer[role=footer] span.material-icons {
+    font-size: 18px; }
 
 main {
   display: flex;
@@ -186,6 +191,7 @@ section.introduction {
     text-align: center; }
 
 section.profile.page-intro {
+  max-width: 32em;
   margin: 0 auto 6em; }
   section.profile.page-intro p {
     font-size: 1.5rem;
@@ -200,7 +206,11 @@ section.profile {
     column-gap: 1.6em;
     grid-template-rows: auto; }
     section.profile div.two-col ul {
-      width: 100%; }
+      width: 100%;
+      margin-top: 0; }
+      section.profile div.two-col ul li {
+        padding: .25em 0;
+        border-bottom: 1px dashed rgba(255, 255, 255, 0.06); }
 
 section.writing.page-intro {
   max-width: 32em;

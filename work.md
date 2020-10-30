@@ -4,7 +4,7 @@ title: Projects
 ---
 
 <section class="work page-intro">
-  <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus.</p>
+  <p>A curated selection of recent and not-so-recent notable projects.</p>
 </section>
 
 <section class="projects">

@@ -17,14 +17,14 @@ baseurl:             ""
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Justin Kropp
+  url:               http://jstnkrpp.com
+  email:             justinkropp@gmail.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              
 
 # Gems
 plugins:
