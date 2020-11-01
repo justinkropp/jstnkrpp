@@ -103,8 +103,16 @@ figure.two-col {
     grid-row: 2 / 2; }
 
 p.question {
+  position: relative;
   display: inline;
   background: rgba(255, 255, 255, 0.06); }
+  p.question:before {
+    position: absolute;
+    left: -2.6em;
+    content: "Q";
+    display: inline-block;
+    padding: 0 .4em;
+    background: rgba(255, 255, 255, 0.06); }
 
 ul {
   padding: 0;
@@ -140,7 +148,11 @@ footer[role=footer] ul {
     line-height: 1; }
     header[role=banner] ul li a,
     footer[role=footer] ul li a {
-      color: rgba(255, 255, 255, 0.5); }
+      color: rgba(255, 255, 255, 0.5);
+      transition: all 200ms ease; }
+      header[role=banner] ul li a:hover,
+      footer[role=footer] ul li a:hover {
+        color: rgba(255, 255, 255, 0.99); }
 
 header[role=banner] {
   display: flex;
@@ -155,7 +167,10 @@ header[role=banner] {
     text-align: left;
     line-height: 1; }
     header[role=banner] h1 a {
-      color: rgba(255, 255, 255, 0.5); }
+      color: rgba(255, 255, 255, 0.5);
+      transition: all 200ms ease; }
+      header[role=banner] h1 a:hover {
+        color: rgba(255, 255, 255, 0.99); }
   header[role=banner] nav {
     margin: auto; }
 
@@ -173,7 +188,10 @@ footer[role=footer] {
     text-align: left;
     line-height: 1; }
     footer[role=footer] p a {
-      color: rgba(255, 255, 255, 0.5); }
+      color: rgba(255, 255, 255, 0.5);
+      transition: all 200ms ease; }
+      footer[role=footer] p a:hover {
+        color: rgba(255, 255, 255, 0.99); }
   footer[role=footer] span.material-icons {
     font-size: 18px; }
 

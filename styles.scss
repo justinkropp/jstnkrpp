@@ -151,8 +151,17 @@ figure.two-col {
 }
 
 p.question {
+  position: relative;
   display: inline;
   background: rgba($white, 0.06);
+  &:before {
+    position: absolute;
+    left: -2.6em;
+    content: "Q";
+    display: inline-block;
+    padding: 0 .4em;
+    background: rgba($white, 0.06);
+  }
 }
 
 
@@ -199,6 +208,10 @@ footer[role=footer] {
       line-height: 1;
       a {
         color: rgba($white, 0.5);
+        transition: all 200ms ease;
+        &:hover {
+          color: rgba($white, 0.99);
+        }
       }
     }
   }
@@ -218,6 +231,10 @@ header[role=banner] {
     line-height: 1;
     a {
       color: rgba($white, 0.5);
+      transition: all 200ms ease;
+      &:hover {
+        color: rgba($white, 0.99);
+      }
     }
   }
   nav {
@@ -240,6 +257,10 @@ footer[role=footer] {
     line-height: 1;
     a {
       color: rgba($white, 0.5);
+      transition: all 200ms ease;
+      &:hover {
+        color: rgba($white, 0.99);
+      }
     }
   }
   span.material-icons {
