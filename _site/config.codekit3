@@ -1085,12 +1085,12 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"/_site/Kropp-Resume.pdf": {
+	"/_site/Kropp Resume.pdf": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/_site/Kropp-Resume.pdf",
+		"oAP": "/_site/Kropp Resume.pdf",
 		"oF": 0
 		},
 	"/_site/LICENSE.md": {
@@ -1152,6 +1152,14 @@
 		"oAP": "/_site/note/rob-giampietro.html",
 		"oF": 0
 		},
+	"/_site/page10/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/page10/index.html",
+		"oF": 0
+		},
 	"/_site/page2/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1184,6 +1192,38 @@
 		"oAP": "/_site/page5/index.html",
 		"oF": 0
 		},
+	"/_site/page6/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/page6/index.html",
+		"oF": 0
+		},
+	"/_site/page7/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/page7/index.html",
+		"oF": 0
+		},
+	"/_site/page8/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/page8/index.html",
+		"oF": 0
+		},
+	"/_site/page9/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/page9/index.html",
+		"oF": 0
+		},
 	"/_site/profile.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1192,9 +1232,49 @@
 		"oAP": "/_site/profile.html",
 		"oF": 0
 		},
+	"/_site/project/firefox-homepage.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/project/firefox-homepage.html",
+		"oF": 0
+		},
+	"/_site/project/mozilla-protocol.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/project/mozilla-protocol.html",
+		"oF": 0
+		},
+	"/_site/project/readmill.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/project/readmill.html",
+		"oF": 0
+		},
+	"/_site/project/wordpress-dashboard.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/project/wordpress-dashboard.html",
+		"oF": 0
+		},
+	"/_site/project/wordpress-signup.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/project/wordpress-signup.html",
+		"oF": 0
+		},
 	"/_site/public/apple-touch-icon-precomposed.png": {
 		"ft": 32768,
-		"iS": 1430,
+		"iS": 831,
 		"oA": 0,
 		"oAP": "/_site/public/apple-touch-icon-precomposed.png",
 		"oF": 0,
@@ -1879,12 +1959,12 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"/Kropp-Resume.pdf": {
+	"/Kropp Resume.pdf": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/Kropp-Resume.pdf",
+		"oAP": "/Kropp Resume.pdf",
 		"oF": 0
 		},
 	"/LICENSE.md": {
@@ -2003,13 +2083,24 @@
 		"oAP": "/template.html",
 		"oF": 0
 		},
-	"/work.html": {
+	"/work.md": {
 		"cB": 0,
-		"ft": 8192,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/work.html",
-		"oF": 0
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"/writing.md": {
 		"cB": 0,

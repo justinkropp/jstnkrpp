@@ -52,7 +52,7 @@ body {
 
 body {
   height: 100%;
-  background: $burgandy-dk;
+  background: $white;
 }
 
 h1, h2, h3, h4 {
@@ -62,7 +62,7 @@ h1, h2, h3, h4 {
 }
 
 h1 {
- font-size: 1.7rem; 
+ font-size: 1.7rem;
 }
 
 h2 {
@@ -179,15 +179,7 @@ a {
 // Page Composition
 
 .wrapper {
-  width: 100%;
-  min-height: 100vh;
-  padding: 2em;
   .container {
-    width: 100%;
-    min-height: calc(100vh - 4em);
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
   }
 }
 

@@ -24,7 +24,7 @@ body {
 
 body {
   height: 100%;
-  background: #2a2525; }
+  background: rgba(255, 255, 255, 0.99); }
 
 h1, h2, h3, h4 {
   font-weight: normal;
@@ -121,17 +121,6 @@ ul {
 a {
   color: rgba(255, 255, 255, 0.85);
   text-decoration: none; }
-
-.wrapper {
-  width: 100%;
-  min-height: 100vh;
-  padding: 2em; }
-  .wrapper .container {
-    width: 100%;
-    min-height: calc(100vh - 4em);
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between; }
 
 header[role=banner] ul,
 footer[role=footer] ul {
