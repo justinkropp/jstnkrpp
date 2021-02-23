@@ -3,7 +3,7 @@ permalink:           none
 
 # Setup
 title:               Justin Kropp
-tagline:             
+tagline:             Designer based out of Chattanooga, TN
 url:                 http://jstnkrpp.com
 paginate:            1
 baseurl:             ""
@@ -24,7 +24,7 @@ author:
 # Custom vars
 version:             2.0.0
 github:
-  repo:
+  repo:              
 
 # Gems
 plugins:
