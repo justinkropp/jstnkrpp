@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Justin Kropp</title>
- <link href="http://jstnkrpp.com/atom.xml" rel="self"/>
- <link href="http://jstnkrpp.com/"/>
- <updated>2021-02-23T08:41:22-05:00</updated>
- <id>http://jstnkrpp.com</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2021-02-24T09:46:50-05:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Justin Kropp</name>
    <email>justinkropp@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Discourse, Duane King</title>
-   <link href="http://jstnkrpp.com/note/duane-king.html"/>
+   <link href="http://localhost:4000/note/duane-king.html"/>
    <updated>2020-08-22T00:00:00-04:00</updated>
-   <id>http://jstnkrpp.com/note/duane-king</id>
+   <id>http://localhost:4000/note/duane-king</id>
    <content type="html">&lt;section class=&quot;post&quot;&gt;
 
 &lt;header class=&quot;post-header&quot;&gt;
@@ -110,9 +110,9 @@
  
  <entry>
    <title>Mozilla Protocol</title>
-   <link href="http://jstnkrpp.com/project/mozilla-protocol.html"/>
+   <link href="http://localhost:4000/project/mozilla-protocol.html"/>
    <updated>2020-08-21T00:00:00-04:00</updated>
-   <id>http://jstnkrpp.com/project/mozilla-protocol</id>
+   <id>http://localhost:4000/project/mozilla-protocol</id>
    <content type="html">&lt;div class=&quot;single-project&quot;&gt;
 
 &lt;header class=&quot;project-intro&quot;&gt;
@@ -212,9 +212,9 @@
  
  <entry>
    <title>Where's the Finish Line?</title>
-   <link href="http://jstnkrpp.com/note/finish-line.html"/>
+   <link href="http://localhost:4000/note/finish-line.html"/>
    <updated>2020-08-20T00:00:00-04:00</updated>
-   <id>http://jstnkrpp.com/note/finish-line</id>
+   <id>http://localhost:4000/note/finish-line</id>
    <content type="html">&lt;section class=&quot;post&quot;&gt;
 
   &lt;header class=&quot;post-header&quot;&gt;
@@ -260,9 +260,9 @@
  
  <entry>
    <title>Firefox Homepage</title>
-   <link href="http://jstnkrpp.com/project/firefox-homepage.html"/>
+   <link href="http://localhost:4000/project/firefox-homepage.html"/>
    <updated>2020-08-19T00:00:00-04:00</updated>
-   <id>http://jstnkrpp.com/project/firefox-homepage</id>
+   <id>http://localhost:4000/project/firefox-homepage</id>
    <content type="html">&lt;div class=&quot;single-project&quot;&gt;
 
 &lt;header class=&quot;project-intro&quot;&gt;
@@ -347,9 +347,9 @@
  
  <entry>
    <title>Discourse, Joe Stewart</title>
-   <link href="http://jstnkrpp.com/note/joe-stewart.html"/>
+   <link href="http://localhost:4000/note/joe-stewart.html"/>
    <updated>2020-08-18T00:00:00-04:00</updated>
-   <id>http://jstnkrpp.com/note/joe-stewart</id>
+   <id>http://localhost:4000/note/joe-stewart</id>
    <content type="html">&lt;section class=&quot;post&quot;&gt;
 
 &lt;header class=&quot;post-header&quot;&gt;
@@ -497,9 +497,9 @@ I think the work we’re doing is good, and I believe in it. I like where I work
  
  <entry>
    <title>Rob Giampietro</title>
-   <link href="http://jstnkrpp.com/note/rob-giampietro.html"/>
+   <link href="http://localhost:4000/note/rob-giampietro.html"/>
    <updated>2020-08-16T00:00:00-04:00</updated>
-   <id>http://jstnkrpp.com/note/rob-giampietro</id>
+   <id>http://localhost:4000/note/rob-giampietro</id>
    <content type="html">&lt;section class=&quot;post&quot;&gt;
 
 &lt;header class=&quot;post-header&quot;&gt;
@@ -592,9 +592,9 @@ I think the work we’re doing is good, and I believe in it. I like where I work
  
  <entry>
    <title>WordPress Signup</title>
-   <link href="http://jstnkrpp.com/project/wordpress-signup.html"/>
+   <link href="http://localhost:4000/project/wordpress-signup.html"/>
    <updated>2020-08-15T00:00:00-04:00</updated>
-   <id>http://jstnkrpp.com/project/wordpress-signup</id>
+   <id>http://localhost:4000/project/wordpress-signup</id>
    <content type="html">&lt;div class=&quot;single-project&quot;&gt;
 
 &lt;header class=&quot;project-intro&quot;&gt;
@@ -604,9 +604,9 @@ I think the work we’re doing is good, and I believe in it. I like where I work
     &lt;li&gt;UI Design&lt;/li&gt;
     &lt;li&gt;Strategy&lt;/li&gt;
   &lt;/ul&gt;
-  &lt;p&gt;I joined Automattic, the makers of WordPress, in 2012. During my three years at the company I worked on numerous projects across several different teams. Most notably, I worked with the New User Experience (NUX) and User Onboarding teams to tackle improving our signup flow and our new user experience.&lt;/p&gt;
+  &lt;p&gt;I joined Automattic, the makers of WordPress, in 2014. During my tenure at the company I worked on numerous projects across several different teams. Most notably, I worked with the New User Experience (NUX) and User Onboarding teams to tackle improving our signup flow and our new user experience.&lt;/p&gt;
 &lt;/header&gt;
-    
+
 
   &lt;figure&gt;
   &lt;img class=&quot;feat-img&quot; src=&quot;/img/wordpress/modular-signup.png&quot; /&gt;
@@ -680,10 +680,117 @@ I think the work we’re doing is good, and I believe in it. I like where I work
  </entry>
  
  <entry>
+   <title>Wordpress Signup</title>
+   <link href="http://localhost:4000/wordpress-signup.html"/>
+   <updated>2020-08-15T00:00:00-04:00</updated>
+   <id>http://localhost:4000/wordpress-signup</id>
+   <content type="html">&lt;!DOCTYPE html&gt;
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;meta charset=&quot;utf-8&quot;/&gt;
+	&lt;meta name=&quot;layout&quot; content=&quot;project&quot;/&gt;
+	&lt;title&gt;WordPress Signup&lt;/title&gt;
+	&lt;meta name=&quot;excerpt&quot; content=&quot;User research, UX, and UI design for a modular testing framework for a more performant WordPress.com signup flow.&quot;/&gt;
+	&lt;meta name=&quot;featured-image&quot; content=&quot;/wordpress/wordpress-signup.png&quot;/&gt;
+	&lt;meta name=&quot;featured-image-alt&quot; content=&quot;Featured image alt&quot;/&gt;
+	&lt;meta name=&quot;category&quot; content=&quot;project&quot;/&gt;
+	&lt;meta name=&quot;tags&quot; content=&quot;UI&quot;/&gt;
+	&lt;meta name=&quot;published&quot; content=&quot;true&quot;/&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;div class=&quot;single-project&quot;&gt;
+
+&lt;header class=&quot;project-intro&quot;&gt;
+  &lt;h2&gt;WordPress Signup&lt;/h2&gt;
+  &lt;ul&gt;
+    &lt;li&gt;UX Design&lt;/li&gt;
+    &lt;li&gt;UI Design&lt;/li&gt;
+    &lt;li&gt;Strategy&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;p&gt;I joined Automattic, the makers of WordPress, in 2014. During my tenure at the company I worked on numerous projects across several different teams. Most notably, I worked with the New User Experience (NUX) and User Onboarding teams to tackle improving our signup flow and our new user experience.&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;p&gt;&lt;figure&gt;
+&lt;img class=&quot;feat-img&quot; src=&quot;/img/wordpress/modular-signup.png&quot;&gt;
+&lt;figcaption&gt;
+ &lt;p&gt;A modular signup flow architecture allowed us to quickly iterate towards the most performant signup experience.&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;section&gt;
+&lt;article&gt;
+    &lt;h3&gt;Signup Flow&lt;/h3&gt;
+    &lt;p&gt;My initial work on the User Onboarding and Growth team involved exploring ways to help increase activation, as many of our new users were abandoning the the signup process midway through. I recruited the help of our Growth Engineering teams to help re-build a signup flow that was modular and would lend itself to quickly re-arranging the steps of the flow. This would allow testing different configurations and quickly learning which sequence performed and which didn't.&lt;/p&gt;
+  &lt;/article&gt;
+&lt;/section&gt;
+
+&lt;p&gt;&lt;figure&gt;
+&lt;img class=&quot;feat-img&quot; src=&quot;/img/wordpress/winning-signup.png&quot;&gt;
+&lt;figcaption&gt;
+ &lt;p&gt;The most performant signup flow placed the account details and account activation cta at the end of the flow.&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;section&gt;
+&lt;article&gt;
+    &lt;p&gt;Our current signup flow placed the account creation CTA at the beginning of the experience. Creating an account required little to no effort on the user's part. It was only after account creation that we began asking for further account and profile information.&lt;/p&gt;
+  &lt;/article&gt;
+&lt;/section&gt;
+
+&lt;p&gt;&lt;figure&gt;
+&lt;img class=&quot;feat-img&quot; src=&quot;/img/wordpress/signup-flow.png&quot;&gt;
+&lt;figcaption&gt;
+ &lt;p&gt;Certain steps of the signup flow could be strategically removed or rearranged in order to improve overall activation.&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;section&gt;
+&lt;article&gt;
+    &lt;p&gt;I led an effort to redesign a signup flow that would place the account creation at the tail end of the signup flow, with account information, product details, plan selection, and domain name selection preceding the account creation CTA. I was asking our users to invest more time and information before creating their account. I hypothesized that a greater upfront investment in time would lead to a decrease in signup flow abandonment.&lt;/p&gt;
+  &lt;/article&gt;
+&lt;/section&gt;
+
+&lt;p&gt;&lt;figure class=&quot;two-col&quot;&gt;
+&lt;img class=&quot;feat-img&quot; src=&quot;/img/wordpress/domain-info.png&quot;&gt;
+&lt;img class=&quot;feat-img&quot; src=&quot;/img/wordpress/domain-payment.png&quot;&gt;
+&lt;figcaption&gt;
+ &lt;p&gt;Privacy protection selection and domain contact info.&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;section&gt;
+&lt;article&gt;
+    &lt;p&gt;To help mitigate any potential information overload or option paralysis that a user might encounter during the signup flow, the domain registration contact information and payment details were presented to the user after they had activated their account but before they landed in their account dashboard.&lt;/p&gt;
+  &lt;/article&gt;
+&lt;/section&gt;
+
+&lt;p&gt;&lt;figure&gt;
+&lt;img class=&quot;feat-img&quot; src=&quot;/img/wordpress/signup-dashboard.png&quot;&gt;
+&lt;figcaption&gt;
+ &lt;p&gt;Empty state dashboard for a new user.&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;section&gt;
+&lt;article&gt;
+    &lt;h3&gt;Outcomes&lt;/h3&gt;
+    &lt;p&gt;My work on the signup flow resulted in a &lt;strong&gt;19%&lt;/strong&gt; decrease in &lt;em&gt;flow abandonment&lt;/em&gt; and a &lt;strong&gt;22%&lt;/strong&gt; increase &lt;em&gt;new account activations&lt;/em&gt;.&lt;/p&gt;
+  &lt;/article&gt;
+&lt;/section&gt;
+
+
+&lt;/body&gt;
+&lt;/html&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
    <title>Hello World</title>
-   <link href="http://jstnkrpp.com/note/hello-world.html"/>
+   <link href="http://localhost:4000/note/hello-world.html"/>
    <updated>2020-08-14T00:00:00-04:00</updated>
-   <id>http://jstnkrpp.com/note/hello-world</id>
+   <id>http://localhost:4000/note/hello-world</id>
    <content type="html">&lt;section class=&quot;post&quot;&gt;
 
 &lt;header class=&quot;post-header&quot;&gt;
@@ -705,9 +812,9 @@ I think the work we’re doing is good, and I believe in it. I like where I work
  
  <entry>
    <title>WordPress Dashboard</title>
-   <link href="http://jstnkrpp.com/project/wordpress-dashboard.html"/>
+   <link href="http://localhost:4000/project/wordpress-dashboard.html"/>
    <updated>2020-08-13T00:00:00-04:00</updated>
-   <id>http://jstnkrpp.com/project/wordpress-dashboard</id>
+   <id>http://localhost:4000/project/wordpress-dashboard</id>
    <content type="html">&lt;div class=&quot;single-project&quot;&gt;
 
 &lt;header class=&quot;project-intro&quot;&gt;
@@ -787,9 +894,9 @@ I think the work we’re doing is good, and I believe in it. I like where I work
  
  <entry>
    <title>Readmill</title>
-   <link href="http://jstnkrpp.com/project/readmill.html"/>
+   <link href="http://localhost:4000/project/readmill.html"/>
    <updated>2020-08-12T00:00:00-04:00</updated>
-   <id>http://jstnkrpp.com/project/readmill</id>
+   <id>http://localhost:4000/project/readmill</id>
    <content type="html">&lt;div class=&quot;single-project&quot;&gt;
 
 &lt;header class=&quot;project-intro&quot;&gt;
@@ -838,7 +945,7 @@ I think the work we’re doing is good, and I believe in it. I like where I work
 &lt;section&gt;
 &lt;article&gt;
     &lt;p&gt;During this phase of refinement work we began exploring ways to drive retention and engagement. We felt confident in the overall reading experience, and we had a solid user base that suggested people were finding value. But one key element of the reading experience remained absent: community. User research indicated that many of the users were active members in their local book clubs. This insight led us to iterate on a feature that would bring this experience into the product. We wanted to introduce a feature that still put the reading experience first, but brought in a nod to the traditional analog book club.&lt;/p&gt;
-    &lt;p&gt;We introduced a feature that would allow users to leave comments on highlights: their own and others readers' highlights. The juice proved to be worth the squeeze. Engagement after four weeks was up &lt;strong&gt;43%&lt;/strong&gt;. In the ensuing weeks, engagement continued to tick up and we saw a &lt;strong&gt;21%&lt;/strong&gt; increase in new account activations.&lt;/p&gt;
+    &lt;p&gt;We introduced a feature that would allow users to leave comments on highlights: their own and others readers' highlights. The juice proved to be worth the squeeze. Engagement after four weeks was up &lt;strong&gt;38%&lt;/strong&gt;. In the ensuing weeks, engagement continued to tick up and we saw a &lt;strong&gt;21%&lt;/strong&gt; increase in new account activations.&lt;/p&gt;
   &lt;/article&gt;
 &lt;/section&gt;
 

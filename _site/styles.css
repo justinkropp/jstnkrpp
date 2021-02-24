@@ -1,19 +1,15 @@
 @font-face {
   font-family: "Scala";
   src: url("/fonts/ScalaWeb.woff") format("woff"), url("/fonts/ScalaWeb.eot") format("eot"); }
-
 @font-face {
   font-family: "Scala Italic";
   src: url("/fonts/ScalaWeb-Ita.woff") format("woff"), url("/fonts/ScalaWeb-Ita.eot") format("eot"); }
-
 @font-face {
   font-family: "Scala Bold";
   src: url("/fonts/ScalaWeb-Bold.woff") format("woff"), url("/fonts/ScalaWeb-Bold.eot") format("eot"); }
-
 @font-face {
   font-family: "Scala Sans";
   src: url("/fonts/ScalaSansWebPro.woff") format("woff"), url("/fonts/ScalaSansWebPro.eot") format("eot"); }
-
 * {
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
