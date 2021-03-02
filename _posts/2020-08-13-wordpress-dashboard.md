@@ -79,7 +79,7 @@ published: true
 <section>
 <article>
     <h3>Outcomes</h3>
-    <p>This work resulted in a 18% increase in overall retention and a 23% increase in engagement after account activation. </p>
+    <p>This work resulted in a 11% increase in overall retention and a 17% increase in engagement after account activation. </p>
   </article>
 </section>
 </div>
