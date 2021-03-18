@@ -4,21 +4,22 @@ title: Profile
 ---
 
 <section class="profile page-intro">
-  <p>Justin Kropp is UX Designer who is exploring the intersection of design, systems, and research.</p>
+  <p>Hi. My name is Justin Kropp. Most people call me Kropp. I'm a designer working on human-centered digital products.</p>
 </section>
 
 <section class="profile">
 <article>
-  <p>Justin Kropp is a Senior UX Designer at Mozilla, working on human-centered design and innovation across the Mozilla and Firefox family of products. His work at Mozilla spans user research, user experience design, user interface design, and systems design and implementation.</p>
-  
-  <p>Previous to his current role, Justin was a Senior UX Designer and Team Lead at Automattic, the makers of Wordpress, leading a cross functional team on projects spanning user onboarding, new user experience, and retention and engagement initiatives.</p>
-  
-  <p>Justin has been guest lecturer at Maryland Institute College of Art, an Assistant Professor at The University of Baltimore,  and a guest critic and lecturer at the Indiana University of Pennsylvania. He is a graduate of the Maryland Institute College of Art graduate program in Graphic Design.</p>
-  
-  <h2>Expertise and Practice Areas</h2>
-  <p>His expertise and interests sit at the intersection of graphic design, typography, design systems, digital product design, and research.</p>
-  
-  <h2>Speaking Engagements</h2>
-  <p>Code and Creativity, Maryland Institute College of Art, AIGA Chattanooga, Society of Work, University of Baltimore, Automattic</p>
+  <p>I'm currently a Staff User Experience Designer at Mozilla, working on a range of projects — most notably Pocket. A lot of what I do at Mozilla involves trying to make our products easier to use and provide more value to as many of our customers as possible. My work spans experience design, user research, systems thinking, user interface design, and product strategy.</p>
+
+  <p>Most recently, I managed teams and led various projects for Automattic — the makers of WordPress.</p>
+
+  <p>Previously, I was the design lead for an iOS and Android reading app called Readmill. It's no longer around, but damn it was good while it was.</p>
+
+  <h2>Interests</h2>
+  <p>I'm interested in the application of contemporary design concepts to digital products and how these concepts can support — and augment — the user's experience of them.</p>
+
+  <p>My design <em>practice</em> explores the intersection of traditional principles of graphic design and digital product development and how this exploration can lead to simple, but novel, user interfaces. I call it practice because that what it is: practice. I enjoy pushing into new territory, learning new things, and applying what I've learned to make things just a little bit better than before.</p>
+
+  <p>You could say that this is where my design philosophy, and work, finds its locus.</p>
 </article>
 </section>
