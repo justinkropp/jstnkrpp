@@ -6,7 +6,6 @@ $white: rgba(255, 255, 255, 0.99);
 * {
     box-sizing: border-box;
     font-feature-settings: "kern" 1,"liga" 1,"onum" 1;
-
     -webkit-font-smoothing:antialiased;
 }
 
@@ -20,7 +19,7 @@ body {
 
 body {
   height: 100%;
-  background: $black;
+  background: #3D2D2D;
 }
 
 a {
