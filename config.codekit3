@@ -9,92 +9,20 @@
 	],
 "creatorBuild": "32147",
 "files": {
-	"/.sass-cache/db4f3e2cbe7a7e772ba3ec55cc633597f1dd197f/_base.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/.sass-cache/db4f3e2cbe7a7e772ba3ec55cc633597f1dd197f/_base.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/db4f3e2cbe7a7e772ba3ec55cc633597f1dd197f/_code.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/.sass-cache/db4f3e2cbe7a7e772ba3ec55cc633597f1dd197f/_code.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/db4f3e2cbe7a7e772ba3ec55cc633597f1dd197f/_layout.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/.sass-cache/db4f3e2cbe7a7e772ba3ec55cc633597f1dd197f/_layout.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/db4f3e2cbe7a7e772ba3ec55cc633597f1dd197f/_masthead.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/.sass-cache/db4f3e2cbe7a7e772ba3ec55cc633597f1dd197f/_masthead.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/db4f3e2cbe7a7e772ba3ec55cc633597f1dd197f/_message.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/.sass-cache/db4f3e2cbe7a7e772ba3ec55cc633597f1dd197f/_message.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/db4f3e2cbe7a7e772ba3ec55cc633597f1dd197f/_pagination.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/.sass-cache/db4f3e2cbe7a7e772ba3ec55cc633597f1dd197f/_pagination.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/db4f3e2cbe7a7e772ba3ec55cc633597f1dd197f/_posts.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/.sass-cache/db4f3e2cbe7a7e772ba3ec55cc633597f1dd197f/_posts.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/db4f3e2cbe7a7e772ba3ec55cc633597f1dd197f/_syntax.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/.sass-cache/db4f3e2cbe7a7e772ba3ec55cc633597f1dd197f/_syntax.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/db4f3e2cbe7a7e772ba3ec55cc633597f1dd197f/_type.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/.sass-cache/db4f3e2cbe7a7e772ba3ec55cc633597f1dd197f/_type.scssc",
-		"oF": 0
-		},
-	"/.sass-cache/db4f3e2cbe7a7e772ba3ec55cc633597f1dd197f/_variables.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/.sass-cache/db4f3e2cbe7a7e772ba3ec55cc633597f1dd197f/_variables.scssc",
-		"oF": 0
-		},
 	"/build/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/.gitignore",
+		"oF": 0
+		},
+	"/CNAME": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/CNAME",
 		"oF": 0
 		},
 	"/css/main.css": {
